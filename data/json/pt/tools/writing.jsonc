@@ -1,0 +1,69 @@
+
+[
+  {
+    "name": "Ritr",
+    "description": "Rytr é um assistente de redação de IA que ajuda a criar conteúdo de alta qualidade para diversos fins, desde textos de marketing até redação criativa, com tons e estilos personalizáveis.",
+    "url": "/pt/article/rytr",
+    "website": "https://rytr.me",
+    "tags": [
+      "Escrita de IA",
+      "Geração de conteúdo",
+      "Redação"
+    ]
+  },
+  {
+    "name": "Jaspe",
+    "description": "Jasper é uma plataforma abrangente de conteúdo de IA que ajuda as equipes a criar conteúdo original e de marca em grande escala, com recursos avançados de escrita de IA e ferramentas de colaboração.",
+    "url": "/pt/article/jasper",
+    "website": "https://jasper.ai",
+    "tags": [
+      "Conteúdo de IA",
+      "Colaboração em equipe",
+      "Voz da marca"
+    ]
+  },
+  {
+    "name": "Copiar IA",
+    "description": "Copy AI é uma ferramenta de redação baseada em IA que gera conteúdo criativo para marketing, mídia social e comunicações empresariais com vários modelos e estilos.",
+    "url": "/pt/article/copyai",
+    "website": "https://copy.ai",
+    "tags": [
+      "Redação",
+      "Conteúdo de marketing",
+      "Mídias Sociais"
+    ]
+  },
+  {
+    "name": "Chama de texto",
+    "description": "Textblaze é uma ferramenta de expansão e automação de texto que ajuda os usuários a criar e gerenciar snippets, modelos e fluxos de trabalho automatizados para uma escrita eficiente.",
+    "url": "/pt/article/textblaze",
+    "website": "https://blaze.today",
+    "tags": [
+      "Expansão de texto",
+      "Automação",
+      "Produtividade"
+    ]
+  },
+  {
+    "name": "Sudowrite",
+    "description": "Sudowrite é um assistente de escrita de IA projetado especificamente para escritores criativos, oferecendo desenvolvimento de histórias, criação de personagens e ferramentas de aprimoramento de escrita.",
+    "url": "/pt/article/sudowrite",
+    "website": "https://sudowrite.com",
+    "tags": [
+      "Escrita Criativa",
+      "Desenvolvimento de histórias",
+      "Assistente de Redação"
+    ]
+  },
+  {
+    "name": "Writesonic",
+    "description": "Writesonic é uma plataforma abrangente de escrita de IA que ajuda os usuários a criar conteúdo de alta qualidade para diversos fins, desde textos de marketing até escrita criativa, com tons e estilos personalizáveis.",
+    "url": "/pt/article/writesonic",
+    "website": "https://writesonic.com",
+    "tags": [
+      "Escrita de IA",
+      "Geração de conteúdo",
+      "Redação"
+    ]
+  }
+]

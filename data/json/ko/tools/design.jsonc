@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "룩카",
+    "description": "Looka는 고급 기계 학습 알고리즘을 사용하여 전문 로고, 브랜드 아이덴티티, 마케팅 자료를 만드는 데 도움을 주는 AI 기반 브랜드 디자인 플랫폼입니다.",
+    "url": "/ko/article/looka",
+    "website": "https://looka.com",
+    "tags": [
+      "로고 디자인",
+      "브랜딩",
+      "AI 디자인"
+    ]
+  },
+  {
+    "name": "클립드롭",
+    "description": "Clipdrop은 디자이너와 콘텐츠 제작자를 위한 고급 이미지 편집, 배경 제거 및 크리에이티브 도구를 제공하는 AI 기반 크리에이티브 제품군입니다.",
+    "url": "/ko/article/clipdrop",
+    "website": "https://clipdrop.co",
+    "tags": [
+      "이미지 편집",
+      "배경 제거",
+      "크리에이티브 스위트"
+    ]
+  },
+  {
+    "name": "자동 그리기",
+    "description": "Autodraw는 손으로 그린 ​​낙서를 인식하고 향상시키는 기계 학습을 사용하여 간단한 스케치를 세련된 그림으로 바꾸는 Google AI 실험입니다.",
+    "url": "/ko/article/autodraw",
+    "website": "https://autodraw.com",
+    "tags": [
+      "스케치 인식",
+      "그리기 도구",
+      "AI 아트"
+    ]
+  },
+  {
+    "name": "밴스 AI",
+    "description": "Vance AI는 업스케일링, 노이즈 제거, 창의적인 효과를 포함하여 인공 지능으로 구동되는 고급 이미지 향상 및 처리 도구를 제공합니다.",
+    "url": "/ko/article/vanceai",
+    "website": "https://vanceai.com",
+    "tags": [
+      "이미지 향상",
+      "AI 처리",
+      "사진 편집"
+    ]
+  },
+  {
+    "name": "디자인 AI",
+    "description": "Designs AI는 인공지능을 이용해 로고, 영상, 배너, 목업 제작을 자동화하는 종합 디자인 플랫폼입니다.",
+    "url": "/ko/article/designsai",
+    "website": "https://designs.ai",
+    "tags": [
+      "자동화된 설계",
+      "마케팅 자료",
+      "브랜드 디자인"
+    ]
+  }
+]

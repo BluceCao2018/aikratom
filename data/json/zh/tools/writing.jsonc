@@ -1,0 +1,69 @@
+
+[
+  {
+    "name": "里特尔",
+    "description": "Rytr 是一款人工智能写作助手，可帮助创建用于各种目的的高质量内容，从营销文案到创意写作，并具有可定制的语气和风格。",
+    "url": "/zh/article/rytr",
+    "website": "https://rytr.me",
+    "tags": [
+      "人工智能写作",
+      "内容生成",
+      "文案写作"
+    ]
+  },
+  {
+    "name": "碧玉",
+    "description": "Jasper 是一个综合性 AI 内容平台，可帮助团队利用先进的 AI 写作功能和协作工具大规模创建原创的品牌内容。",
+    "url": "/zh/article/jasper",
+    "website": "https://jasper.ai",
+    "tags": [
+      "人工智能内容",
+      "团队协作",
+      "品牌声音"
+    ]
+  },
+  {
+    "name": "复制人工智能",
+    "description": "Copy AI 是一款人工智能驱动的文案工具，可以使用各种模板和样式生成用于营销、社交媒体和商业通信的创意内容。",
+    "url": "/zh/article/copyai",
+    "website": "https://copy.ai",
+    "tags": [
+      "文案写作",
+      "营销内容",
+      "社交媒体"
+    ]
+  },
+  {
+    "name": "文字火焰",
+    "description": "Textblaze 是一款文本扩展和自动化工具，可帮助用户创建和管理片段、模板和自动化工作流程，以实现高效写作。",
+    "url": "/zh/article/textblaze",
+    "website": "https://blaze.today",
+    "tags": [
+      "文本扩展",
+      "自动化",
+      "生产率"
+    ]
+  },
+  {
+    "name": "须藤写",
+    "description": "Sudowrite是一款专为创意作家设计的AI写作助手，提供故事发展、角色创作和写作增强工具。",
+    "url": "/zh/article/sudowrite",
+    "website": "https://sudowrite.com",
+    "tags": [
+      "创意写作",
+      "故事发展",
+      "写作助理"
+    ]
+  },
+  {
+    "name": "写声波",
+    "description": "Writesonic 是一个综合性人工智能写作平台，可帮助用户创建用于各种目的的高质量内容，从营销文案到创意写作，并具有可定制的语气和风格。",
+    "url": "/zh/article/writesonic",
+    "website": "https://writesonic.com",
+    "tags": [
+      "人工智能写作",
+      "内容生成",
+      "文案写作"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+
+[
+  {
+    "name": "리터",
+    "description": "Rytr는 맞춤형 톤과 스타일을 사용하여 마케팅 카피부터 창의적인 글쓰기에 이르기까지 다양한 목적에 맞는 고품질 콘텐츠를 만드는 데 도움을 주는 AI 글쓰기 도우미입니다.",
+    "url": "/ko/article/rytr",
+    "website": "https://rytr.me",
+    "tags": [
+      "AI 글쓰기",
+      "콘텐츠 생성",
+      "카피라이팅"
+    ]
+  },
+  {
+    "name": "벽옥",
+    "description": "Jasper는 팀이 고급 AI 작성 기능과 협업 도구를 사용하여 대규모로 독창적인 브랜드 콘텐츠를 만들 수 있도록 지원하는 포괄적인 AI 콘텐츠 플랫폼입니다.",
+    "url": "/ko/article/jasper",
+    "website": "https://jasper.ai",
+    "tags": [
+      "AI 콘텐츠",
+      "팀 협업",
+      "브랜드 보이스"
+    ]
+  },
+  {
+    "name": "AI 복사",
+    "description": "Copy AI는 다양한 템플릿과 스타일을 사용하여 마케팅, 소셜 미디어, 비즈니스 커뮤니케이션을 위한 창의적인 콘텐츠를 생성하는 AI 기반 카피라이팅 도구입니다.",
+    "url": "/ko/article/copyai",
+    "website": "https://copy.ai",
+    "tags": [
+      "카피라이팅",
+      "마케팅 콘텐츠",
+      "소셜 미디어"
+    ]
+  },
+  {
+    "name": "텍스트 블레이즈",
+    "description": "Textblaze는 사용자가 효율적인 글쓰기를 위해 스니펫, 템플릿 및 자동화된 작업 흐름을 생성하고 관리하는 데 도움이 되는 텍스트 확장 및 자동화 도구입니다.",
+    "url": "/ko/article/textblaze",
+    "website": "https://blaze.today",
+    "tags": [
+      "텍스트 확장",
+      "오토메이션",
+      "생산력"
+    ]
+  },
+  {
+    "name": "Sudowrite",
+    "description": "Sudowrite는 창의적인 작가를 위해 특별히 설계된 AI 글쓰기 도우미로, 스토리 개발, 캐릭터 생성 및 글쓰기 향상 도구를 제공합니다.",
+    "url": "/ko/article/sudowrite",
+    "website": "https://sudowrite.com",
+    "tags": [
+      "문예창작",
+      "스토리 전개",
+      "작문 도우미"
+    ]
+  },
+  {
+    "name": "라이소닉",
+    "description": "Writesonic은 사용자 정의 가능한 톤과 스타일을 사용하여 마케팅 카피부터 창의적인 글쓰기에 이르기까지 다양한 목적에 맞는 고품질 콘텐츠를 사용자가 만들 수 있도록 돕는 포괄적인 AI 글쓰기 플랫폼입니다.",
+    "url": "/ko/article/writesonic",
+    "website": "https://writesonic.com",
+    "tags": [
+      "AI 글쓰기",
+      "콘텐츠 생성",
+      "카피라이팅"
+    ]
+  }
+]

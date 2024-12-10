@@ -1,0 +1,286 @@
+[
+    {
+        "name": "ClickUp",
+        "description": "ClickUp is an all-in-one productivity platform that combines project management, task automation, and team collaboration tools to streamline workflows and increase efficiency.",
+        "url": "/en/article/clickup",
+        "website": "https://clickup.com",
+        "tags": [
+            "Project Management",
+            "Task Automation",
+            "Team Collaboration"
+        ]
+    },
+    {
+        "name": "Drift",
+        "description": "Drift is a conversational marketing and sales platform that uses AI-powered chatbots and automation to engage website visitors and convert them into qualified leads.",
+        "url": "/en/article/drift",
+        "website": "https://drift.com",
+        "tags": [
+            "Conversational Marketing",
+            "Sales Automation",
+            "Lead Generation"
+        ]
+    },
+    {
+        "name": "Outreach",
+        "description": "Outreach is a sales engagement platform that automates and optimizes customer interactions through AI-driven insights and workflow automation.",
+        "url": "/en/article/outreach",
+        "website": "https://outreach.io",
+        "tags": [
+            "Sales Engagement",
+            "Workflow Automation",
+            "Customer Intelligence"
+        ]
+    },
+    {
+        "name": "Emplifi",
+        "description": "Emplifi is a unified customer experience platform that automates social media management, customer care, and marketing activities through AI-powered tools.",
+        "url": "/en/article/emplifi",
+        "website": "https://emplifi.io",
+        "tags": [
+            "Customer Experience",
+            "Social Media Automation",
+            "Marketing Analytics"
+        ]
+    },
+    {
+        "name": "CharacterGen",
+        "description": "CharacterGen trasforma singole immagini in precisi modelli di personaggi 3D utilizzando la tecnologia di calibrazione della posa multi-vista, ideale per sviluppatori di giochi e animatori",
+        "url": "/it/article/charactergen",
+        "website": "https://character-gen.com",
+        "tags": [
+            "Modellazione 3D",
+            "Creazione del personaggio",
+            "Sviluppo del gioco",
+            "Animazione"
+        ]
+    },
+    {
+        "name": "AI Anime Generator",
+        "description": "L'AI Anime Generator è uno strumento versatile per gli appassionati di anime e gli artisti digitali per trasformare idee e foto in splendide immagini e video in stile anime",
+        "url": "/it/article/ai-anime-generator",
+        "website": "https://www.aianimegen.com",
+        "tags": [
+            "AIart",
+            "Generazione di anime",
+            "Elaborazione delle immagini",
+            "Arte digitale"
+        ]
+    },
+    {
+        "name": "Generatore di ragazze AI",
+        "description": "Trasforma i tuoi sussurri fantasiosi in personaggi vividi e viventi, da guerrieri coraggiosi a maghi saggi, e osserva la creatività prendere vita",
+        "url": "/it/article/ai-girl-generator",
+        "website": "https://girlgenerator.online",
+        "tags": [
+            "Generazione di personaggi",
+            "AIart",
+            "Creazione digitale",
+            "Progettazione del personaggio"
+        ]
+    },
+    {
+        "name": "LiveRitratto online",
+        "description": "LivePortrait è uno strumento AI che anima ritratti statici con imitazioni realistiche e sincronizzazione labiale, ideale per creatori, operatori di marketing e hobbisti.",
+        "url": "/it/article/liveportrait-online",
+        "website": "https://liveportrait.online",
+        "tags": [
+            "Animazione del ritratto",
+            "AI Video",
+            "Animazione facciale",
+            "Creazione di contenuti"
+        ]
+    },
+    {
+        "name": "AI Gif Generator",
+        "description": "AI Gif Generator crea GIF personalizzate da parole chiave come \"gatto\" o \"cane\". Perfetto per gli appassionati di social media e gli esperti di marketing, ci offre risultati rapidi e accurati",
+        "url": "/it/article/ai-gif-generator",
+        "website": "https://www.aigifgenerator.org",
+        "tags": [
+            "Creazione GIF",
+            "Generazione di animazioni",
+            "Social media",
+            "Marketing dei contenuti"
+        ]
+    },
+    {
+        "name": "Ritratto dal vivo.io",
+        "description": "Trasforma le tue foto in sequenze animate realistiche con Ritratto dal vivo. Goditi una qualità superiore, cuciture senza cuciture e opzioni personalizzate",
+        "url": "/it/article/live-portrait-io",
+        "website": "https://liveportrait.io",
+        "tags": [
+            "Animazione del ritratto",
+            "Generazione video",
+            "Animazione AI",
+            "Contenuti digitali"
+        ]
+    },
+    {
+        "name": "La migliore fidanzata IA",
+        "description": "Best AI Girlfriend è un generatore di ragazze AI gratuito che ti consente di creare e chattare con la tua ragazza AI, offrendo una varietà di stili e personalità.",
+        "url": "/it/article/best-ai-girlfriend",
+        "website": "https://aigirl.best",
+        "tags": [
+            "Chatta sull'intelligenza artificiale",
+            "Compagno virtuale",
+            "Interazione sociale",
+            "Intelligenza artificiale"
+        ]
+    },
+    {
+        "name": "Applicazione LiveRitratto",
+        "description": "Offre controllo preciso, supporto di stili diversi e animazioni personalizzate. Le tecnologie principali garantiscono una generazione di animazioni rapida e senza interruzioni",
+        "url": "/it/article/liveportrait-app",
+        "website": "https://liveportrait.app",
+        "tags": [
+            "Creazione di animazioni",
+            "App mobili",
+            "Montaggio video",
+            "Creazione di contenuti"
+        ]
+    },
+    {
+        "name": "CartoonGen",
+        "description": "crea immagini di cartoni animati personalizzate in pochi secondi: carica semplicemente un'immagine o descrivi la tua visione nel testo",
+        "url": "/it/article/cartoongen-com",
+        "website": "https://cartoongen.com",
+        "tags": [
+            "Generazione di cartoni animati",
+            "Conversione di immagini",
+            "AIart",
+            "Illustrazione digitale"
+        ]
+    },
+    {
+        "name": "Anima la mia foto",
+        "description": "AnimateMyPic è uno strumento basato sull'intelligenza artificiale che converte le foto in video accattivanti e di alta qualità, perfetti sia per gli artisti digitali che per gli utenti occasionali.",
+        "url": "/it/article/animate-my-pic",
+        "website": "https://animatemypic.com",
+        "tags": [
+            "Animazione fotografica",
+            "Creazione video",
+            "Animazione AI",
+            "Creazione di contenuti"
+        ]
+    },
+    {
+        "name": "ToonCrafter com",
+        "description": "ToonCrafter.com, il parco giochi gratuito offre un'esperienza pratica sia per principianti che per professionisti.",
+        "url": "/it/article/tooncrafter-com",
+        "website": "https://toon-crafter.com",
+        "tags": [
+            "Creazione di cartoni animati",
+            "Arte digitale",
+            "Elaborazione delle immagini",
+            "Strumenti creativi"
+        ]
+    },
+    {
+        "name": "Live Portrait AI",
+        "description": "Perfetto per messaggi video personalizzati, utilizza la tecnologia di rievocazione per abbinare i movimenti della testa, le espressioni facciali e la voce alle foto",
+        "url": "/it/article/live-portrait-org",
+        "website": "https://liveportrait.org",
+        "tags": [
+            "Animazione del ritratto",
+            "AI Video",
+            "Espressione facciale",
+            "Creazione di contenuti"
+        ]
+    },
+    {
+        "name": "LiveRitratto AI",
+        "description": "Questo strumento offre opzioni di animazione e personalizzazione in tempo reale. Gli utenti possono visualizzare in anteprima istantaneamente le loro animazioni realistiche, mentre il parco giochi e la sezione vetrina",
+        "url": "/it/article/liveportrait-net",
+        "website": "https://live-portrait.net",
+        "tags": [
+            "Animazione in tempo reale",
+            "AI Video",
+            "Contenuti digitali",
+            "Produzione video"
+        ]
+    },
+    {
+        "name": "Ritratto dal vivo org",
+        "description": "Live Portrait org è uno strumento AI che trasforma i ritratti statici in animazioni realistiche, perfette per i creatori di contenuti e gli appassionati di social media.",
+        "url": "/it/article/live-portrait-org",
+        "website": "https://live-portrait.org",
+        "tags": [
+            "Animazione del ritratto",
+            "Creazione di contenuti",
+            "Social media",
+            "AI Video"
+        ]
+    },
+    {
+        "name": "PicPicAI",
+        "description": "PicPicAI è uno strumento AI versatile progettato per gli appassionati e i professionisti del fotoritocco. Offre la rimozione dello sfondo, il miglioramento delle foto, l'upscaling e altro ancora.",
+        "url": "/it/article/picpicai",
+        "website": "https://picpicai.com",
+        "tags": [
+            "Modifica delle immagini",
+            "Miglioramento delle foto",
+            "AI Processing",
+            "Creazione digitale"
+        ]
+    },
+    {
+        "name": "AiAnimeGenerator",
+        "description": "AiAnimeGenerator è uno strumento basato sull'intelligenza artificiale per gli appassionati di anime e artisti digitali. Inserisci una descrizione, genera l'immagine e scarica anime di alta qualità",
+        "url": "/it/article/aianimegenerator",
+        "website": "https://aianimegenerator.net",
+        "tags": [
+            "Generazione di anime",
+            "AIart",
+            "Creazione digitale",
+            "Generazione di immagini"
+        ]
+    },
+    {
+        "name": "Nostalgia profonda IA",
+        "description": "Gli utenti caricano foto e, in 1-2 minuti, Deep Nostalgia AI genera animazioni di alta qualità, offrendo un modo semplice per preservare e connettersi con il passato.",
+        "url": "/it/article/deep-nostalgia-ai",
+        "website": "https://deepnostalgia.ai",
+        "tags": [
+            "Animazione fotografica",
+            "Elaborazione della nostalgia",
+            "AI Video",
+            "Storia familiare"
+        ]
+    },
+    {
+        "name": "Facile creatore di anime",
+        "description": "Strumento AI per creare opere d'arte anime da foto o testo. Genera istantaneamente immagini anime personalizzate con un semplice clic online.",
+        "url": "/it/article/easy-anime-maker",
+        "website": "https://ai-animegenerator.org",
+        "tags": [
+            "Creazione di anime",
+            "AIart",
+            "Generazione di immagini",
+            "Contenuti digitali"
+        ]
+    },
+    {
+        "name": "Nuvola del generatore di anime AI",
+        "description": "Genera immagini anime personalizzate con AI Anime Generator Cloud. Inserisci istruzioni, regola le impostazioni e utilizza i tag di qualità per creare la scena anime perfetta.",
+        "url": "/it/article/ai-anime-generator-cloud",
+        "website": "https://aianimegenerator.cloud",
+        "tags": [
+            "Generazione di anime",
+            "Servizio cloud",
+            "AIart",
+            "Creazione digitale"
+        ]
+    },
+    {
+        "name": "Aopsal",
+        "description": "Aopsal è uno strumento AI che anima vecchie foto, trasformando immagini statiche in video dinamici senza richiedere la registrazione. Utilizza una tecnologia all'avanguardia",
+        "url": "/it/article/aopsal",
+        "website": "https://aopsai.com",
+        "tags": [
+            "Animazione fotografica",
+            "AI Video",
+            "Foto storiche",
+            "Creazione di contenuti"
+        ]
+    }
+]

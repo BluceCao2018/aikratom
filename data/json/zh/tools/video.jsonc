@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "图画",
+    "description": "Pictory 是一个人工智能驱动的视频创作平台，可通过自动编辑和字幕自动将长格式内容转换为引人入胜的短视频。",
+    "url": "/zh/article/pictory",
+    "website": "https://pictory.ai",
+    "tags": [
+      "视频创作",
+      "内容再利用",
+      "人工智能编辑"
+    ]
+  },
+  {
+    "name": "海根",
+    "description": "HeyGen 是一个 AI 视频生成平台，可根据各种业务需求创建具有可定制 AI 头像和自然语音合成的专业品质视频。",
+    "url": "/zh/article/heygen",
+    "website": "https://heygen.com",
+    "tags": [
+      "人工智能视频生成",
+      "头像创建",
+      "语音合成"
+    ]
+  },
+  {
+    "name": "空面",
+    "description": "Nullface 是一款人工智能驱动的视频编辑工具，专门从事面部动画和表情操作，可实现创意视频转换。",
+    "url": "/zh/article/nullface",
+    "website": "https://nullface.ai",
+    "tags": [
+      "面部动画",
+      "视频编辑",
+      "人工智能效果"
+    ]
+  },
+  {
+    "name": "脱科赫",
+    "description": "Decohere 是一个先进的人工智能视频合成平台，可以根据文本描述生成逼真的视频内容，非常适合创意和商业项目。",
+    "url": "/zh/article/decohere",
+    "website": "https://decohere.ai",
+    "tags": [
+      "视频合成",
+      "人工智能一代",
+      "创意工具"
+    ]
+  },
+  {
+    "name": "合成",
+    "description": "Synthesia是一个专业的AI视频创作平台，用户可以利用AI头像和多语言语音合成来创建自定义视频。",
+    "url": "/zh/article/synthesia",
+    "website": "https://synthesia.io",
+    "tags": [
+      "人工智能视频创作",
+      "头像定制",
+      "多语言内容"
+    ]
+  }
+]

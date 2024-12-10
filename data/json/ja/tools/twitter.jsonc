@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "タイプ的に",
+    "description": "Typeively は、強力な Twitter スレッド コンポーザーおよびスケジューラーであり、クリエイターが分析機能やコラボレーション機能を使用して魅力的なコンテンツを作成、計画、公開できるように支援します。",
+    "url": "/ja/article/typefully",
+    "website": "https://typefully.com",
+    "tags": [
+      "スレッド作成者",
+      "コンテンツのスケジュール設定",
+      "分析"
+    ]
+  },
+  {
+    "name": "ポストワイズ",
+    "description": "Postwise は AI を活用した Twitter 成長ツールで、ユーザーがバイラル コンテンツを作成し、投稿をスケジュールし、データ駆動型の洞察を通じてパフォーマンスを分析するのに役立ちます。",
+    "url": "/ja/article/postwise",
+    "website": "https://postwise.ai",
+    "tags": [
+      "AIライティング",
+      "成長分析",
+      "コンテンツ戦略"
+    ]
+  },
+  {
+    "name": "メトリクール",
+    "description": "Metricool は、Twitter やその他のプラットフォームに詳細な洞察と管理ツールを提供する、包括的なソーシャル メディア分析およびスケジュール プラットフォームです。",
+    "url": "/ja/article/metricool",
+    "website": "https://metricool.com",
+    "tags": [
+      "ソーシャル分析",
+      "コンテンツ管理",
+      "パフォーマンスの追跡"
+    ]
+  },
+  {
+    "name": "トライブスケーラー",
+    "description": "Tribescaler は、スマートなエンゲージメント戦略とコンテンツの最適化を通じて、ユーザーが熱心なオーディエンスを構築できるようにする Twitter 成長自動化プラットフォームです。",
+    "url": "/ja/article/tribescaler",
+    "website": "https://tribescaler.com",
+    "tags": [
+      "視聴者の増加",
+      "エンゲージメントの自動化",
+      "コミュニティづくり"
+    ]
+  },
+  {
+    "name": "ツイートハンター",
+    "description": "TweetHunter は、コンテンツのインスピレーション、スケジュール設定、分析を組み合わせて、ユーザーの視聴者とエンゲージメントの拡大を支援する高度な Twitter 成長ツールです。",
+    "url": "/ja/article/tweethunter",
+    "website": "https://tweethunter.io",
+    "tags": [
+      "コンテンツディスカバリー",
+      "成長ツール",
+      "分析"
+    ]
+  }
+]

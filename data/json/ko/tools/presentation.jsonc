@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "프레지",
+    "description": "Prezi는 독특한 확대/축소 인터페이스와 대화형 디자인 기능을 통해 역동적이고 비선형적인 스토리텔링을 제공하는 혁신적인 프레젠테이션 플랫폼입니다.",
+    "url": "/ko/article/prezi",
+    "website": "https://prezi.com",
+    "tags": [
+      "프리젠테이션",
+      "시각적 스토리텔링",
+      "인터랙티브 디자인"
+    ]
+  },
+  {
+    "name": "정점",
+    "description": "Pitch는 현대적인 디자인 도구와 팀 협업 기능을 결합하여 영향력 있는 프레젠테이션을 만들고 공유하는 협업 프레젠테이션 플랫폼입니다.",
+    "url": "/ko/article/pitch",
+    "website": "https://pitch.com",
+    "tags": [
+      "팀 협업",
+      "프리젠테이션 디자인",
+      "실시간 편집"
+    ]
+  },
+  {
+    "name": "팝아이",
+    "description": "PopAi는 자동화된 콘텐츠 생성 및 디자인 제안을 통해 사용자가 매력적인 프레젠테이션을 빠르게 만들 수 있도록 돕는 AI 기반 프레젠테이션 도구입니다.",
+    "url": "/ko/article/popai",
+    "website": "https://pop.ai",
+    "tags": [
+      "AI 프레젠테이션",
+      "콘텐츠 생성",
+      "빠른 디자인"
+    ]
+  },
+  {
+    "name": "AI 슬라이드",
+    "description": "Slides AI는 인공 지능을 사용하여 텍스트와 데이터를 전문적으로 디자인된 프레젠테이션으로 변환하고 품질을 유지하면서 작성 프로세스를 자동화합니다.",
+    "url": "/ko/article/slidesai",
+    "website": "https://slidesai.io",
+    "tags": [
+      "AI 세대",
+      "자동화된 설계",
+      "콘텐츠 변환"
+    ]
+  },
+  {
+    "name": "슬라이드빈",
+    "description": "Slidebean은 슬라이드를 자동으로 디자인하고 사용자가 최소한의 노력으로 전문적인 프레젠테이션을 만들 수 있도록 돕는 AI 기반 프레젠테이션 플랫폼입니다.",
+    "url": "/ko/article/slidebean",
+    "website": "https://slidebean.com",
+    "tags": [
+      "AI 디자인",
+      "비즈니스 프레젠테이션",
+      "자동화된 레이아웃"
+    ]
+  }
+]

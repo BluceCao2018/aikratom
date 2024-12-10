@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "Dora",
+    "description": "Dora ist ein KI-gestützter Website-Builder, der Benutzern durch intelligente Designautomatisierung und Anpassungstools dabei hilft, schöne, reaktionsfähige Websites zu erstellen.",
+    "url": "/de/article/dora",
+    "website": "https://dora.run",
+    "tags": [
+      "Website-Builder",
+      "KI-Design",
+      "Kein Code"
+    ]
+  },
+  {
+    "name": "Wegic",
+    "description": "Wegic ist eine moderne Website-Erstellungsplattform, die KI-gesteuertes Design mit leistungsstarken E-Commerce- und Marketing-Tools für den Aufbau erfolgreicher Online-Geschäfte kombiniert.",
+    "url": "/de/article/wegic",
+    "website": "https://wegic.com",
+    "tags": [
+      "Website-Erstellung",
+      "E-Commerce",
+      "Marketing-Tools"
+    ]
+  },
+  {
+    "name": "10Web",
+    "description": "10Web ist eine automatisierte WordPress-Plattform, die KI nutzt, um Websites mit automatisierten Geschwindigkeitsoptimierungs- und Hosting-Lösungen zu erstellen, zu hosten und zu optimieren.",
+    "url": "/de/article/10web",
+    "website": "https://10web.io",
+    "tags": [
+      "WordPress-Automatisierung",
+      "Website-Optimierung",
+      "Hosting"
+    ]
+  },
+  {
+    "name": "Framer",
+    "description": "Framer ist eine professionelle Website-Design- und Veröffentlichungsplattform, die es Benutzern ermöglicht, leistungsstarke Websites mit erweiterten Designfunktionen zu erstellen.",
+    "url": "/de/article/framer",
+    "website": "https://framer.com",
+    "tags": [
+      "Webdesign",
+      "Veröffentlichung",
+      "Interaktives Design"
+    ]
+  },
+  {
+    "name": "Dauerhaft",
+    "description": "Durable ist ein KI-gestützter Website-Builder, der speziell für kleine Unternehmen entwickelt wurde und eine sofortige Website-Erstellung mit integrierten Geschäftstools bietet.",
+    "url": "/de/article/durable",
+    "website": "https://durable.co",
+    "tags": [
+      "Unternehmenswebsites",
+      "KI-Generierung",
+      "Tools für kleine Unternehmen"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+
+[
+  {
+    "name": "Ritr",
+    "description": "Rytr ist ein KI-Schreibassistent, der dabei hilft, hochwertige Inhalte für verschiedene Zwecke zu erstellen, von Marketingtexten bis hin zu kreativem Schreiben, mit anpassbaren Tönen und Stilen.",
+    "url": "/de/article/rytr",
+    "website": "https://rytr.me",
+    "tags": [
+      "KI-Schreiben",
+      "Content-Generierung",
+      "Copywriting"
+    ]
+  },
+  {
+    "name": "Jaspis",
+    "description": "Jasper ist eine umfassende KI-Content-Plattform, die Teams mit fortschrittlichen KI-Schreibfunktionen und Tools für die Zusammenarbeit dabei hilft, originelle, markengerechte Inhalte in großem Maßstab zu erstellen.",
+    "url": "/de/article/jasper",
+    "website": "https://jasper.ai",
+    "tags": [
+      "KI-Inhalte",
+      "Teamzusammenarbeit",
+      "Markenstimme"
+    ]
+  },
+  {
+    "name": "KI kopieren",
+    "description": "Copy AI ist ein KI-gestütztes Copywriting-Tool, das kreative Inhalte für Marketing, soziale Medien und Geschäftskommunikation mit verschiedenen Vorlagen und Stilen generiert.",
+    "url": "/de/article/copyai",
+    "website": "https://copy.ai",
+    "tags": [
+      "Copywriting",
+      "Marketinginhalte",
+      "Soziale Medien"
+    ]
+  },
+  {
+    "name": "Textblaze",
+    "description": "Textblaze ist ein Texterweiterungs- und Automatisierungstool, das Benutzern hilft, Snippets, Vorlagen und automatisierte Workflows für effizientes Schreiben zu erstellen und zu verwalten.",
+    "url": "/de/article/textblaze",
+    "website": "https://blaze.today",
+    "tags": [
+      "Texterweiterung",
+      "Automatisierung",
+      "Produktivität"
+    ]
+  },
+  {
+    "name": "Sudowrite",
+    "description": "Sudowrite ist ein KI-Schreibassistent, der speziell für kreative Autoren entwickelt wurde und Tools zur Story-Entwicklung, Charaktererstellung und Schreibverbesserung bietet.",
+    "url": "/de/article/sudowrite",
+    "website": "https://sudowrite.com",
+    "tags": [
+      "Kreatives Schreiben",
+      "Story-Entwicklung",
+      "Schreibassistent"
+    ]
+  },
+  {
+    "name": "Writesonic",
+    "description": "Writesonic ist eine umfassende KI-Schreibplattform, die Benutzern dabei hilft, hochwertige Inhalte für verschiedene Zwecke zu erstellen, von Marketingtexten bis hin zu kreativem Schreiben, mit anpassbaren Tönen und Stilen.",
+    "url": "/de/article/writesonic",
+    "website": "https://writesonic.com",
+    "tags": [
+      "KI-Schreiben",
+      "Content-Generierung",
+      "Copywriting"
+    ]
+  }
+]

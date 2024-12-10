@@ -1,0 +1,95 @@
+{
+  "website":{
+    "domain": "https://aikratom.com"
+  },
+  "home": {
+    "meta_title": "All the AI tools you want are on AI Kratom-Start navigation",
+    "meta_description": " With aikratom.com's One AI Directory Navigator, which truly understands you, you can effortlessly discover the best and most popular AI tools. explore now!",
+    "h2": "All the AI tools you want are on AI Kratom",
+    "description": "Discover The Best & Most Popular AI Tools of 2024 with the aikratom.com One AI Directory Navigator That Understand You!"
+  },
+  "category": {
+    "meta_title": "Category｜All the AI tools you want are on ",
+    "meta_description": "You can look for the AI tools you need according to categories and AI Kratom will help you choose the appropriate AI tools",
+    "homeBtn": "Home",
+    "categoryBtn": "Category",
+    "h1": "AI Tools Category",
+    "h2": "Find Every AI Tools You Need Here",
+    "h2description": "All AI tools are sorted alphabetically"
+  },
+  "article": {
+    "meta_title": "Article｜All the AI tools you want are on ",
+    "meta_description": "By reading these articles on AI Kratom, you can quickly acquire knowledge about AI tools and at the same time, it will help you choose the appropriate AI tools.",
+    "h1": "Articles",
+    "h2": "Read More Articles About AI Tools And Choose The Appropriate AI Tools For You",
+    "homeBtn": "Home",
+    "articleBtn": "Article",
+    "backToArticles": "Back to articles"
+  },
+  "changelog": {
+    "meta_title": "Changelog",
+    "meta_description": "Stay up to date with the latest updates in DevToolset.net",
+    "h1": "Changelog",
+    "h2": "Stay up to date with the latest updates in DevToolset.net",
+    "homeBtn": "Home",
+    "changelogBtn": "Changelog"
+  },
+  "tools": {
+    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
+    "h2_1": "All AI tools related to",
+    "h2_2": "",
+    "homeBtn": "Home"
+  },
+  "search": {
+    "input_placeholder": "Search tools by name / tags...",
+    "heading": "Suggestions",
+    "more": "More",
+    "button": "Search"
+  },
+  "navigation": {
+    "homeBtn": "Home",
+    "categoryBtn": "Category",
+    "moreCategoryBtn": "More",
+    "moreCategoryDescription": "More Categories",
+    "articleBtn": "Article",
+    "articleDescription": "Discover The Best & Most Popular AI Tools With The AI Kratom ",
+    "article1Title": "One AI Directory Navigator That Understand You!",
+    "article2Title": "Deploy your own DevToolset",
+    "moreArticleBtn": "More",
+    "moreArticleDescription": "More articles",
+    "changelogBtn": "Changelog",
+    "submitToolBtn": "Submit Tool",
+    "aboutBtn": "About"
+  },
+  "footer": {
+    "description": "Comprehensive And Timely AI Tools Information Website",
+    "builtWith": "Built with",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "category": "Category",
+    "article": "Article",
+    "changelog": "Changelog",
+    "privacy": "Privacy",
+    "termsOfService": "Terms of Service",
+    "legal": "Legal",
+    "connect": "Connect",
+    "support": "Support",
+    "copyright": "All rights reserved."
+  },
+  "toolsList": {
+    "more": "More",
+    "tools": "tools"
+  },
+  "articleList": {
+    "h2": "Articles",
+    "moreArticles": "More articles"
+  },
+  "about": {
+    "meta_title": "AI Kratom AI Tools Directory - Explore the Boundless World of AI",
+    "meta_description": "In today's era of rapid digital development, Artificial Intelligence (AI) has become an integral part of all fields and a powerful force driving innovation and change. To help you explore, discover and use the many excellent AI tools more conveniently, AI Kratom has carefully created this AI tools directory site.",
+    "h1": "About AI Kratom",
+    "h2": "About AI Kratom",
+    "homeBtn": "Home",
+    "aboutBtn": "About"
+  }
+}

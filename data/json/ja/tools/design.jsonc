@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "ルカ",
+    "description": "Looka は、AI を活用したブランド デザイン プラットフォームで、高度な機械学習アルゴリズムを使用して、プロフェッショナルなロゴ、ブランド アイデンティティ、マーケティング資料の作成を支援します。",
+    "url": "/ja/article/looka",
+    "website": "https://looka.com",
+    "tags": [
+      "ロゴデザイン",
+      "ブランディング",
+      "AIデザイン"
+    ]
+  },
+  {
+    "name": "クリップドロップ",
+    "description": "Clipdrop は、AI を活用したクリエイティブ スイートで、高度な画像編集、背景削除、クリエイティブ ツールをデザイナーやコンテンツ クリエーターに提供します。",
+    "url": "/ja/article/clipdrop",
+    "website": "https://clipdrop.co",
+    "tags": [
+      "画像編集",
+      "背景の除去",
+      "クリエイティブスイート"
+    ]
+  },
+  {
+    "name": "自動描画",
+    "description": "Autodraw は、機械学習を使用して単純なスケッチを洗練された図面に変換し、手描きの落書きを認識して強化する Google AI の実験です。",
+    "url": "/ja/article/autodraw",
+    "website": "https://autodraw.com",
+    "tags": [
+      "スケッチ認識",
+      "描画ツール",
+      "AIアート"
+    ]
+  },
+  {
+    "name": "ヴァンスAI",
+    "description": "Vance AI は、アップスケーリング、ノイズ除去、クリエイティブ効果など、人工知能を活用した高度な画像強化および処理ツールを提供します。",
+    "url": "/ja/article/vanceai",
+    "website": "https://vanceai.com",
+    "tags": [
+      "画像補正",
+      "AI処理",
+      "写真編集"
+    ]
+  },
+  {
+    "name": "AIをデザインする",
+    "description": "Designs AI は、人工知能を使用してロゴ、ビデオ、バナー、モックアップの作成を自動化する包括的なデザイン プラットフォームです。",
+    "url": "/ja/article/designsai",
+    "website": "https://designs.ai",
+    "tags": [
+      "自動設計",
+      "マーケティング資料",
+      "ブランドデザイン"
+    ]
+  }
+]

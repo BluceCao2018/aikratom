@@ -1,0 +1,286 @@
+[
+    {
+        "name": "ClickUp",
+        "description": "ClickUp is an all-in-one productivity platform that combines project management, task automation, and team collaboration tools to streamline workflows and increase efficiency.",
+        "url": "/en/article/clickup",
+        "website": "https://clickup.com",
+        "tags": [
+            "Project Management",
+            "Task Automation",
+            "Team Collaboration"
+        ]
+    },
+    {
+        "name": "Drift",
+        "description": "Drift is a conversational marketing and sales platform that uses AI-powered chatbots and automation to engage website visitors and convert them into qualified leads.",
+        "url": "/en/article/drift",
+        "website": "https://drift.com",
+        "tags": [
+            "Conversational Marketing",
+            "Sales Automation",
+            "Lead Generation"
+        ]
+    },
+    {
+        "name": "Outreach",
+        "description": "Outreach is a sales engagement platform that automates and optimizes customer interactions through AI-driven insights and workflow automation.",
+        "url": "/en/article/outreach",
+        "website": "https://outreach.io",
+        "tags": [
+            "Sales Engagement",
+            "Workflow Automation",
+            "Customer Intelligence"
+        ]
+    },
+    {
+        "name": "Emplifi",
+        "description": "Emplifi is a unified customer experience platform that automates social media management, customer care, and marketing activities through AI-powered tools.",
+        "url": "/en/article/emplifi",
+        "website": "https://emplifi.io",
+        "tags": [
+            "Customer Experience",
+            "Social Media Automation",
+            "Marketing Analytics"
+        ]
+    },
+    {
+        "name": "Генерация персонажей",
+        "description": "CharacterGen преобразует отдельные изображения в точные 3D-модели персонажей с использованием технологии многоракурсной калибровки поз, идеально подходящей для разработчиков игр и аниматоров.",
+        "url": "/ru/article/charactergen",
+        "website": "https://character-gen.com",
+        "tags": [
+            "3D Modeling",
+            "Создание персонажа",
+            "Разработка игр",
+            "Анимация"
+        ]
+    },
+    {
+        "name": "Генератор аниме с искусственным интеллектом",
+        "description": "AI Anime Generator — это универсальный инструмент для любителей аниме и цифровых художников, позволяющий превращать идеи и фотографии в потрясающие изображения и видео в стиле аниме.",
+        "url": "/ru/article/ai-anime-generator",
+        "website": "https://www.aianimegen.com",
+        "tags": [
+            "ИИ-искусство",
+            "Поколение аниме",
+            "Обработка изображений",
+            "Цифровое Искусство"
+        ]
+    },
+    {
+        "name": "Генератор ИИ-девушек",
+        "description": "Превратите свой творческий шепот в ярких, живых персонажей, от отважных воинов до мудрых магов, и наблюдайте, как творчество оживает.",
+        "url": "/ru/article/ai-girl-generator",
+        "website": "https://girlgenerator.online",
+        "tags": [
+            "Генерация персонажей",
+            "ИИ-искусство",
+            "Цифровое творчество",
+            "Дизайн персонажей"
+        ]
+    },
+    {
+        "name": "LivePortrait онлайн",
+        "description": "LivePortrait — это инструмент искусственного интеллекта, который анимирует статичные портреты с реалистичной имитацией и синхронизацией губ, идеально подходящий для авторов, маркетологов и любителей.",
+        "url": "/ru/article/liveportrait-online",
+        "website": "https://liveportrait.online",
+        "tags": [
+            "Портретная анимация",
+            "ИИ-видео",
+            "Лицевая анимация",
+            "Создание контента"
+        ]
+    },
+    {
+        "name": "Генератор GIF-изображений с искусственным интеллектом",
+        "description": "AI Gif Generator создает собственные GIF-файлы на основе таких ключевых слов, как «кошка» или «собака». Идеально подходит для энтузиастов социальных сетей и маркетологов, он предлагает быстрые и точные результаты.",
+        "url": "/ru/article/ai-gif-generator",
+        "website": "https://www.aigifgenerator.org",
+        "tags": [
+            "Создание GIF",
+            "Генерация анимации",
+            "Социальные сети",
+            "Контент-маркетинг"
+        ]
+    },
+    {
+        "name": "Живой портрет.io",
+        "description": "Превратите свои фотографии в реалистичные анимированные эпизоды с помощью функции «Живой портрет». Наслаждайтесь превосходным качеством, бесшовными швами и индивидуальными опциями.",
+        "url": "/ru/article/live-portrait-io",
+        "website": "https://liveportrait.io",
+        "tags": [
+            "Портретная анимация",
+            "Создание видео",
+            "ИИ-анимация",
+            "Цифровой контент"
+        ]
+    },
+    {
+        "name": "Лучшая подруга ИИ",
+        "description": "Best AI Girlfriend — это бесплатный генератор AI-девушек, который позволяет вам создавать и общаться с вашей собственной AI-подругой, предлагая различные стили и индивидуальности.",
+        "url": "/ru/article/best-ai-girlfriend",
+        "website": "https://aigirl.best",
+        "tags": [
+            "AI-чат",
+            "Виртуальный компаньон",
+            "Социальное взаимодействие",
+            "Искусственный интеллект"
+        ]
+    },
+    {
+        "name": "Приложение LivePortrait",
+        "description": "Он предлагает точное управление, поддержку разнообразных стилей и настраиваемую анимацию. Основные технологии обеспечивают быстрое и плавное создание анимации.",
+        "url": "/ru/article/liveportrait-app",
+        "website": "https://liveportrait.app",
+        "tags": [
+            "Создание анимации",
+            "Мобильные приложения",
+            "Редактирование видео",
+            "Создание контента"
+        ]
+    },
+    {
+        "name": "CartoonGen",
+        "description": "создавайте собственные изображения мультфильмов за считанные секунды — просто загрузите изображение или опишите свое видение в тексте",
+        "url": "/ru/article/cartoongen-com",
+        "website": "https://cartoongen.com",
+        "tags": [
+            "Поколение мультфильмов",
+            "Преобразование изображений",
+            "ИИ-искусство",
+            "Цифровая иллюстрация"
+        ]
+    },
+    {
+        "name": "Анимировать мою фотографию",
+        "description": "AnimateMyPic — это инструмент на базе искусственного интеллекта, который преобразует фотографии в высококачественные захватывающие видеоролики, идеально подходящие как для цифровых художников, так и для обычных пользователей.",
+        "url": "/ru/article/animate-my-pic",
+        "website": "https://animatemypic.com",
+        "tags": [
+            "Фото Анимация",
+            "Создание видео",
+            "ИИ-анимация",
+            "Создание контента"
+        ]
+    },
+    {
+        "name": "ToonCrafter com",
+        "description": "ToonCrafter.com, бесплатная игровая площадка, предоставляет практический опыт как новичкам, так и профессионалам.",
+        "url": "/ru/article/tooncrafter-com",
+        "website": "https://toon-crafter.com",
+        "tags": [
+            "Создание мультфильмов",
+            "Цифровое Искусство",
+            "Обработка изображений",
+            "Творческие инструменты"
+        ]
+    },
+    {
+        "name": "Живой портрет AI",
+        "description": "Идеально подходит для персонализированных видеосообщений. Он использует технологию реконструкции, позволяющую сопоставить движения головы, выражения лица и голос с фотографиями.",
+        "url": "/ru/article/live-portrait-org",
+        "website": "https://liveportrait.org",
+        "tags": [
+            "Портретная анимация",
+            "ИИ-видео",
+            "Выражение лица",
+            "Создание контента"
+        ]
+    },
+    {
+        "name": "Живой портрет AI",
+        "description": "Этот инструмент предлагает анимацию в реальном времени и возможности настройки. Пользователи могут мгновенно просмотреть реалистичную анимацию, в то время как игровая площадка и витрина",
+        "url": "/ru/article/liveportrait-net",
+        "website": "https://live-portrait.net",
+        "tags": [
+            "Анимация в реальном времени",
+            "ИИ-видео",
+            "Цифровой контент",
+            "Видеопроизводство"
+        ]
+    },
+    {
+        "name": "Живой портрет орг.",
+        "description": "Live Portrait org — это инструмент искусственного интеллекта, который превращает статичные портреты в реалистичную анимацию, идеально подходящую для создателей контента и энтузиастов социальных сетей.",
+        "url": "/ru/article/live-portrait-org",
+        "website": "https://live-portrait.org",
+        "tags": [
+            "Портретная анимация",
+            "Создание контента",
+            "Социальные сети",
+            "ИИ-видео"
+        ]
+    },
+    {
+        "name": "ПикПикАИ",
+        "description": "PicPicAI — это универсальный инструмент искусственного интеллекта, предназначенный для любителей и профессионалов редактирования фотографий. Он предлагает удаление фона, улучшение фотографий, масштабирование и многое другое.",
+        "url": "/ru/article/picpicai",
+        "website": "https://picpicai.com",
+        "tags": [
+            "Редактирование изображений",
+            "Улучшение фотографий",
+            "ИИ-обработка",
+            "Цифровое творчество"
+        ]
+    },
+    {
+        "name": "AiAnimeGenerator",
+        "description": "AiAnimeGenerator — это инструмент на базе искусственного интеллекта для любителей аниме и цифровых художников. Введите описание, сгенерируйте изображение и скачайте аниме высокого качества.",
+        "url": "/ru/article/aianimegenerator",
+        "website": "https://aianimegenerator.net",
+        "tags": [
+            "Поколение аниме",
+            "ИИ-искусство",
+            "Цифровое творчество",
+            "Генерация изображений"
+        ]
+    },
+    {
+        "name": "Глубокая ностальгия ИИ",
+        "description": "Пользователи загружают фотографии, и в течение 1–2 минут Deep Nostalgia AI генерирует высококачественную анимацию, предлагая простой способ сохранить прошлое и соединиться с ним.",
+        "url": "/ru/article/deep-nostalgia-ai",
+        "website": "https://deepnostalgia.ai",
+        "tags": [
+            "Фото Анимация",
+            "Ностальгия Обработка",
+            "ИИ-видео",
+            "Семейная история"
+        ]
+    },
+    {
+        "name": "Простой создатель аниме",
+        "description": "Инструмент искусственного интеллекта для создания аниме-арта из фотографий или текста. Мгновенно создавайте собственные аниме-изображения простым щелчком мыши в Интернете.",
+        "url": "/ru/article/easy-anime-maker",
+        "website": "https://ai-animegenerator.org",
+        "tags": [
+            "Создание аниме",
+            "ИИ-искусство",
+            "Генерация изображений",
+            "Цифровой контент"
+        ]
+    },
+    {
+        "name": "Облачный генератор аниме с искусственным интеллектом",
+        "description": "Создавайте собственные аниме-изображения с помощью AI Anime Generator Cloud. Введите подсказки, настройте параметры и используйте теги качества, чтобы создать идеальную аниме-сцену.",
+        "url": "/ru/article/ai-anime-generator-cloud",
+        "website": "https://aianimegenerator.cloud",
+        "tags": [
+            "Поколение аниме",
+            "Облачный сервис",
+            "ИИ-искусство",
+            "Цифровое творчество"
+        ]
+    },
+    {
+        "name": "Аопсал",
+        "description": "Aopsal — это инструмент искусственного интеллекта, который анимирует старые фотографии, превращая статические изображения в динамичные видео без регистрации. Здесь используются передовые технологии",
+        "url": "/ru/article/aopsal",
+        "website": "https://aopsai.com",
+        "tags": [
+            "Фото Анимация",
+            "ИИ-видео",
+            "Исторические фотографии",
+            "Создание контента"
+        ]
+    }
+]

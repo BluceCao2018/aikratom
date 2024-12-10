@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "광고 카피",
+    "description": "AdCopy는 다양한 마케팅 채널을 위한 매력적인 광고 카피를 생성하는 AI 기반 카피라이팅 도구로, 마케팅 담당자가 효과적인 광고 콘텐츠를 신속하게 만들 수 있도록 도와줍니다.",
+    "url": "/ko/article/adcopy",
+    "website": "https://adcopy.ai",
+    "tags": [
+      "카피라이팅",
+      "광고작성",
+      "마케팅 콘텐츠"
+    ]
+  },
+  {
+    "name": "AI 예측",
+    "description": "Predis AI는 인공 지능을 사용하여 콘텐츠 성과를 예측하고 더 나은 참여를 위해 최적화된 게시물을 생성하는 소셜 미디어 마케팅 플랫폼입니다.",
+    "url": "/ko/article/predisai",
+    "website": "https://predis.ai",
+    "tags": [
+      "소셜 미디어",
+      "콘텐츠 예측",
+      "해석학"
+    ]
+  },
+  {
+    "name": "하울러 AI",
+    "description": "Howler AI는 AI 기반 통찰력과 최적화를 통해 기업이 마케팅 캠페인을 간소화하도록 돕는 고급 마케팅 자동화 플랫폼입니다.",
+    "url": "/ko/article/howler",
+    "website": "https://howler.ai",
+    "tags": [
+      "마케팅 자동화",
+      "캠페인 최적화",
+      "AI 분석"
+    ]
+  },
+  {
+    "name": "이것이 부담이다",
+    "description": "Bardeen AI는 마케팅 담당자가 다양한 마케팅 도구 및 플랫폼과 통합하여 마케팅 워크플로우를 효율적으로 생성하고 실행할 수 있도록 돕는 자동화 플랫폼입니다.",
+    "url": "/ko/article/bardeen",
+    "website": "https://bardeen.ai",
+    "tags": [
+      "워크플로우 자동화",
+      "마케팅 통합",
+      "생산력"
+    ]
+  },
+  {
+    "name": "광고 크리에이티브",
+    "description": "AdCreative는 다양한 플랫폼과 형식에 걸쳐 디지털 광고 캠페인을 위한 크리에이티브 자산을 생성하고 최적화하는 AI 기반 플랫폼입니다.",
+    "url": "/ko/article/adcreative",
+    "website": "https://adcreative.ai",
+    "tags": [
+      "광고 디자인",
+      "창의적 자동화",
+      "디지털 광고"
+    ]
+  }
+]

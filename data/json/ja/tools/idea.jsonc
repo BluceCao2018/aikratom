@@ -1,0 +1,47 @@
+
+[
+  {
+    "name": "クロード",
+    "description": "Anthropic が開発した AI チャットボットは OpenAI の ChatGPT に似ており、現在最も強力な競合他社の 1 つとして認識されています。 Claude 3.5 は、最大 200,000 トークンのコンテキスト長をサポートし、18 ページもの PDF ドキュメントを読み取って要約することができ、強力なコード認識機能を備えています。",
+    "url": "/ja/article/claude",
+    "website": "https://claude.ai/",
+    "tags": [
+      "AIアシスタント",
+      "文書分析",
+      "コード生成"
+    ]
+  },
+  {
+    "name": "チャットGPT",
+    "description": "ChatGPT は、自然言語処理、創造的な文章、問題解決に優れた OpenAI の主力会話型 AI モデルです。パフォーマンスを強化するための GPT-4 機能を備えた無料バージョンとプレミアム バージョンの両方が提供されます。",
+    "url": "/ja/article/chatgpt",
+    "website": "https://chat.openai.com",
+    "tags": [
+      "言語モデル",
+      "クリエイティブライティング",
+      "問題解決"
+    ]
+  },
+  {
+    "name": "困惑",
+    "description": "Perplexity AI は、AI を活用した分析とリアルタイム情報を組み合わせて、さまざまなトピックにわたって正確な引用された回答と洞察を提供する高度な検索および発見エンジンです。",
+    "url": "/ja/article/perplexity",
+    "website": "https://perplexity.ai",
+    "tags": [
+      "AI検索",
+      "リサーチツール",
+      "知識の発見"
+    ]
+  },
+  {
+    "name": "Bing チャット",
+    "description": "Microsoft の高度な AI テクノロジーを活用した Bing Chat は、リアルタイムの情報検索、クリエイティブなコンテンツの生成、インターネット接続機能によるインタラクティブな会話を提供します。",
+    "url": "/ja/article/bingchat",
+    "website": "https://www.bing.com/chat",
+    "tags": [
+      "検索AI",
+      "コンテンツの生成",
+      "リアルタイム情報"
+    ]
+  }
+]

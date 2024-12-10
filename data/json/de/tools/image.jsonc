@@ -1,0 +1,69 @@
+
+[
+  {
+    "name": "Mitten auf der Reise",
+    "description": "Midjourney ist ein leistungsstarker KI-Kunstgenerator, der aus Textbeschreibungen atemberaubende, hochwertige Bilder erstellt und einzigartige künstlerische Stile und erweiterte Bildgenerierungsfunktionen bietet.",
+    "url": "/de/article/midjourney",
+    "website": "https://www.midjourney.com",
+    "tags": [
+      "KI-Kunst",
+      "Bilderzeugung",
+      "Digitale Kunst"
+    ]
+  },
+  {
+    "name": "Stile",
+    "description": "Stylar ist ein KI-gestütztes Designtool, mit dem Sie Bilder in verschiedenen künstlerischen Stilen erstellen und bearbeiten können, die sich perfekt für Markeninhalte und Social-Media-Visuals eignen.",
+    "url": "/de/article/stylar",
+    "website": "https://www.stylar.ai",
+    "tags": [
+      "Stilübertragung",
+      "Markendesign",
+      "Soziale Medien"
+    ]
+  },
+  {
+    "name": "Freepik",
+    "description": "Freepik ist eine umfassende Plattform, die Millionen kostenloser Vektoren, Stockfotos, PSD-Dateien und Symbole für kreative Projekte und Designanforderungen bietet.",
+    "url": "/de/article/freepik",
+    "website": "https://www.freepik.com",
+    "tags": [
+      "Stock-Bilder",
+      "Vektorgrafiken",
+      "Designressourcen"
+    ]
+  },
+  {
+    "name": "Phyqital+",
+    "description": "Phyqital+ ist eine fortschrittliche KI-Bildverbesserungsplattform, die Bilder transformiert und hochskaliert, dabei die Qualität beibehält und kreative Effekte hinzufügt.",
+    "url": "/de/article/phyqital",
+    "website": "https://phyqital.plus",
+    "tags": [
+      "Bildverbesserung",
+      "KI-Upscaling",
+      "Fotobearbeitung"
+    ]
+  },
+  {
+    "name": "StockIMG",
+    "description": "StockIMG ist eine KI-gestützte Bildplattform, die anpassbare, lizenzfreie Bilder für verschiedene kommerzielle und kreative Zwecke generiert und bereitstellt.",
+    "url": "/de/article/stockimg",
+    "website": "https://stockimg.ai",
+    "tags": [
+      "Stockfotos",
+      "KI-Generierung",
+      "Kommerzielle Nutzung"
+    ]
+  },
+  {
+    "name": "Bing erstellen",
+    "description": "Bing Create ist das KI-Bildgenerierungstool von Microsoft, mit dem Benutzer mithilfe der DALL-E-Technologie benutzerdefinierte Bilder aus Textbeschreibungen erstellen können.",
+    "url": "/de/article/bingcreate",
+    "website": "https://www.bing.com/create",
+    "tags": [
+      "KI-Generierung",
+      "DALL-E",
+      "Microsoft KI"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "乌伊扎德",
+    "description": "Uizard 是一个人工智能驱动的设计平台，可将草图和想法转化为专业的 UI 设计，帮助团队快速高效地创建美观的界面。",
+    "url": "/zh/article/uizard",
+    "website": "https://uizard.io",
+    "tags": [
+      "用户界面设计",
+      "原型制作",
+      "设计自动化"
+    ]
+  },
+  {
+    "name": "维西里",
+    "description": "Visily 是一款智能 UI 设计工具，利用 AI 帮助团队创建和迭代用户界面，具有强大的协作和设计系统功能。",
+    "url": "/zh/article/visily",
+    "website": "https://visily.ai",
+    "tags": [
+      "用户界面设计",
+      "合作",
+      "设计系统"
+    ]
+  },
+  {
+    "name": "色度",
+    "description": "Khroma 是一款 AI 色彩工具，可以根据您的偏好生成智能调色板，帮助设计师为其项目创建和谐的配色方案。",
+    "url": "/zh/article/khroma",
+    "website": "https://khroma.co",
+    "tags": [
+      "色彩生成",
+      "人工智能色彩",
+      "设计工具"
+    ]
+  },
+  {
+    "name": "伽利略人工智能",
+    "description": "Galileo AI 是一款革命性的设计工具，它使用人工智能根据文本描述生成完整的 UI 设计，从而简化设计流程。",
+    "url": "/zh/article/galileoai",
+    "website": "https://galileo-ai.com",
+    "tags": [
+      "人工智能设计",
+      "用户界面生成",
+      "设计自动化"
+    ]
+  },
+  {
+    "name": "视觉之眼",
+    "description": "VisualEyes 是一个基于 AI 的设计分析平台，可帮助团队通过预测用户行为分析来测试和优化其 UI 设计。",
+    "url": "/zh/article/visualeyes",
+    "website": "https://visualeyes.design",
+    "tags": [
+      "设计分析",
+      "用户体验测试",
+      "用户行为"
+    ]
+  }
+]

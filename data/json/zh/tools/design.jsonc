@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "卢卡",
+    "description": "Looka 是一个人工智能驱动的品牌设计平台，可使用先进的机器学习算法帮助创建专业徽标、品牌标识和营销材料。",
+    "url": "/zh/article/looka",
+    "website": "https://looka.com",
+    "tags": [
+      "标志设计",
+      "品牌推广",
+      "人工智能设计"
+    ]
+  },
+  {
+    "name": "剪辑滴",
+    "description": "Clipdrop 是一款人工智能驱动的创意套件，为设计师和内容创作者提供高级图像编辑、背景去除和创意工具。",
+    "url": "/zh/article/clipdrop",
+    "website": "https://clipdrop.co",
+    "tags": [
+      "图像编辑",
+      "背景去除",
+      "创意套件"
+    ]
+  },
+  {
+    "name": "自动绘图",
+    "description": "Autodraw 是一项 Google AI 实验，它利用机器学习来识别和增强手绘涂鸦，将简单的草图变成精美的图画。",
+    "url": "/zh/article/autodraw",
+    "website": "https://autodraw.com",
+    "tags": [
+      "素描识别",
+      "绘图工具",
+      "人工智能艺术"
+    ]
+  },
+  {
+    "name": "万斯艾",
+    "description": "Vance AI 提供由人工智能支持的先进图像增强和处理工具，包括放大、去噪和创意效果。",
+    "url": "/zh/article/vanceai",
+    "website": "https://vanceai.com",
+    "tags": [
+      "图像增强",
+      "人工智能处理",
+      "照片编辑"
+    ]
+  },
+  {
+    "name": "设计人工智能",
+    "description": "Designs AI 是一个综合设计平台，可使用人工智能自动创建徽标、视频、横幅和模型。",
+    "url": "/zh/article/designsai",
+    "website": "https://designs.ai",
+    "tags": [
+      "自动化设计",
+      "营销材料",
+      "品牌设计"
+    ]
+  }
+]

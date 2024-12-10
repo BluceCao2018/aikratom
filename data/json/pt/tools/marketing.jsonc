@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "Texto do anúncio",
+    "description": "AdCopy é uma ferramenta de redação com tecnologia de IA que gera textos de anúncios atraentes para vários canais de marketing, ajudando os profissionais de marketing a criar conteúdo publicitário eficaz rapidamente.",
+    "url": "/pt/article/adcopy",
+    "website": "https://adcopy.ai",
+    "tags": [
+      "Redação",
+      "Criação de anúncios",
+      "Conteúdo de marketing"
+    ]
+  },
+  {
+    "name": "Previsões de IA",
+    "description": "Predis AI é uma plataforma de marketing de mídia social que usa inteligência artificial para prever o desempenho do conteúdo e gerar postagens otimizadas para melhor engajamento.",
+    "url": "/pt/article/predisai",
+    "website": "https://predis.ai",
+    "tags": [
+      "Mídias Sociais",
+      "Previsão de conteúdo",
+      "Análise"
+    ]
+  },
+  {
+    "name": "IA uivadora",
+    "description": "Howler AI é uma plataforma avançada de automação de marketing que ajuda as empresas a otimizar suas campanhas de marketing por meio de insights e otimização baseados em IA.",
+    "url": "/pt/article/howler",
+    "website": "https://howler.ai",
+    "tags": [
+      "Automação de marketing",
+      "Otimização de campanha",
+      "Análise de IA"
+    ]
+  },
+  {
+    "name": "Isso é um fardo",
+    "description": "Bardeen AI é uma plataforma de automação que ajuda os profissionais de marketing a criar e executar fluxos de trabalho de marketing de forma eficiente, integrando-se com diversas ferramentas e plataformas de marketing.",
+    "url": "/pt/article/bardeen",
+    "website": "https://bardeen.ai",
+    "tags": [
+      "Automação de fluxo de trabalho",
+      "Integração de marketing",
+      "Produtividade"
+    ]
+  },
+  {
+    "name": "AdCreativo",
+    "description": "AdCreative é uma plataforma alimentada por IA que gera e otimiza ativos criativos para campanhas publicitárias digitais em várias plataformas e formatos.",
+    "url": "/pt/article/adcreative",
+    "website": "https://adcreative.ai",
+    "tags": [
+      "Design de anúncio",
+      "Automação Criativa",
+      "Publicidade digital"
+    ]
+  }
+]

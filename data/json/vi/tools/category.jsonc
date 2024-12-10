@@ -1,0 +1,100 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+[
+  {
+    "name": "ý tưởng",
+    "src": "idea.jsonc",
+    "link": "idea",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Twitter",
+    "src": "twitter.jsonc",
+    "link": "twitter",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Bài thuyết trình",
+    "src": "presentation.jsonc",
+    "link": "presentation",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Trang web",
+    "src": "website.jsonc",
+    "link": "website",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Viết",
+    "src": "writing.jsonc",
+    "link": "writing",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Mô hình AI",
+    "src": "ai_model.jsonc",
+    "link": "ai_model",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Cuộc họp",
+    "src": "meeting.jsonc",
+    "link": "meeting",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Chatbot",
+    "src": "chatbot.jsonc",
+    "link": "chatbot",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Tự động hóa",
+    "src": "automation.jsonc",
+    "link": "automation",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Giao diện người dùng/UX",
+    "src": "ui_ux.jsonc",
+    "link": "ui_ux",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Hình ảnh",
+    "src": "image.jsonc",
+    "link": "image",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Băng hình",
+    "src": "video.jsonc",
+    "link": "video",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Thiết kế",
+    "src": "design.jsonc",
+    "link": "design",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  },
+  {
+    "name": "Tiếp thị",
+    "src": "marketing.jsonc",
+    "link": "marketing",
+    "description": "Công cụ sáng tạo đầy cảm hứng."
+  }
+]

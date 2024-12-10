@@ -1,0 +1,69 @@
+
+[
+  {
+    "name": "中途",
+    "description": "Midjourney 是一款功能強大的 AI 藝術生成器，可根據文字描述創建令人驚嘆的高品質圖像，提供獨特的藝術風格和先進的圖像生成功能。",
+    "url": "/tw/article/midjourney",
+    "website": "https://www.midjourney.com",
+    "tags": [
+      "人工智慧藝術",
+      "影像生成",
+      "數位藝術"
+    ]
+  },
+  {
+    "name": "風格",
+    "description": "Stylar 是一款由人工智慧驅動的設計工具，可協助創建和編輯具有各種藝術風格的圖像，非常適合品牌內容和社交媒體視覺效果。",
+    "url": "/tw/article/stylar",
+    "website": "https://www.stylar.ai",
+    "tags": [
+      "風格轉移",
+      "品牌設計",
+      "社群媒體"
+    ]
+  },
+  {
+    "name": "手繪",
+    "description": "Freepik 是一個綜合平台，提供數百萬個免費向量、庫存照片、PSD 檔案和圖標，以滿足創意項目和設計需求。",
+    "url": "/tw/article/freepik",
+    "website": "https://www.freepik.com",
+    "tags": [
+      "庫存圖片",
+      "向量圖形",
+      "設計資源"
+    ]
+  },
+  {
+    "name": "Phyqital+",
+    "description": "Phyqital+ 是一個先進的 AI 影像增強平台，可在保持品質和添加創意效果的同時轉換和升級影像。",
+    "url": "/tw/article/phyqital",
+    "website": "https://phyqital.plus",
+    "tags": [
+      "影像增強",
+      "人工智慧升級",
+      "照片編輯"
+    ]
+  },
+  {
+    "name": "股票IMG",
+    "description": "StockIMG 是一個人工智慧驅動的庫存圖像平台，可為各種商業和創意用途產生並提供可自訂的免版稅圖像。",
+    "url": "/tw/article/stockimg",
+    "website": "https://stockimg.ai",
+    "tags": [
+      "庫存照片",
+      "人工智慧世代",
+      "商業用途"
+    ]
+  },
+  {
+    "name": "必應創建",
+    "description": "Bing Create 是微軟的 AI 圖像生成工具，允許使用者使用 DALL-E 技術根據文字描述建立自訂圖像。",
+    "url": "/tw/article/bingcreate",
+    "website": "https://www.bing.com/create",
+    "tags": [
+      "人工智慧世代",
+      "達爾-E",
+      "微軟人工智慧"
+    ]
+  }
+]

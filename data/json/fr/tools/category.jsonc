@@ -1,0 +1,100 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+[
+  {
+    "name": "idée",
+    "src": "idea.jsonc",
+    "link": "idea",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "gazouillement",
+    "src": "twitter.jsonc",
+    "link": "twitter",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "Présentation",
+    "src": "presentation.jsonc",
+    "link": "presentation",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "Site web",
+    "src": "website.jsonc",
+    "link": "website",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "En écrivant",
+    "src": "writing.jsonc",
+    "link": "writing",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "Modèle d'IA",
+    "src": "ai_model.jsonc",
+    "link": "ai_model",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "Réunion",
+    "src": "meeting.jsonc",
+    "link": "meeting",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "Chatbot",
+    "src": "chatbot.jsonc",
+    "link": "chatbot",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "Automation",
+    "src": "automation.jsonc",
+    "link": "automation",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "UI/UX",
+    "src": "ui_ux.jsonc",
+    "link": "ui_ux",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "Image",
+    "src": "image.jsonc",
+    "link": "image",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "Vidéo",
+    "src": "video.jsonc",
+    "link": "video",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "Conception",
+    "src": "design.jsonc",
+    "link": "design",
+    "description": "Des outils créatifs inspirants."
+  },
+  {
+    "name": "Commercialisation",
+    "src": "marketing.jsonc",
+    "link": "marketing",
+    "description": "Des outils créatifs inspirants."
+  }
+]

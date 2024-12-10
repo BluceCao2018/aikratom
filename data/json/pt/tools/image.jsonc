@@ -1,0 +1,69 @@
+
+[
+  {
+    "name": "Meio da jornada",
+    "description": "Midjourney é um poderoso gerador de arte de IA que cria imagens impressionantes e de alta qualidade a partir de descrições de texto, oferecendo estilos artísticos exclusivos e recursos avançados de geração de imagens.",
+    "url": "/pt/article/midjourney",
+    "website": "https://www.midjourney.com",
+    "tags": [
+      "Arte de IA",
+      "Geração de imagem",
+      "Arte Digital"
+    ]
+  },
+  {
+    "name": "Estilos",
+    "description": "Stylar é uma ferramenta de design com tecnologia de IA que ajuda a criar e editar imagens com vários estilos artísticos, perfeita para conteúdo de marca e visuais de mídia social.",
+    "url": "/pt/article/stylar",
+    "website": "https://www.stylar.ai",
+    "tags": [
+      "Transferência de estilo",
+      "Design de marca",
+      "Mídias Sociais"
+    ]
+  },
+  {
+    "name": "Grátis",
+    "description": "Freepik é uma plataforma abrangente que oferece milhões de vetores, fotos, arquivos PSD e ícones gratuitos para projetos criativos e necessidades de design.",
+    "url": "/pt/article/freepik",
+    "website": "https://www.freepik.com",
+    "tags": [
+      "Banco de imagens",
+      "Gráficos vetoriais",
+      "Recursos de design"
+    ]
+  },
+  {
+    "name": "Phyqital+",
+    "description": "Phyqital+ é uma plataforma avançada de aprimoramento de imagem com IA que transforma e aprimora imagens, mantendo a qualidade e adicionando efeitos criativos.",
+    "url": "/pt/article/phyqital",
+    "website": "https://phyqital.plus",
+    "tags": [
+      "Aprimoramento de imagem",
+      "Aumento de escala de IA",
+      "Edição de fotos"
+    ]
+  },
+  {
+    "name": "EstoqueIMG",
+    "description": "StockIMG é uma plataforma de imagens de banco de dados alimentada por IA que gera e fornece imagens personalizáveis ​​e isentas de royalties para vários usos comerciais e criativos.",
+    "url": "/pt/article/stockimg",
+    "website": "https://stockimg.ai",
+    "tags": [
+      "Banco de fotos",
+      "Geração de IA",
+      "Uso Comercial"
+    ]
+  },
+  {
+    "name": "Bing Criar",
+    "description": "Bing Create é a ferramenta de geração de imagens de IA da Microsoft que permite aos usuários criar imagens personalizadas a partir de descrições de texto usando a tecnologia DALL-E.",
+    "url": "/pt/article/bingcreate",
+    "website": "https://www.bing.com/create",
+    "tags": [
+      "Geração de IA",
+      "DALL-E",
+      "IA da Microsoft"
+    ]
+  }
+]

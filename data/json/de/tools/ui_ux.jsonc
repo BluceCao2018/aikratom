@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "Uizard",
+    "description": "Uizard ist eine KI-gestützte Designplattform, die Skizzen und Ideen in professionelle UI-Designs umwandelt und Teams dabei hilft, schnell und effizient schöne Schnittstellen zu erstellen.",
+    "url": "/de/article/uizard",
+    "website": "https://uizard.io",
+    "tags": [
+      "UI-Design",
+      "Prototyping",
+      "Designautomatisierung"
+    ]
+  },
+  {
+    "name": "Sichtbar",
+    "description": "Visily ist ein intelligentes UI-Design-Tool, das KI nutzt, um Teams bei der Erstellung und Iteration von Benutzeroberflächen zu unterstützen, mit leistungsstarken Kollaborations- und Designsystemfunktionen.",
+    "url": "/de/article/visily",
+    "website": "https://visily.ai",
+    "tags": [
+      "UI-Design",
+      "Zusammenarbeit",
+      "Designsysteme"
+    ]
+  },
+  {
+    "name": "Chroma",
+    "description": "Khroma ist ein KI-Farbtool, das aus Ihren Vorlieben lernt, um intelligente Farbpaletten zu erstellen und Designern dabei hilft, harmonische Farbschemata für ihre Projekte zu erstellen.",
+    "url": "/de/article/khroma",
+    "website": "https://khroma.co",
+    "tags": [
+      "Farberzeugung",
+      "KI-Farbe",
+      "Design-Tools"
+    ]
+  },
+  {
+    "name": "Galileo KI",
+    "description": "Galileo AI ist ein revolutionäres Designtool, das künstliche Intelligenz nutzt, um vollständige UI-Designs aus Textbeschreibungen zu generieren und so den Designprozess zu rationalisieren.",
+    "url": "/de/article/galileoai",
+    "website": "https://galileo-ai.com",
+    "tags": [
+      "KI-Design",
+      "UI-Generierung",
+      "Designautomatisierung"
+    ]
+  },
+  {
+    "name": "VisualEyes",
+    "description": "VisualEyes ist eine KI-gestützte Designanalyseplattform, die Teams dabei hilft, ihre UI-Designs durch prädiktive Analyse des Benutzerverhaltens zu testen und zu optimieren.",
+    "url": "/de/article/visualeyes",
+    "website": "https://visualeyes.design",
+    "tags": [
+      "Designanalyse",
+      "UX-Tests",
+      "Benutzerverhalten"
+    ]
+  }
+]

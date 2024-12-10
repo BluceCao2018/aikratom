@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Pictory",
+    "description": "Pictory is an AI-powered video creation platform that automatically transforms long-form content into engaging short-form videos with automated editing and subtitles.",
+    "url": "/en/article/pictory",
+    "website": "https://pictory.ai",
+    "tags": ["Video Creation", "Content Repurposing", "AI Editing"]
+  },
+  {
+    "name": "HeyGen",
+    "description": "HeyGen is an AI video generation platform that creates professional-quality videos with customizable AI avatars and natural voice synthesis for various business needs.",
+    "url": "/en/article/heygen",
+    "website": "https://heygen.com",
+    "tags": ["AI Video Generation", "Avatar Creation", "Voice Synthesis"]
+  },
+  {
+    "name": "Nullface",
+    "description": "Nullface is an AI-powered video editing tool that specializes in facial animation and expression manipulation, enabling creative video transformations.",
+    "url": "/en/article/nullface",
+    "website": "https://nullface.ai",
+    "tags": ["Facial Animation", "Video Editing", "AI Effects"]
+  },
+  {
+    "name": "Decohere",
+    "description": "Decohere is an advanced AI video synthesis platform that generates realistic video content from text descriptions, perfect for creative and commercial projects.",
+    "url": "/en/article/decohere",
+    "website": "https://decohere.ai",
+    "tags": ["Video Synthesis", "AI Generation", "Creative Tools"]
+  },
+  {
+    "name": "Synthesia",
+    "description": "Synthesia is a professional AI video creation platform that enables users to create custom videos with AI avatars and multilingual voice synthesis.",
+    "url": "/en/article/synthesia",
+    "website": "https://synthesia.io",
+    "tags": ["AI Video Creation", "Avatar Customization", "Multilingual Content"]
+  }
+]

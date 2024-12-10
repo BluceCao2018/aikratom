@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "例如",
+    "description": "Tldv（太長沒查看）是一款人工智慧驅動的會議助手，可以記錄、轉錄和總結會議，讓您可以輕鬆捕捉和分享視訊通話中的關鍵見解。",
+    "url": "/tw/article/tldv",
+    "website": "https://tldv.io",
+    "tags": [
+      "會議錄音",
+      "轉錄",
+      "會議紀要"
+    ]
+  },
+  {
+    "name": "克里斯普",
+    "description": "Krisp 是一款由人工智慧驅動的降噪應用程序，可消除通話中的背景噪音和迴聲，確保虛擬會議中清晰的音訊品質。",
+    "url": "/tw/article/krisp",
+    "website": "https://krisp.ai",
+    "tags": [
+      "降噪",
+      "音訊增強",
+      "滿足品質"
+    ]
+  },
+  {
+    "name": "獺",
+    "description": "Otter 是一款人工智慧會議助手，可提供即時轉錄、自動筆記和會議見解，以實現更好的協作和記錄。",
+    "url": "/tw/article/otter",
+    "website": "https://otter.ai",
+    "tags": [
+      "會議轉錄",
+      "做筆記",
+      "合作"
+    ]
+  },
+  {
+    "name": "他在喝酒",
+    "description": "Avama 是一款 AI 會議生命週期助手，可透過自動筆記、轉錄和分析幫助團隊準備、進行和跟進會議。",
+    "url": "/tw/article/avoma",
+    "website": "https://avoma.com",
+    "tags": [
+      "會議管理",
+      "人工智慧助手",
+      "會議分析"
+    ]
+  },
+  {
+    "name": "螢火蟲",
+    "description": "Fireflies 是一款人工智慧會議助手，可自動記錄、轉錄和分析對話，幫助團隊擷取和搜尋會議內容。",
+    "url": "/tw/article/fireflies",
+    "website": "https://fireflies.ai",
+    "tags": [
+      "會議情報",
+      "轉錄",
+      "搜尋"
+    ]
+  }
+]

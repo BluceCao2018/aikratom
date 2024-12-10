@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Typefully",
+    "description": "Typefully is a powerful Twitter thread composer and scheduler that helps creators write, plan, and publish engaging content with analytics and collaboration features.",
+    "url": "/en/article/typefully",
+    "website": "https://typefully.com",
+    "tags": ["Thread Composer", "Content Scheduling", "Analytics"]
+  },
+  {
+    "name": "Postwise",
+    "description": "Postwise is an AI-powered Twitter growth tool that helps users create viral content, schedule posts, and analyze performance through data-driven insights.",
+    "url": "/en/article/postwise",
+    "website": "https://postwise.ai",
+    "tags": ["AI Writing", "Growth Analytics", "Content Strategy"]
+  },
+  {
+    "name": "Metricool",
+    "description": "Metricool is a comprehensive social media analytics and scheduling platform that provides detailed insights and management tools for Twitter and other platforms.",
+    "url": "/en/article/metricool",
+    "website": "https://metricool.com",
+    "tags": ["Social Analytics", "Content Management", "Performance Tracking"]
+  },
+  {
+    "name": "Tribescaler",
+    "description": "Tribescaler is a Twitter growth automation platform that helps users build engaged audiences through smart engagement strategies and content optimization.",
+    "url": "/en/article/tribescaler",
+    "website": "https://tribescaler.com",
+    "tags": ["Audience Growth", "Engagement Automation", "Community Building"]
+  },
+  {
+    "name": "TweetHunter",
+    "description": "TweetHunter is an advanced Twitter growth tool that combines content inspiration, scheduling, and analytics to help users grow their audience and engagement.",
+    "url": "/en/article/tweethunter",
+    "website": "https://tweethunter.io",
+    "tags": ["Content Discovery", "Growth Tools", "Analytics"]
+  }
+]

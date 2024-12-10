@@ -1,0 +1,102 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+
+[
+  //A
+  {
+    "name": "idea",
+    "src": "idea.jsonc",
+    "link": "idea",
+    "description": "AI tools for idea generation."
+  },
+  {
+    "name": "twitter",
+    "src": "twitter.jsonc",
+    "link": "twitter",
+    "description": "AI tools for twitter."
+  },
+  {
+    "name": "Presentation",
+    "src": "presentation.jsonc",
+    "link": "presentation",
+    "description": "AI tools for presentation."
+  },
+  {
+    "name": "Website",
+    "src": "website.jsonc",
+    "link": "website",
+    "description": "AI tools for website."
+  },
+  {
+    "name": "Writing",
+    "src": "writing.jsonc",
+    "link": "writing",
+    "description": "AI tools for writing."
+  },
+  {
+    "name": "AI Model",
+    "src": "ai_model.jsonc",
+    "link": "ai_model",
+    "description": "AI tools for AI model."
+  },
+  {
+    "name": "Meeting",
+    "src": "meeting.jsonc",
+    "link": "meeting",
+    "description": "AI tools for meeting."
+  },
+  {
+    "name": "Chatbot",
+    "src": "chatbot.jsonc",
+    "link": "chatbot",
+    "description": "AI tools for chatbot."
+  },
+  {
+    "name": "Automation",
+    "src": "automation.jsonc",
+    "link": "automation",
+    "description": "AI tools for automation."
+  },
+  {
+    "name": "UI/UX",
+    "src": "ui_ux.jsonc",
+    "link": "ui_ux",
+    "description": "AI tools for UI/UX."
+  },
+  {
+    "name": "Image",
+    "src": "image.jsonc",
+    "link": "image",
+    "description": "AI tools for image."
+  },
+  {
+    "name": "Video",
+    "src": "video.jsonc",
+    "link": "video",
+    "description": "AI tools for video."
+  },
+  {
+    "name": "Design",
+    "src": "design.jsonc",
+    "link": "design",
+    "description": "AI tools for design."
+  },
+  {
+    "name": "Marketing",
+    "src": "marketing.jsonc",
+    "link": "marketing",
+    "description": "AI tools for marketing."
+  }
+]

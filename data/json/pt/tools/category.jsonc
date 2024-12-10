@@ -1,0 +1,100 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+[
+  {
+    "name": "ideia",
+    "src": "idea.jsonc",
+    "link": "idea",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "Twitter",
+    "src": "twitter.jsonc",
+    "link": "twitter",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "Apresentação",
+    "src": "presentation.jsonc",
+    "link": "presentation",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "Site",
+    "src": "website.jsonc",
+    "link": "website",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "Escrita",
+    "src": "writing.jsonc",
+    "link": "writing",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "Modelo de IA",
+    "src": "ai_model.jsonc",
+    "link": "ai_model",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "Reunião",
+    "src": "meeting.jsonc",
+    "link": "meeting",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "Bot de bate-papo",
+    "src": "chatbot.jsonc",
+    "link": "chatbot",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "Automação",
+    "src": "automation.jsonc",
+    "link": "automation",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "UI/UX",
+    "src": "ui_ux.jsonc",
+    "link": "ui_ux",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "Imagem",
+    "src": "image.jsonc",
+    "link": "image",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "Vídeo",
+    "src": "video.jsonc",
+    "link": "video",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "Projeto",
+    "src": "design.jsonc",
+    "link": "design",
+    "description": "Ferramentas criativas inspiradoras."
+  },
+  {
+    "name": "Marketing",
+    "src": "marketing.jsonc",
+    "link": "marketing",
+    "description": "Ferramentas criativas inspiradoras."
+  }
+]

@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "tranh ảnh",
+    "description": "Pictory là một nền tảng tạo video được hỗ trợ bởi AI, tự động chuyển đổi nội dung dạng dài thành video dạng ngắn hấp dẫn với tính năng chỉnh sửa và phụ đề tự động.",
+    "url": "/vi/article/pictory",
+    "website": "https://pictory.ai",
+    "tags": [
+      "Tạo video",
+      "Tái sử dụng nội dung",
+      "Chỉnh sửa AI"
+    ]
+  },
+  {
+    "name": "HeyGen",
+    "description": "HeyGen là nền tảng tạo video AI giúp tạo ra các video chất lượng chuyên nghiệp với hình đại diện AI có thể tùy chỉnh và tổng hợp giọng nói tự nhiên cho các nhu cầu kinh doanh khác nhau.",
+    "url": "/vi/article/heygen",
+    "website": "https://heygen.com",
+    "tags": [
+      "Tạo video AI",
+      "Tạo Avatar",
+      "Tổng hợp giọng nói"
+    ]
+  },
+  {
+    "name": "Nullface",
+    "description": "Nullface là một công cụ chỉnh sửa video được hỗ trợ bởi AI, chuyên về hoạt hình khuôn mặt và thao tác biểu cảm, cho phép chuyển đổi video sáng tạo.",
+    "url": "/vi/article/nullface",
+    "website": "https://nullface.ai",
+    "tags": [
+      "Hoạt hình khuôn mặt",
+      "Chỉnh sửa video",
+      "Hiệu ứng AI"
+    ]
+  },
+  {
+    "name": "trang trí",
+    "description": "Decohere là nền tảng tổng hợp video AI tiên tiến giúp tạo ra nội dung video chân thực từ mô tả văn bản, hoàn hảo cho các dự án sáng tạo và thương mại.",
+    "url": "/vi/article/decohere",
+    "website": "https://decohere.ai",
+    "tags": [
+      "Tổng hợp video",
+      "Thế hệ AI",
+      "Công cụ sáng tạo"
+    ]
+  },
+  {
+    "name": "tổng hợp",
+    "description": "Synthesia là nền tảng tạo video AI chuyên nghiệp cho phép người dùng tạo video tùy chỉnh với hình đại diện AI và tổng hợp giọng nói đa ngôn ngữ.",
+    "url": "/vi/article/synthesia",
+    "website": "https://synthesia.io",
+    "tags": [
+      "Tạo video AI",
+      "Tùy chỉnh hình đại diện",
+      "Nội dung đa ngôn ngữ"
+    ]
+  }
+]

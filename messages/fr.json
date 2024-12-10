@@ -1,0 +1,95 @@
+{
+  "website":{
+    "domain": "https://aikratom.com"
+  },
+  "home": {
+    "meta_title": "Toutes les outils d'intelligence artificielle que vous cherchez sont sur AI Kratom - Commencez la navigation",
+    "meta_description": "Avec le navigateur du répertoire d'IA de aikratom.com, qui vous comprend vraiment, vous pouvez découvrir sans effort les meilleurs et les plus populaires outils d'intelligence artificielle. Explorez dès maintenant!",
+    "h2": "Toutes les outils d'intelligence artificielle que vous cherchez sont sur AI Kratom",
+    "description": "Découvrez les meilleurs et les plus populaires outils d'intelligence artificielle de 2024 avec le navigateur du répertoire d'IA de aikratom.com qui vous comprend!"
+  },
+  "category": {
+    "meta_title": "Catégorie｜Toutes les outils d'intelligence artificielle que vous cherchez sont sur ",
+    "meta_description": "Vous pouvez chercher les outils d'intelligence artificielle dont vous avez besoin selon les catégories et AI Kratom vous aidera à choisir les outils d'intelligence artificielle appropriés.",
+    "homeBtn": "Accueil",
+    "categoryBtn": "Catégorie",
+    "h1": "Catégories d'outils d'intelligence artificielle",
+    "h2": "Trouvez ici tous les outils d'intelligence artificielle dont vous avez besoin",
+    "h2description": "Tous les outils d'intelligence artificielle sont triés par ordre alphabétique"
+  },
+  "article": {
+    "meta_title": "Article｜Toutes les outils d'intelligence artificielle que vous cherchez sont sur ",
+    "meta_description": "En lisant ces articles sur AI Kratom, vous pouvez rapidement acquérir des connaissances sur les outils d'intelligence artificielle et, en même temps, cela vous aidera à choisir les outils d'intelligence artificielle appropriés.",
+    "h1": "Articles",
+    "h2": "Lisez plus d'articles sur les outils d'intelligence artificielle et choisissez les outils d'intelligence artificielle appropriés pour vous",
+    "homeBtn": "Accueil",
+    "articleBtn": "Article",
+    "backToArticles": "Retour aux articles"
+  },
+  "changelog": {
+    "meta_title": "Journal des modifications",
+    "meta_description": "Restez informé des dernières mises à jour sur DevToolset.net",
+    "h1": "Journal des modifications",
+    "h2": "Restez informé des dernières mises à jour sur DevToolset.net",
+    "homeBtn": "Accueil",
+    "changelogBtn": "Journal des modifications"
+  },
+  "tools": {
+    "meta_description": "Trouvez tous les outils de développement essentiels dont vous avez besoin pour votre parcours de développement",
+    "h2_1": "Tous les outils d'IA liés à",
+    "h2_2": "",
+    "homeBtn": "Accueil"
+  },
+  "search": {
+    "input_placeholder": "Rechercher des outils par nom / étiquettes...",
+    "heading": "Suggestions",
+    "more": "Plus",
+    "button": "Rechercher"
+  },
+  "navigation": {
+    "homeBtn": "Accueil",
+    "categoryBtn": "Catégorie",
+    "moreCategoryBtn": "Plus",
+    "moreCategoryDescription": "Plus de catégories",
+    "articleBtn": "Article",
+    "articleDescription": "Découvrez les meilleurs et les plus populaires outils d'intelligence artificielle avec AI Kratom",
+    "article1Title": "Navigateur du répertoire d'IA qui vous comprend!",
+    "article2Title": "Déployer votre propre ensemble d'outils de développement",
+    "moreArticleBtn": "Plus",
+    "moreArticleDescription": "Plus d'articles",
+    "changelogBtn": "Journal des modifications",
+    "submitToolBtn": "Soumettre un outil",
+    "aboutBtn": "À propos"
+  },
+  "footer": {
+    "description": "Site web d'information complet et à jour sur les outils d'intelligence artificielle",
+    "builtWith": "Construit avec",
+    "quickLinks": "Liens rapides",
+    "home": "Accueil",
+    "category": "Catégorie",
+    "article": "Article",
+    "changelog": "Journal des modifications",
+    "privacy": "Confidentialité",
+    "termsOfService": "Conditions d'utilisation",
+    "legal": "Légal",
+    "connect": "Connecter",
+    "support": "Support",
+    "copyright": "Tous droits réservés"
+  },
+  "toolsList": {
+    "more": "Plus",
+    "tools": "Outils"
+  },
+  "articleList": {
+    "h2": "Articles",
+    "moreArticles": "Plus d'articles"
+  },
+  "about": {
+    "meta_title": "Répertoire d'outils d'IA AI Kratom - Explorez le monde sans limites de l'IA",
+    "meta_description": "Dans l'ère actuelle du développement numérique rapide, l'Intelligence Artificielle (IA) est devenue une partie intégrante de tous les domaines et une force puissante qui stimule l'innovation et le changement. Pour vous aider à explorer, découvrir et utiliser plus facilement les nombreux excellents outils d'IA, AI Kratom a soigneusement créé ce site répertoire d'outils d'IA.",
+    "h1": "À propos de AI Kratom",
+    "h2": "À propos de AI Kratom",
+    "homeBtn": "Accueil",
+    "aboutBtn": "À propos"
+  }
+} 

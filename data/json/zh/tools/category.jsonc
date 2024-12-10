@@ -1,0 +1,100 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+[
+  {
+    "name": "AI灵感",
+    "src": "idea.jsonc",
+    "link": "idea",
+    "description": "AI灵感创作工具."
+  },
+  {
+    "name": "推特",
+    "src": "twitter.jsonc",
+    "link": "twitter",
+    "description": "推特工具."
+  },
+  {
+    "name": "推介会",
+    "src": "presentation.jsonc",
+    "link": "presentation",
+    "description": "presentation工具."
+  },
+  {
+    "name": "AI网站",
+    "src": "website.jsonc",
+    "link": "website",
+    "description": "AI网站工具."
+  },
+  {
+    "name": "AI写作",
+    "src": "writing.jsonc",
+    "link": "writing",
+    "description": "AI写作工具."
+  },
+  {
+    "name": "AI模型",
+    "src": "ai_model.jsonc",
+    "link": "ai_model",
+    "description": "AI模型."
+  },
+  {
+    "name": "AI会议",
+    "src": "meeting.jsonc",
+    "link": "meeting",
+    "description": "AI会议工具."
+  },
+  {
+    "name": "聊天机器人",
+    "src": "chatbot.jsonc",
+    "link": "chatbot",
+    "description": "聊天机器人."
+  },
+  {
+    "name": "AI自动化",
+    "src": "automation.jsonc",
+    "link": "automation",
+    "description": "AI自动化工具."
+  },
+  {
+    "name": "UI/UX",
+    "src": "ui_ux.jsonc",
+    "link": "ui_ux",
+    "description": "UI/UX工具."
+  },
+  {
+    "name": "AI图像",
+    "src": "image.jsonc",
+    "link": "image",
+    "description": "AI图像工具."
+  },
+  {
+    "name": "AI视频",
+    "src": "video.jsonc",
+    "link": "video",
+    "description": "AI视频工具."
+  },
+  {
+    "name": "AI设计",
+    "src": "design.jsonc",
+    "link": "design",
+    "description": "AI设计工具."
+  },
+  {
+    "name": "AI营销",
+    "src": "marketing.jsonc",
+    "link": "marketing",
+    "description": "AI营销工具."
+  }
+]

@@ -1,0 +1,69 @@
+
+[
+  {
+    "name": "giữa hành trình",
+    "description": "Midjourney là công cụ tạo nghệ thuật AI mạnh mẽ, tạo ra những hình ảnh tuyệt đẹp, chất lượng cao từ mô tả văn bản, mang đến phong cách nghệ thuật độc đáo và khả năng tạo hình ảnh nâng cao.",
+    "url": "/vi/article/midjourney",
+    "website": "https://www.midjourney.com",
+    "tags": [
+      "AI Art",
+      "Tạo hình ảnh",
+      "Nghệ Thuật Kỹ Thuật Số"
+    ]
+  },
+  {
+    "name": "Kiểu dáng",
+    "description": "Stylar là một công cụ thiết kế được hỗ trợ bởi AI, giúp tạo và chỉnh sửa hình ảnh với nhiều phong cách nghệ thuật khác nhau, hoàn hảo cho nội dung thương hiệu và hình ảnh trên mạng xã hội.",
+    "url": "/vi/article/stylar",
+    "website": "https://www.stylar.ai",
+    "tags": [
+      "Chuyển phong cách",
+      "Thiết kế thương hiệu",
+      "Truyền thông xã hội"
+    ]
+  },
+  {
+    "name": "Freepik",
+    "description": "Freepik là một nền tảng toàn diện cung cấp hàng triệu vectơ, ảnh stock, tệp PSD và biểu tượng miễn phí cho các dự án sáng tạo và nhu cầu thiết kế.",
+    "url": "/vi/article/freepik",
+    "website": "https://www.freepik.com",
+    "tags": [
+      "Hình ảnh chứng khoán",
+      "Đồ Họa Vector",
+      "Tài nguyên thiết kế"
+    ]
+  },
+  {
+    "name": "Phyqital+",
+    "description": "Phyqital+ là nền tảng nâng cao hình ảnh AI tiên tiến giúp biến đổi và nâng cấp hình ảnh trong khi vẫn duy trì chất lượng và thêm các hiệu ứng sáng tạo.",
+    "url": "/vi/article/phyqital",
+    "website": "https://phyqital.plus",
+    "tags": [
+      "Cải thiện hình ảnh",
+      "Nâng cấp AI",
+      "Chỉnh sửa ảnh"
+    ]
+  },
+  {
+    "name": "cổ phiếuIMG",
+    "description": "StockIMG là một nền tảng hình ảnh chứng khoán được hỗ trợ bởi AI, tạo và cung cấp các hình ảnh có thể tùy chỉnh, miễn phí bản quyền cho nhiều mục đích thương mại và sáng tạo khác nhau.",
+    "url": "/vi/article/stockimg",
+    "website": "https://stockimg.ai",
+    "tags": [
+      "Hình ảnh chứng khoán",
+      "Thế hệ AI",
+      "sử dụng thương mại"
+    ]
+  },
+  {
+    "name": "Tạo Bing",
+    "description": "Bing Create là công cụ tạo hình ảnh AI của Microsoft cho phép người dùng tạo hình ảnh tùy chỉnh từ mô tả văn bản bằng công nghệ DALL-E.",
+    "url": "/vi/article/bingcreate",
+    "website": "https://www.bing.com/create",
+    "tags": [
+      "Thế hệ AI",
+      "DALL-E",
+      "Microsoft AI"
+    ]
+  }
+]

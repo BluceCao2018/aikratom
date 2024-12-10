@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "圖畫",
+    "description": "Pictory 是一個由人工智慧驅動的影片創作平台，可透過自動編輯和字幕自動將長格式內容轉換為引人入勝的短影片。",
+    "url": "/tw/article/pictory",
+    "website": "https://pictory.ai",
+    "tags": [
+      "影片創作",
+      "內容再利用",
+      "人工智慧編輯"
+    ]
+  },
+  {
+    "name": "海根",
+    "description": "HeyGen 是一個 AI 視訊生成平台，可根據各種業務需求創建具有可自訂 AI 頭像和自然語音合成的專業品質視訊。",
+    "url": "/tw/article/heygen",
+    "website": "https://heygen.com",
+    "tags": [
+      "人工智慧影片生成",
+      "頭像創建",
+      "語音合成"
+    ]
+  },
+  {
+    "name": "空面",
+    "description": "Nullface 是一款由人工智慧驅動的影片編輯工具，專門從事臉部動畫和表情操作，可實現創意影片轉換。",
+    "url": "/tw/article/nullface",
+    "website": "https://nullface.ai",
+    "tags": [
+      "臉部動畫",
+      "影片編輯",
+      "人工智慧效果"
+    ]
+  },
+  {
+    "name": "脫科赫",
+    "description": "Decohere 是一個先進的人工智慧視訊合成平台，可根據文字描述產生逼真的視訊內容，非常適合創意和商業專案。",
+    "url": "/tw/article/decohere",
+    "website": "https://decohere.ai",
+    "tags": [
+      "視訊合成",
+      "人工智慧世代",
+      "創意工具"
+    ]
+  },
+  {
+    "name": "合成",
+    "description": "Synthesia是一個專業的AI影片創作平台，用戶可以利用AI頭像和多語言語音合成來創建自訂影片。",
+    "url": "/tw/article/synthesia",
+    "website": "https://synthesia.io",
+    "tags": [
+      "人工智慧影片創作",
+      "頭像定制",
+      "多語言內容"
+    ]
+  }
+]

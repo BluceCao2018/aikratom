@@ -1,0 +1,87 @@
+{
+  "website":{
+    "domain": "https://aikratom.com"
+  },
+  "home": {
+    "meta_title": "Tất cả các công cụ AI mà bạn muốn đều có trên AI Kratom - Bắt đầu điều hướng",
+    "meta_description": "Với Navegateur Đường dẫn Thư mục AI của aikratom.com, công cụ này thực sự hiểu bạn, bạn có thể dễ dàng tìm ra các công cụ AI tốt nhất và phổ biến nhất. Khám phá ngay bây giờ!",
+    "h2": "Tất cả các công cụ AI mà bạn muốn đều có trên AI Kratom",
+    "description": "Khám phá các công cụ AI tốt nhất và phổ biến nhất năm 2024 với Navegateur Đường dẫn Thư mục AI của aikratom.com mà công cụ này hiểu bạn!"
+  },
+  "category": {
+    "meta_title": "Danh mục｜Tất cả các công cụ AI mà bạn muốn đều có trên ",
+    "meta_description": "Bạn có thể tìm kiếm các công cụ AI cần thiết theo các danh mục và AI Kratom sẽ giúp bạn chọn các công cụ AI thích hợp.",
+    "homeBtn": "Trang chủ",
+    "categoryBtn": "Danh mục",
+    "h1": "Danh mục công cụ AI",
+    "h2": "Tìm thấy mọi công cụ AI bạn cần tại đây",
+    "h2description": "Tất cả các công cụ AI được sắp xếp theo thứ tự bảng chữ cái"
+  },
+  "article": {
+    "meta_title": "Bài viết｜Tất cả các công cụ AI mà bạn muốn đều có trên ",
+    "meta_description": "Bằng cách đọc các bài viết trên AI Kratom, bạn có thể nhanh chóng tiếp thu kiến thức về các công cụ AI và đồng thời, nó cũng sẽ giúp bạn chọn các công cụ AI thích hợp.",
+    "h1": "Bài viết",
+    "h2": "Đọc thêm các bài viết về các công cụ AI và chọn các công cụ AI thích hợp cho bạn",
+    "homeBtn": "Trang chủ",
+    "articleBtn": "Bài viết",
+    "backToArticles": "Quay lại các bài viết"
+  },
+  "changelog": {
+    "meta_title": "Nhật ký thay đổi",
+    "meta_description": "Cập nhật thông tin về những cập nhật mới nhất trên DevToolset.net",
+    "h1": "Nhật ký thay đổi",
+    "h2": "Cập nhật thông tin về những cập nhật mới nhất trên DevToolset.net",
+    "homeBtn": "Trang chủ",
+    "changelogBtn": "Nhật ký thay đổi"
+  },
+  "tools": {
+    "meta_description": "Tìm thấy mọi công cụ phát triển cần thiết cho hành trình phát triển của bạn",
+    "h2_1": "Tất cả các công cụ trí tuệ nhân tạo liên quan đến",
+    "h2_2": "",
+    "homeBtn": "Trang chủ"
+  },
+  "search": {
+    "input_placeholder": "Tìm kiếm công cụ theo tên / thẻ...",
+    "heading": "Đề xuất",
+    "more": "Thêm",
+    "button": "Tìm kiếm"
+  },
+  "navigation": {
+    "homeBtn": "Trang chủ",
+    "categoryBtn": "Danh mục",
+    "moreCategoryBtn": "Thêm",
+    "moreCategoryDescription": "Nhiều danh mục hơn",
+    "articleBtn": "Bài viết",
+    "articleDescription": "Khám phá các công cụ AI tốt nhất và phổ biến nhất với AI Kratom",
+    "article1Title": "Navegateur Đường dẫn Thư mục AI mà công cụ này hiểu bạn!",
+    "article2Title": "Để lại công cụ phát triển của riêng bạn",
+    "moreArticleBtn": "Thêm",
+    "moreArticleDescription": "Nhiều bài viết hơn",
+    "changelogBtn": "Nhật ký thay đổi",
+    "submitToolBtn": "Nộp công cụ",
+    "aboutBtn": "Giới thiệu"
+  },
+  "footer": {
+    "description": "Trang web có thông tin công cụ AI đầy đủ và kịp thời",
+    "builtWith": "Được xây dựng bằng",
+    "quickLinks": "Liên kết nhanh",
+    "home": "Trang chủ",
+    "category": "Danh mục",
+    "article": "Bài viết",
+    "changelog": "Nhật ký thay đổi",
+    "privacy": "Bảo mật",
+    "termsOfService": "Điều khoản sử dụng",
+    "legal": "Pháp lý",
+    "connect": "Kết nối",
+    "support": "Hỗ trợ",
+    "copyright": "Tuyệt đối không được sao chép"
+  },
+  "toolsList": {
+    "more": "Thêm",
+    "tools": "Công cụ"
+  },
+  "articleList": {
+    "h2": "Bài viết",
+    "moreArticles": "Nhiều bài viết hơn"
+  }
+} 

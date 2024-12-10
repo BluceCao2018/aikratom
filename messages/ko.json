@@ -1,0 +1,87 @@
+{
+  "website":{
+    "domain": "https://aikratom.com"
+  },
+  "home": {
+    "meta_title": "원하는 모든 AI 도구가 AI Kratom에 있습니다. - 탐색 시작",
+    "meta_description": "진정으로 당신을 이해해주는 aikratom.com의 One AI 디렉터리 내비게이터를 이용하면 최고이고 가장 인기 있는 AI 도구를 쉽게 찾을 수 있습니다. 지금 바로 탐색해보세요!",
+    "h2": "원하는 모든 AI 도구가 AI Kratom에 있습니다.",
+    "description": "당신을 이해해주는 aikratom.com의 One AI 디렉터리 내비게이터를 통해 2024년 최고이고 가장 인기 있는 AI 도구를 발견하세요!"
+  },
+  "category": {
+    "meta_title": "분류｜원하는 모든 AI 도구가 ",
+    "meta_description": "분류에 따라 필요한 AI 도구를 찾을 수 있으며, AI Kratom이 적절한 AI 도구를 선택하는 데 도움을 줄 것입니다.",
+    "homeBtn": "홈",
+    "categoryBtn": "분류",
+    "h1": "AI 도구 분류",
+    "h2": "여기에서 필요한 모든 AI 도구를 찾으세요.",
+    "h2description": "모든 AI 도구는 알파벳순으로 정렬되어 있습니다."
+  },
+  "article": {
+    "meta_title": "기사｜원하는 모든 AI 도구가 ",
+    "meta_description": "AI Kratom의 이러한 기사를 읽음으로써 AI 도구에 대한 지식을 빠르게 습득할 수 있으며, 동시에 적절한 AI 도구를 선택하는 데 도움을 받을 수 있습니다.",
+    "h1": "기사",
+    "h2": "AI 도구에 대한 더 많은 기사를 읽고 자신에게 적절한 AI 도구를 선택하세요.",
+    "homeBtn": "홈",
+    "articleBtn": "기사",
+    "backToArticles": "기사로 돌아가기"
+  },
+  "changelog": {
+    "meta_title": "변경 기록",
+    "meta_description": "DevToolset.net의 최신 업데이트를 최신 정보로 유지하세요.",
+    "h1": "변경 기록",
+    "h2": "DevToolset.net의 최신 업데이트를 최신 정보로 유지하세요.",
+    "homeBtn": "홈",
+    "changelogBtn": "변경 기록"
+  },
+  "tools": {
+    "meta_description": "개발 여정에서 필요한 모든 필수 개발 도구를 찾으세요.",
+    "h2_1": "관련된 모든 AI 도구",
+    "h2_2": "",
+    "homeBtn": "홈"
+  },
+  "search": {
+    "input_placeholder": "이름/태그로 도구를 검색하세요...",
+    "heading": "제안",
+    "more": "더 많은",
+    "button": "검색"
+  },
+  "navigation": {
+    "homeBtn": "홈",
+    "categoryBtn": "분류",
+    "moreCategoryBtn": "더 많은",
+    "moreCategoryDescription": "더 많은 분류",
+    "articleBtn": "기사",
+    "articleDescription": "AI Kratom을 통해 최고이고 가장 인기 있는 AI 도구를 발견하세요.",
+    "article1Title": "당신을 이해하는 One AI 디렉터리 내비게이터!",
+    "article2Title": "자신의 DevToolset을 배포하세요.",
+    "moreArticleBtn": "더 많은",
+    "moreArticleDescription": "더 많은 기사",
+    "changelogBtn": "변경 기록",
+    "submitToolBtn": "도구 제출",
+    "aboutBtn": "소개"
+  },
+  "footer": {
+    "description": "전반적이고 적시적인 AI 도구 정보 웹사이트",
+    "builtWith": "제작됨",
+    "quickLinks": "빠른 링크",
+    "home": "홈",
+    "category": "분류",
+    "article": "기사",
+    "changelog": "변경 기록",
+    "privacy": "개인 정보 보호",
+    "termsOfService": "서비스 약관",
+    "legal": "법적",
+    "connect": "연결",
+    "support": "지원",
+    "copyright": "저작권 보유"
+  },
+  "toolsList": {
+    "more": "더 많은",
+    "tools": "도구"
+  },
+  "articleList": {
+    "h2": "기사",
+    "moreArticles": "더 많은 기사"
+  }
+} 

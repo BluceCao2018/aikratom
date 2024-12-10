@@ -1,0 +1,25 @@
+
+[
+  {
+    "name": "RenderNet",
+    "description": "RenderNet ist eine fortschrittliche KI-gestützte 3D-Rendering-Plattform, die 2D-Designs in fotorealistische 3D-Visualisierungen umwandelt und speziell für Architekten, Innenarchitekten und Produktentwickler entwickelt wurde.",
+    "url": "/de/article/rendernet",
+    "website": "https://rendernet.ai",
+    "tags": [
+      "3D-Rendering",
+      "KI-Visualisierung",
+      "Architektur"
+    ]
+  },
+  {
+    "name": "Glambase-App",
+    "description": "Glambase App ist eine KI-gestützte Beauty- und Modeplattform, die personalisierte Stilempfehlungen und virtuelle Anproben bietet und Benutzern dabei hilft, verschiedene Looks zu entdecken und damit zu experimentieren.",
+    "url": "/de/article/glambaseapp",
+    "website": "https://glambase.app",
+    "tags": [
+      "Schönheits-KI",
+      "Virtuelle Anprobe",
+      "Stilassistent"
+    ]
+  }
+]

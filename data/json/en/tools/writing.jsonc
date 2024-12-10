@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Rytr",
+    "description": "Rytr is an AI writing assistant that helps create high-quality content for various purposes, from marketing copy to creative writing, with customizable tones and styles.",
+    "url": "/en/article/rytr",
+    "website": "https://rytr.me",
+    "tags": ["AI Writing", "Content Generation", "Copywriting"]
+  },
+  {
+    "name": "Jasper",
+    "description": "Jasper is a comprehensive AI content platform that helps teams create original, on-brand content at scale with advanced AI writing capabilities and collaboration tools.",
+    "url": "/en/article/jasper",
+    "website": "https://jasper.ai",
+    "tags": ["AI Content", "Team Collaboration", "Brand Voice"]
+  },
+  {
+    "name": "Copy AI",
+    "description": "Copy AI is an AI-powered copywriting tool that generates creative content for marketing, social media, and business communications with various templates and styles.",
+    "url": "/en/article/copyai",
+    "website": "https://copy.ai",
+    "tags": ["Copywriting", "Marketing Content", "Social Media"]
+  },
+  {
+    "name": "Textblaze",
+    "description": "Textblaze is a text expansion and automation tool that helps users create and manage snippets, templates, and automated workflows for efficient writing.",
+    "url": "/en/article/textblaze",
+    "website": "https://blaze.today",
+    "tags": ["Text Expansion", "Automation", "Productivity"]
+  },
+  {
+    "name": "Sudowrite",
+    "description": "Sudowrite is an AI writing assistant specifically designed for creative writers, offering story development, character creation, and writing enhancement tools.",
+    "url": "/en/article/sudowrite",
+    "website": "https://sudowrite.com",
+    "tags": ["Creative Writing", "Story Development", "Writing Assistant"]
+  },
+  {
+    "name": "Writesonic",
+    "description": "Writesonic is a comprehensive AI writing platform that helps users create high-quality content for various purposes, from marketing copy to creative writing, with customizable tones and styles.",
+    "url": "/en/article/writesonic",
+    "website": "https://writesonic.com",
+    "tags": ["AI Writing", "Content Generation", "Copywriting"]
+  }
+]

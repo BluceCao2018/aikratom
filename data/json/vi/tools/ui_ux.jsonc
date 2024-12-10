@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "Uizard",
+    "description": "Uizard là nền tảng thiết kế được hỗ trợ bởi AI, biến các bản phác thảo và ý tưởng thành các thiết kế giao diện người dùng chuyên nghiệp, giúp các nhóm tạo ra giao diện đẹp mắt một cách nhanh chóng và hiệu quả.",
+    "url": "/vi/article/uizard",
+    "website": "https://uizard.io",
+    "tags": [
+      "Thiết kế giao diện người dùng",
+      "nguyên mẫu",
+      "Tự động hóa thiết kế"
+    ]
+  },
+  {
+    "name": "trực quan",
+    "description": "Visily là một công cụ thiết kế giao diện người dùng thông minh sử dụng AI để giúp các nhóm tạo và lặp lại giao diện người dùng với các tính năng hệ thống thiết kế và cộng tác mạnh mẽ.",
+    "url": "/vi/article/visily",
+    "website": "https://visily.ai",
+    "tags": [
+      "Thiết kế giao diện người dùng",
+      "Sự hợp tác",
+      "Hệ thống thiết kế"
+    ]
+  },
+  {
+    "name": "sắc độ",
+    "description": "Khroma là một công cụ màu AI học hỏi từ sở thích của bạn để tạo ra các bảng màu thông minh, giúp các nhà thiết kế tạo ra cách phối màu hài hòa cho dự án của họ.",
+    "url": "/vi/article/khroma",
+    "website": "https://khroma.co",
+    "tags": [
+      "Tạo màu",
+      "Màu AI",
+      "Công cụ thiết kế"
+    ]
+  },
+  {
+    "name": "Galileo AI",
+    "description": "Galileo AI là một công cụ thiết kế mang tính cách mạng sử dụng trí tuệ nhân tạo để tạo ra các thiết kế giao diện người dùng hoàn chỉnh từ mô tả văn bản, hợp lý hóa quy trình thiết kế.",
+    "url": "/vi/article/galileoai",
+    "website": "https://galileo-ai.com",
+    "tags": [
+      "Thiết kế AI",
+      "Tạo giao diện người dùng",
+      "Tự động hóa thiết kế"
+    ]
+  },
+  {
+    "name": "Mắt Trực Quan",
+    "description": "VisualEyes là nền tảng phân tích thiết kế được hỗ trợ bởi AI giúp các nhóm thử nghiệm và tối ưu hóa thiết kế giao diện người dùng của họ thông qua phân tích dự đoán hành vi người dùng.",
+    "url": "/vi/article/visualeyes",
+    "website": "https://visualeyes.design",
+    "tags": [
+      "Phân tích thiết kế",
+      "Kiểm tra trải nghiệm người dùng",
+      "Hành vi người dùng"
+    ]
+  }
+]

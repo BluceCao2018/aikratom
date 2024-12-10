@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Claude",
+    "description": "The AI chatbot developed by Anthropic is similar to ChatGPT from OpenAI and is currently recognized as one of the strongest competitors. Claude 3.5 supports a context length of up to 200,000 Tokens, can read and summarize PDF documents as long as 18 pages, and has a powerful code recognition ability.",
+    "url": "/en/article/claude",
+    "website": "https://claude.ai/",
+    "tags": ["AI Assistant", "Document Analysis", "Code Generation"]
+  },
+  {
+    "name": "ChatGPT",
+    "description": "ChatGPT is OpenAI's flagship conversational AI model that excels in natural language processing, creative writing, and problem-solving. It offers both free and premium versions with GPT-4 capabilities for enhanced performance.",
+    "url": "/en/article/chatgpt",
+    "website": "https://chat.openai.com",
+    "tags": ["Language Model", "Creative Writing", "Problem Solving"]
+  },
+  {
+    "name": "Perplexity",
+    "description": "Perplexity AI is an advanced search and discovery engine that combines AI-powered analysis with real-time information to provide accurate, cited answers and insights across various topics.",
+    "url": "/en/article/perplexity",
+    "website": "https://perplexity.ai",
+    "tags": ["AI Search", "Research Tool", "Knowledge Discovery"]
+  },
+  {
+    "name": "Bing Chat",
+    "description": "Bing Chat, powered by Microsoft's advanced AI technology, offers real-time information search, creative content generation, and interactive conversations with internet-connected capabilities.",
+    "url": "/en/article/bingchat",
+    "website": "https://www.bing.com/chat",
+    "tags": ["Search AI", "Content Generation", "Real-time Information"]
+  }
+]

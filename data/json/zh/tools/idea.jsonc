@@ -1,0 +1,47 @@
+
+[
+  {
+    "name": "克洛德",
+    "description": "Anthropic开发的AI聊天机器人与OpenAI的ChatGPT类似，目前被公认为最强大的竞争对手之一。 Claude 3.5支持高达200,000个Token的上下文长度，可以阅读和总结长达18页的PDF文档，并具有强大的代码识别能力。",
+    "url": "/zh/article/claude",
+    "website": "https://claude.ai/",
+    "tags": [
+      "人工智能助手",
+      "文件分析",
+      "代码生成"
+    ]
+  },
+  {
+    "name": "聊天GPT",
+    "description": "ChatGPT 是 OpenAI 的旗舰对话式 AI 模型，在自然语言处理、创意写作和问题解决方面表现出色。它提供免费版和高级版，具有 GPT-4 功能以增强性能。",
+    "url": "/zh/article/chatgpt",
+    "website": "https://chat.openai.com",
+    "tags": [
+      "语言模型",
+      "创意写作",
+      "解决问题"
+    ]
+  },
+  {
+    "name": "困惑",
+    "description": "Perplexity AI 是一种先进的搜索和发现引擎，它将人工智能驱动的分析与实时信息相结合，提供跨各种主题的准确、引用的答案和见解。",
+    "url": "/zh/article/perplexity",
+    "website": "https://perplexity.ai",
+    "tags": [
+      "人工智能搜索",
+      "研究工具",
+      "知识发现"
+    ]
+  },
+  {
+    "name": "必应聊天",
+    "description": "Bing Chat 由微软先进的人工智能技术提供支持，提供实时信息搜索、创意内容生成以及具有互联网连接功能的交互式对话。",
+    "url": "/zh/article/bingchat",
+    "website": "https://www.bing.com/chat",
+    "tags": [
+      "搜索人工智能",
+      "内容生成",
+      "实时资讯"
+    ]
+  }
+]

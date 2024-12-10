@@ -1,0 +1,286 @@
+[
+    {
+        "name": "ClickUp",
+        "description": "ClickUp is an all-in-one productivity platform that combines project management, task automation, and team collaboration tools to streamline workflows and increase efficiency.",
+        "url": "/en/article/clickup",
+        "website": "https://clickup.com",
+        "tags": [
+            "Project Management",
+            "Task Automation",
+            "Team Collaboration"
+        ]
+    },
+    {
+        "name": "Drift",
+        "description": "Drift is a conversational marketing and sales platform that uses AI-powered chatbots and automation to engage website visitors and convert them into qualified leads.",
+        "url": "/en/article/drift",
+        "website": "https://drift.com",
+        "tags": [
+            "Conversational Marketing",
+            "Sales Automation",
+            "Lead Generation"
+        ]
+    },
+    {
+        "name": "Outreach",
+        "description": "Outreach is a sales engagement platform that automates and optimizes customer interactions through AI-driven insights and workflow automation.",
+        "url": "/en/article/outreach",
+        "website": "https://outreach.io",
+        "tags": [
+            "Sales Engagement",
+            "Workflow Automation",
+            "Customer Intelligence"
+        ]
+    },
+    {
+        "name": "Emplifi",
+        "description": "Emplifi is a unified customer experience platform that automates social media management, customer care, and marketing activities through AI-powered tools.",
+        "url": "/en/article/emplifi",
+        "website": "https://emplifi.io",
+        "tags": [
+            "Customer Experience",
+            "Social Media Automation",
+            "Marketing Analytics"
+        ]
+    },
+    {
+        "name": "Nhân vậtGen",
+        "description": "CharacterGen biến các hình ảnh đơn lẻ thành mô hình nhân vật 3D chính xác bằng công nghệ hiệu chỉnh tư thế đa góc nhìn, lý tưởng cho các nhà phát triển trò chơi, nhà làm phim hoạt hình",
+        "url": "/vi/article/charactergen",
+        "website": "https://character-gen.com",
+        "tags": [
+            "Mô hình 3D",
+            "Tạo nhân vật",
+            "Phát triển trò chơi",
+            "Hoạt hình"
+        ]
+    },
+    {
+        "name": "Máy phát điện AI Anime",
+        "description": "AI Anime Generator là một công cụ linh hoạt dành cho những người đam mê anime và nghệ sĩ kỹ thuật số để biến ý tưởng và hình ảnh thành hình ảnh và video tuyệt đẹp theo phong cách anime",
+        "url": "/vi/article/ai-anime-generator",
+        "website": "https://www.aianimegen.com",
+        "tags": [
+            "AI Art",
+            "Thế Hệ Anime",
+            "Xử lý hình ảnh",
+            "Nghệ Thuật Kỹ Thuật Số"
+        ]
+    },
+    {
+        "name": "Máy tạo cô gái AI",
+        "description": "Biến những lời thì thầm giàu trí tưởng tượng của bạn thành những nhân vật sống động, sống động, từ những chiến binh dũng cảm đến những pháp sư khôn ngoan và xem sự sáng tạo trở nên sống động",
+        "url": "/vi/article/ai-girl-generator",
+        "website": "https://girlgenerator.online",
+        "tags": [
+            "Tạo nhân vật",
+            "AI Art",
+            "Sáng tạo kỹ thuật số",
+            "Thiết kế nhân vật"
+        ]
+    },
+    {
+        "name": "LivePortrait online",
+        "description": "LivePortrait là một công cụ AI tạo hoạt ảnh cho các bức chân dung tĩnh với mô phỏng thực tế và hát nhép, lý tưởng cho những người sáng tạo, nhà tiếp thị và những người có sở thích.",
+        "url": "/vi/article/liveportrait-online",
+        "website": "https://liveportrait.online",
+        "tags": [
+            "Hoạt hình chân dung",
+            "AI Video",
+            "Hoạt hình khuôn mặt",
+            "Sáng tạo nội dung"
+        ]
+    },
+    {
+        "name": "Trình tạo Gif AI",
+        "description": "AI Gif Generator tạo ảnh GIF tùy chỉnh từ các từ khóa như \"mèo\" hoặc \"chó\". Hoàn hảo cho những người đam mê truyền thông xã hội và nhà tiếp thị, nó mang lại kết quả nhanh chóng, chính xác cho chúng tôi",
+        "url": "/vi/article/ai-gif-generator",
+        "website": "https://www.aigifgenerator.org",
+        "tags": [
+            "Tạo GIF",
+            "Thế hệ hoạt hình",
+            "Truyền thông xã hội",
+            "Tiếp thị nội dung"
+        ]
+    },
+    {
+        "name": "Chân dung trực tiếp.io",
+        "description": "Biến những bức ảnh của bạn thành những chuỗi hoạt hình sống động như thật với Live Portrait. Tận hưởng chất lượng vượt trội, đường khâu liền mạch và các tùy chọn cá nhân hóa",
+        "url": "/vi/article/live-portrait-io",
+        "website": "https://liveportrait.io",
+        "tags": [
+            "Hoạt hình chân dung",
+            "Tạo video",
+            "Hoạt hình AI",
+            "Nội dung số"
+        ]
+    },
+    {
+        "name": "Bạn gái AI tốt nhất",
+        "description": "Best AI Girlfriend là AI Girl Generator miễn phí cho phép bạn tạo và trò chuyện với bạn gái AI của riêng mình, mang đến nhiều phong cách và cá tính khác nhau.",
+        "url": "/vi/article/best-ai-girlfriend",
+        "website": "https://aigirl.best",
+        "tags": [
+            "Trò chuyện AI",
+            "Người bạn đồng hành ảo",
+            "Tương tác xã hội",
+            "Trí tuệ nhân tạo"
+        ]
+    },
+    {
+        "name": "LivePortrait app",
+        "description": "Nó cung cấp khả năng kiểm soát chính xác, hỗ trợ phong cách đa dạng và hình ảnh động tùy chỉnh. Các công nghệ cốt lõi đảm bảo tạo hoạt ảnh nhanh chóng và liền mạch",
+        "url": "/vi/article/liveportrait-app",
+        "website": "https://liveportrait.app",
+        "tags": [
+            "Sáng tạo hoạt hình",
+            "Ứng dụng di động",
+            "Chỉnh sửa video",
+            "Sáng tạo nội dung"
+        ]
+    },
+    {
+        "name": "phim hoạt hìnhGen",
+        "description": "tạo hình ảnh hoạt hình tùy chỉnh trong vài giây—chỉ cần tải hình ảnh lên hoặc mô tả tầm nhìn của bạn bằng văn bản",
+        "url": "/vi/article/cartoongen-com",
+        "website": "https://cartoongen.com",
+        "tags": [
+            "Thế hệ hoạt hình",
+            "Chuyển đổi hình ảnh",
+            "AI Art",
+            "Minh họa kỹ thuật số"
+        ]
+    },
+    {
+        "name": "Làm sinh động bức ảnh của tôi",
+        "description": "AnimateMyPic là một công cụ hỗ trợ AI giúp chuyển đổi ảnh tĩnh thành video chất lượng cao, hấp dẫn, hoàn hảo cho cả nghệ sĩ kỹ thuật số và người dùng thông thường.",
+        "url": "/vi/article/animate-my-pic",
+        "website": "https://animatemypic.com",
+        "tags": [
+            "Ảnh hoạt hình",
+            "Tạo video",
+            "Hoạt hình AI",
+            "Sáng tạo nội dung"
+        ]
+    },
+    {
+        "name": "ToonCrafter com",
+        "description": "ToonCrafter.com, sân chơi miễn phí mang đến trải nghiệm thực tế cho cả người mới bắt đầu cũng như các chuyên gia.",
+        "url": "/vi/article/tooncrafter-com",
+        "website": "https://toon-crafter.com",
+        "tags": [
+            "Sáng tạo phim hoạt hình",
+            "Nghệ Thuật Kỹ Thuật Số",
+            "Xử lý hình ảnh",
+            "Công cụ sáng tạo"
+        ]
+    },
+    {
+        "name": "AI chân dung trực tiếp",
+        "description": "Hoàn hảo cho tin nhắn video được cá nhân hóa, nó sử dụng công nghệ tái hiện để khớp chuyển động của đầu, nét mặt và giọng nói với ảnh tĩnh",
+        "url": "/vi/article/live-portrait-org",
+        "website": "https://liveportrait.org",
+        "tags": [
+            "Hoạt hình chân dung",
+            "AI Video",
+            "Biểu hiện trên khuôn mặt",
+            "Sáng tạo nội dung"
+        ]
+    },
+    {
+        "name": "LivePortrait AI",
+        "description": "Công cụ này cung cấp các tùy chọn tùy chỉnh và hoạt ảnh theo thời gian thực. Người dùng có thể xem trước các hoạt ảnh sống động như thật của mình ngay lập tức, trong khi sân chơi và khu trưng bày",
+        "url": "/vi/article/liveportrait-net",
+        "website": "https://live-portrait.net",
+        "tags": [
+            "Hoạt hình thời gian thực",
+            "AI Video",
+            "Nội dung số",
+            "Sản xuất video"
+        ]
+    },
+    {
+        "name": "Tổ chức Chân dung Trực tiếp",
+        "description": "Live Portrait org là một công cụ AI biến những bức chân dung tĩnh thành hoạt ảnh sống động như thật, hoàn hảo cho những người sáng tạo nội dung và những người đam mê mạng xã hội.",
+        "url": "/vi/article/live-portrait-org",
+        "website": "https://live-portrait.org",
+        "tags": [
+            "Hoạt hình chân dung",
+            "Sáng tạo nội dung",
+            "Truyền thông xã hội",
+            "AI Video"
+        ]
+    },
+    {
+        "name": "PicPicAI",
+        "description": "PicPicAI là một công cụ AI đa năng được thiết kế dành cho những người đam mê chỉnh sửa ảnh và các chuyên gia. Nó cung cấp tính năng xóa nền, nâng cao ảnh, nâng cấp và hơn thế nữa.",
+        "url": "/vi/article/picpicai",
+        "website": "https://picpicai.com",
+        "tags": [
+            "Chỉnh sửa hình ảnh",
+            "Cải thiện ảnh",
+            "Xử lý AI",
+            "Sáng tạo kỹ thuật số"
+        ]
+    },
+    {
+        "name": "AiAnimeMáy Phát Điện",
+        "description": "AiAnimeGenerator là một công cụ hỗ trợ AI dành cho những người đam mê anime và nghệ sĩ kỹ thuật số. Nhập mô tả, tạo hình ảnh và tải xuống anime chất lượng cao",
+        "url": "/vi/article/aianimegenerator",
+        "website": "https://aianimegenerator.net",
+        "tags": [
+            "Thế Hệ Anime",
+            "AI Art",
+            "Sáng tạo kỹ thuật số",
+            "Tạo hình ảnh"
+        ]
+    },
+    {
+        "name": "AI nỗi nhớ sâu sắc",
+        "description": "Người dùng tải ảnh lên và trong vòng 1-2 phút, Deep Nostalgia AI tạo ra các ảnh động chất lượng cao, mang đến một cách liền mạch để lưu giữ và kết nối với quá khứ.",
+        "url": "/vi/article/deep-nostalgia-ai",
+        "website": "https://deepnostalgia.ai",
+        "tags": [
+            "Ảnh hoạt hình",
+            "Xử lý nỗi nhớ",
+            "AI Video",
+            "Lịch sử gia đình"
+        ]
+    },
+    {
+        "name": "Trình tạo phim hoạt hình dễ dàng",
+        "description": "Công cụ AI để tạo nghệ thuật anime từ ảnh hoặc văn bản. Tạo ngay hình ảnh anime tùy chỉnh chỉ bằng một cú nhấp chuột trực tuyến đơn giản.",
+        "url": "/vi/article/easy-anime-maker",
+        "website": "https://ai-animegenerator.org",
+        "tags": [
+            "Sáng Tạo Anime",
+            "AI Art",
+            "Tạo hình ảnh",
+            "Nội dung số"
+        ]
+    },
+    {
+        "name": "Đám mây tạo phim hoạt hình AI",
+        "description": "Tạo hình ảnh anime tùy chỉnh với AI Anime Generator Cloud. Nhập lời nhắc, điều chỉnh cài đặt và sử dụng thẻ chất lượng để tạo cảnh anime hoàn hảo.",
+        "url": "/vi/article/ai-anime-generator-cloud",
+        "website": "https://aianimegenerator.cloud",
+        "tags": [
+            "Thế Hệ Anime",
+            "Dịch vụ đám mây",
+            "AI Art",
+            "Sáng tạo kỹ thuật số"
+        ]
+    },
+    {
+        "name": "Aopsal",
+        "description": "Aopsal là công cụ AI tạo hiệu ứng động cho ảnh cũ, biến ảnh tĩnh thành video động mà không cần đăng ký. Nó sử dụng công nghệ tiên tiến",
+        "url": "/vi/article/aopsal",
+        "website": "https://aopsai.com",
+        "tags": [
+            "Ảnh hoạt hình",
+            "AI Video",
+            "Hình ảnh lịch sử",
+            "Sáng tạo nội dung"
+        ]
+    }
+]

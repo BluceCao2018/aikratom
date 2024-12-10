@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Midjourney",
+    "description": "Midjourney is a powerful AI art generator that creates stunning, high-quality images from text descriptions, offering unique artistic styles and advanced image generation capabilities.",
+    "url": "/en/article/midjourney",
+    "website": "https://www.midjourney.com",
+    "tags": ["AI Art", "Image Generation", "Digital Art"]
+  },
+  {
+    "name": "Stylar",
+    "description": "Stylar is an AI-powered design tool that helps create and edit images with various artistic styles, perfect for brand content and social media visuals.",
+    "url": "/en/article/stylar",
+    "website": "https://www.stylar.ai",
+    "tags": ["Style Transfer", "Brand Design", "Social Media"]
+  },
+  {
+    "name": "Freepik",
+    "description": "Freepik is a comprehensive platform offering millions of free vectors, stock photos, PSD files, and icons for creative projects and design needs.",
+    "url": "/en/article/freepik",
+    "website": "https://www.freepik.com",
+    "tags": ["Stock Images", "Vector Graphics", "Design Resources"]
+  },
+  {
+    "name": "Phyqital+",
+    "description": "Phyqital+ is an advanced AI image enhancement platform that transforms and upscales images while maintaining quality and adding creative effects.",
+    "url": "/en/article/phyqital",
+    "website": "https://phyqital.plus",
+    "tags": ["Image Enhancement", "AI Upscaling", "Photo Editing"]
+  },
+  {
+    "name": "StockIMG",
+    "description": "StockIMG is an AI-powered stock image platform that generates and provides customizable, royalty-free images for various commercial and creative uses.",
+    "url": "/en/article/stockimg",
+    "website": "https://stockimg.ai",
+    "tags": ["Stock Photos", "AI Generation", "Commercial Use"]
+  },
+  {
+    "name": "Bing Create",
+    "description": "Bing Create is Microsoft's AI image generation tool that allows users to create custom images from text descriptions using DALL-E technology.",
+    "url": "/en/article/bingcreate",
+    "website": "https://www.bing.com/create",
+    "tags": ["AI Generation", "DALL-E", "Microsoft AI"]
+  }
+]

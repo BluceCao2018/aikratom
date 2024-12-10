@@ -1,0 +1,37 @@
+[
+  {
+    "name": "AdCopy",
+    "description": "AdCopy is an AI-powered copywriting tool that generates compelling ad copy for various marketing channels, helping marketers create effective advertising content quickly.",
+    "url": "/en/article/adcopy",
+    "website": "https://adcopy.ai",
+    "tags": ["Copywriting", "Ad Creation", "Marketing Content"]
+  },
+  {
+    "name": "Predis AI",
+    "description": "Predis AI is a social media marketing platform that uses artificial intelligence to predict content performance and generate optimized posts for better engagement.",
+    "url": "/en/article/predisai",
+    "website": "https://predis.ai",
+    "tags": ["Social Media", "Content Prediction", "Analytics"]
+  },
+  {
+    "name": "Howler AI",
+    "description": "Howler AI is an advanced marketing automation platform that helps businesses streamline their marketing campaigns through AI-driven insights and optimization.",
+    "url": "/en/article/howler",
+    "website": "https://howler.ai",
+    "tags": ["Marketing Automation", "Campaign Optimization", "AI Analytics"]
+  },
+  {
+    "name": "Bardeen AI",
+    "description": "Bardeen AI is an automation platform that helps marketers create and execute marketing workflows efficiently, integrating with various marketing tools and platforms.",
+    "url": "/en/article/bardeen",
+    "website": "https://bardeen.ai",
+    "tags": ["Workflow Automation", "Marketing Integration", "Productivity"]
+  },
+  {
+    "name": "AdCreative",
+    "description": "AdCreative is an AI-powered platform that generates and optimizes creative assets for digital advertising campaigns across multiple platforms and formats.",
+    "url": "/en/article/adcreative",
+    "website": "https://adcreative.ai",
+    "tags": ["Ad Design", "Creative Automation", "Digital Advertising"]
+  }
+]

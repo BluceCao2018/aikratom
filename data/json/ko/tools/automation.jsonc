@@ -1,0 +1,286 @@
+[
+    {
+        "name": "클릭업",
+        "description": "ClickUp은 프로젝트 관리, 작업 자동화 및 팀 협업 도구를 결합하여 워크플로를 간소화하고 효율성을 높이는 올인원 생산성 플랫폼입니다.",
+        "url": "/ko/article/clickup",
+        "website": "https://clickup.com",
+        "tags": [
+            "프로젝트 관리",
+            "작업 자동화",
+            "팀 협업"
+        ]
+    },
+    {
+        "name": "경향",
+        "description": "Drift는 AI 기반 챗봇과 자동화를 사용하여 웹사이트 방문자의 참여를 유도하고 자격을 갖춘 리드로 전환하는 대화형 마케팅 및 판매 플랫폼입니다.",
+        "url": "/ko/article/drift",
+        "website": "https://drift.com",
+        "tags": [
+            "대화형 마케팅",
+            "영업 자동화",
+            "리드 생성"
+        ]
+    },
+    {
+        "name": "쭉 내밀다",
+        "description": "Outreach는 AI 기반 통찰력과 워크플로 자동화를 통해 고객 상호 작용을 자동화하고 최적화하는 영업 참여 플랫폼입니다.",
+        "url": "/ko/article/outreach",
+        "website": "https://outreach.io",
+        "tags": [
+            "영업 참여",
+            "워크플로우 자동화",
+            "고객 인텔리전스"
+        ]
+    },
+    {
+        "name": "엠플리피",
+        "description": "Emplifi는 AI 기반 도구를 통해 소셜 미디어 관리, 고객 관리 및 마케팅 활동을 자동화하는 통합 고객 경험 플랫폼입니다.",
+        "url": "/ko/article/emplifi",
+        "website": "https://emplifi.io",
+        "tags": [
+            "고객 경험",
+            "소셜 미디어 자동화",
+            "마케팅 분석"
+        ]
+    },
+    {
+        "name": "캐릭터젠",
+        "description": "CharacterGen은 게임 개발자, 애니메이터에게 이상적인 다중 뷰 포즈 보정 기술을 사용하여 단일 이미지를 정밀한 3D 캐릭터 모델로 변환합니다.",
+        "url": "/ko/article/charactergen",
+        "website": "https://character-gen.com",
+        "tags": [
+            "3D 모델링",
+            "캐릭터 생성",
+            "게임 개발",
+            "생기"
+        ]
+    },
+    {
+        "name": "AI 애니메이션 생성기",
+        "description": "AI Anime Generator는 애니메이션 애호가와 디지털 아티스트가 아이디어와 사진을 놀라운 애니메이션 스타일의 이미지와 비디오로 변환할 수 있는 다용도 도구입니다.",
+        "url": "/ko/article/ai-anime-generator",
+        "website": "https://www.aianimegen.com",
+        "tags": [
+            "AI 아트",
+            "애니메이션 세대",
+            "이미지 처리",
+            "디지털 아트"
+        ]
+    },
+    {
+        "name": "AI 소녀 생성기",
+        "description": "상상력이 풍부한 속삭임을 용감한 전사부터 현명한 마법사까지 생생하고 살아있는 캐릭터로 바꾸고 창의력이 살아나는 모습을 지켜보세요.",
+        "url": "/ko/article/ai-girl-generator",
+        "website": "https://girlgenerator.online",
+        "tags": [
+            "캐릭터 생성",
+            "AI 아트",
+            "디지털 창작",
+            "캐릭터 디자인"
+        ]
+    },
+    {
+        "name": "라이브포트레이트 온라인",
+        "description": "LivePortrait는 사실적인 모방과 립싱크를 사용하여 정적 인물 사진에 애니메이션을 적용하는 AI 도구로, 창작자, 마케팅 담당자, 애호가에게 이상적입니다.",
+        "url": "/ko/article/liveportrait-online",
+        "website": "https://liveportrait.online",
+        "tags": [
+            "인물 애니메이션",
+            "AI 영상",
+            "얼굴 애니메이션",
+            "콘텐츠 제작"
+        ]
+    },
+    {
+        "name": "AI GIF 생성기",
+        "description": "AI Gif Generator는 \"고양이\" 또는 \"개\"와 같은 키워드로 맞춤형 GIF를 생성합니다. 소셜 미디어 매니아와 마케팅 담당자에게 적합하며 빠르고 정확한 결과를 제공합니다.",
+        "url": "/ko/article/ai-gif-generator",
+        "website": "https://www.aigifgenerator.org",
+        "tags": [
+            "GIF 생성",
+            "애니메이션 세대",
+            "소셜 미디어",
+            "콘텐츠 마케팅"
+        ]
+    },
+    {
+        "name": "라이브 초상화.io",
+        "description": "라이브 인물 사진을 사용하여 사진을 생생한 애니메이션 시퀀스로 바꿔보세요. 우수한 품질, 매끄러운 스티칭, 맞춤형 옵션을 즐겨보세요.",
+        "url": "/ko/article/live-portrait-io",
+        "website": "https://liveportrait.io",
+        "tags": [
+            "인물 애니메이션",
+            "비디오 생성",
+            "AI 애니메이션",
+            "디지털 콘텐츠"
+        ]
+    },
+    {
+        "name": "최고의 AI 여자친구",
+        "description": "Best AI Girlfriend는 다양한 스타일과 개성을 제공하는 자신만의 AI 여자친구를 만들고 채팅할 수 있는 무료 AI Girl Generator입니다.",
+        "url": "/ko/article/best-ai-girlfriend",
+        "website": "https://aigirl.best",
+        "tags": [
+            "AI 채팅",
+            "가상 동반자",
+            "사회적 상호작용",
+            "인공지능"
+        ]
+    },
+    {
+        "name": "라이브포트레이트 앱",
+        "description": "정확한 제어, 다양한 스타일 지원 및 맞춤형 애니메이션을 제공합니다. 빠르고 원활한 애니메이션 생성을 보장하는 핵심 기술",
+        "url": "/ko/article/liveportrait-app",
+        "website": "https://liveportrait.app",
+        "tags": [
+            "애니메이션 제작",
+            "모바일 앱",
+            "비디오 편집",
+            "콘텐츠 제작"
+        ]
+    },
+    {
+        "name": "카툰젠",
+        "description": "몇 초 만에 맞춤형 만화 이미지를 만들 수 있습니다. 이미지를 업로드하거나 텍스트로 비전을 설명하기만 하면 됩니다.",
+        "url": "/ko/article/cartoongen-com",
+        "website": "https://cartoongen.com",
+        "tags": [
+            "만화세대",
+            "이미지 변환",
+            "AI 아트",
+            "디지털 일러스트레이션"
+        ]
+    },
+    {
+        "name": "내 사진에 애니메이션을 적용하세요",
+        "description": "AnimateMyPic은 스틸 사진을 고품질의 매력적인 비디오로 변환하는 AI 기반 도구로, 디지털 아티스트와 일반 사용자 모두에게 적합합니다.",
+        "url": "/ko/article/animate-my-pic",
+        "website": "https://animatemypic.com",
+        "tags": [
+            "사진 애니메이션",
+            "비디오 제작",
+            "AI 애니메이션",
+            "콘텐츠 제작"
+        ]
+    },
+    {
+        "name": "툰크래프터닷컴",
+        "description": "무료 놀이터인 ToonCrafter.com은 초보자와 전문가 모두에게 실습 경험을 제공합니다.",
+        "url": "/ko/article/tooncrafter-com",
+        "website": "https://toon-crafter.com",
+        "tags": [
+            "만화 창작",
+            "디지털 아트",
+            "이미지 처리",
+            "창의적인 도구"
+        ]
+    },
+    {
+        "name": "라이브 인물 AI",
+        "description": "개인화된 비디오 메시지에 적합하며 재연 기술을 사용하여 머리 움직임, 표정, 음성을 정지 사진과 일치시킵니다.",
+        "url": "/ko/article/live-portrait-org",
+        "website": "https://liveportrait.org",
+        "tags": [
+            "인물 애니메이션",
+            "AI 영상",
+            "표정",
+            "콘텐츠 제작"
+        ]
+    },
+    {
+        "name": "라이브포트레이트 AI",
+        "description": "이 도구는 실시간 애니메이션 및 사용자 정의 옵션을 제공합니다. 사용자는 실제와 같은 애니메이션을 즉시 미리 볼 수 있으며 놀이터와 쇼케이스 섹션은",
+        "url": "/ko/article/liveportrait-net",
+        "website": "https://live-portrait.net",
+        "tags": [
+            "실시간 애니메이션",
+            "AI 영상",
+            "디지털 콘텐츠",
+            "비디오 제작"
+        ]
+    },
+    {
+        "name": "라이브 초상화 조직",
+        "description": "Live Portrait org는 정적 인물 사진을 실물과 같은 애니메이션으로 바꾸는 AI 도구로, 콘텐츠 제작자와 소셜 미디어 애호가에게 적합합니다.",
+        "url": "/ko/article/live-portrait-org",
+        "website": "https://live-portrait.org",
+        "tags": [
+            "인물 애니메이션",
+            "콘텐츠 제작",
+            "소셜 미디어",
+            "AI 영상"
+        ]
+    },
+    {
+        "name": "PicPicAI",
+        "description": "PicPicAI는 사진 편집 애호가와 전문가를 위해 설계된 다목적 AI 도구입니다. 배경 제거, 사진 향상, 업스케일링 등을 제공합니다.",
+        "url": "/ko/article/picpicai",
+        "website": "https://picpicai.com",
+        "tags": [
+            "이미지 편집",
+            "사진 향상",
+            "AI 처리",
+            "디지털 창작"
+        ]
+    },
+    {
+        "name": "AiAnimeGenerator",
+        "description": "AiAnimeGenerator는 애니메이션 매니아와 디지털 아티스트를 위한 AI 기반 도구입니다. 설명을 입력하고, 이미지를 생성하고, 고품질 애니메이션을 다운로드하세요.",
+        "url": "/ko/article/aianimegenerator",
+        "website": "https://aianimegenerator.net",
+        "tags": [
+            "애니메이션 세대",
+            "AI 아트",
+            "디지털 창작",
+            "이미지 생성"
+        ]
+    },
+    {
+        "name": "깊은 향수 AI",
+        "description": "사용자가 사진을 업로드하면 1~2분 내에 Deep Nostalgia AI가 고품질 애니메이션을 생성하여 과거를 보존하고 연결하는 원활한 방법을 제공합니다.",
+        "url": "/ko/article/deep-nostalgia-ai",
+        "website": "https://deepnostalgia.ai",
+        "tags": [
+            "사진 애니메이션",
+            "향수 가공",
+            "AI 영상",
+            "가족 역사"
+        ]
+    },
+    {
+        "name": "쉬운 애니메이션 메이커",
+        "description": "사진이나 텍스트로 애니메이션 아트를 만드는 AI 도구입니다. 온라인에서 간단한 클릭만으로 맞춤형 애니메이션 이미지를 즉시 생성할 수 있습니다.",
+        "url": "/ko/article/easy-anime-maker",
+        "website": "https://ai-animegenerator.org",
+        "tags": [
+            "애니메이션 창작",
+            "AI 아트",
+            "이미지 생성",
+            "디지털 콘텐츠"
+        ]
+    },
+    {
+        "name": "AI 애니메이션 생성기 클라우드",
+        "description": "AI Anime Generator Cloud를 사용하여 맞춤형 애니메이션 이미지를 생성하세요. 프롬프트를 입력하고, 설정을 조정하고, 품질 태그를 사용하여 완벽한 애니메이션 장면을 만드세요.",
+        "url": "/ko/article/ai-anime-generator-cloud",
+        "website": "https://aianimegenerator.cloud",
+        "tags": [
+            "애니메이션 세대",
+            "클라우드 서비스",
+            "AI 아트",
+            "디지털 창작"
+        ]
+    },
+    {
+        "name": "아옵살",
+        "description": "Aopsal은 오래된 사진에 애니메이션을 적용하여 가입 없이 정적 이미지를 동적 비디오로 변환하는 AI 도구입니다. 최첨단 기술을 사용합니다.",
+        "url": "/ko/article/aopsal",
+        "website": "https://aopsai.com",
+        "tags": [
+            "사진 애니메이션",
+            "AI 영상",
+            "역사적 사진",
+            "콘텐츠 제작"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+
+[
+  {
+    "name": "RenderNet",
+    "description": "RenderNet é uma plataforma avançada de renderização 3D alimentada por IA que transforma projetos 2D em visualizações 3D fotorrealistas, projetadas especificamente para arquitetos, designers de interiores e desenvolvedores de produtos.",
+    "url": "/pt/article/rendernet",
+    "website": "https://rendernet.ai",
+    "tags": [
+      "Renderização 3D",
+      "Visualização de IA",
+      "Arquitetura"
+    ]
+  },
+  {
+    "name": "Aplicativo Glambase",
+    "description": "Glambase App é uma plataforma de beleza e moda alimentada por IA que fornece recomendações de estilo personalizadas e experimentações virtuais, ajudando os usuários a descobrir e experimentar diferentes looks.",
+    "url": "/pt/article/glambaseapp",
+    "website": "https://glambase.app",
+    "tags": [
+      "IA de beleza",
+      "Teste virtual",
+      "Assistente de estilo"
+    ]
+  }
+]

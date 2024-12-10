@@ -1,0 +1,286 @@
+[
+    {
+        "name": "クリックアップ",
+        "description": "ClickUp は、プロジェクト管理、タスク自動化、チーム コラボレーション ツールを組み合わせて、ワークフローを合理化し、効率を向上させるオールインワンの生産性プラットフォームです。",
+        "url": "/ja/article/clickup",
+        "website": "https://clickup.com",
+        "tags": [
+            "プロジェクト管理",
+            "タスクの自動化",
+            "チームのコラボレーション"
+        ]
+    },
+    {
+        "name": "ドリフト",
+        "description": "Drift は、AI を活用したチャットボットと自動化を使用して Web サイト訪問者を引きつけ、見込み顧客に変える会話型マーケティングおよび販売プラットフォームです。",
+        "url": "/ja/article/drift",
+        "website": "https://drift.com",
+        "tags": [
+            "会話型マーケティング",
+            "セールスオートメーション",
+            "リードジェネレーション"
+        ]
+    },
+    {
+        "name": "アウトリーチ",
+        "description": "Outreach は、AI 主導の洞察とワークフローの自動化を通じて顧客とのやり取りを自動化および最適化するセールス エンゲージメント プラットフォームです。",
+        "url": "/ja/article/outreach",
+        "website": "https://outreach.io",
+        "tags": [
+            "販売活動",
+            "ワークフローの自動化",
+            "顧客インテリジェンス"
+        ]
+    },
+    {
+        "name": "エンプリフィ",
+        "description": "Emplifi は、AI を活用したツールを通じてソーシャル メディア管理、カスタマー ケア、マーケティング活動を自動化する統合カスタマー エクスペリエンス プラットフォームです。",
+        "url": "/ja/article/emplifi",
+        "website": "https://emplifi.io",
+        "tags": [
+            "カスタマーエクスペリエンス",
+            "ソーシャルメディアの自動化",
+            "マーケティング分析"
+        ]
+    },
+    {
+        "name": "キャラクタージェネ",
+        "description": "CharacterGen は、ゲーム開発者やアニメーターに最適なマルチビュー ポーズ キャリブレーション テクノロジーを使用して、単一の画像を正確な 3D キャラクター モデルに変換します。",
+        "url": "/ja/article/charactergen",
+        "website": "https://character-gen.com",
+        "tags": [
+            "3Dモデリング",
+            "キャラクター作成",
+            "ゲーム開発",
+            "アニメーション"
+        ]
+    },
+    {
+        "name": "AIアニメジェネレーター",
+        "description": "AI アニメ ジェネレーターは、アニメ愛好家やデジタル アーティストがアイデアや写真を素晴らしいアニメ スタイルの画像やビデオに変換するための多用途ツールです。",
+        "url": "/ja/article/ai-anime-generator",
+        "website": "https://www.aianimegen.com",
+        "tags": [
+            "AIアート",
+            "アニメジェネレーション",
+            "画像処理",
+            "デジタルアート"
+        ]
+    },
+    {
+        "name": "AIガールジェネレーター",
+        "description": "あなたの想像力豊かなささやきを、勇敢な戦士から賢明な魔術師まで、生き生きとしたキャラクターに変え、創造性が現実になるのを見てください。",
+        "url": "/ja/article/ai-girl-generator",
+        "website": "https://girlgenerator.online",
+        "tags": [
+            "キャラクター生成",
+            "AIアート",
+            "デジタルクリエーション",
+            "キャラクターデザイン"
+        ]
+    },
+    {
+        "name": "オンラインライブポートレート",
+        "description": "LivePortrait は、現実的な模倣や口パクで静止ポートレートをアニメーション化する AI ツールで、クリエイター、マーケティング担当者、愛好家に最適です。",
+        "url": "/ja/article/liveportrait-online",
+        "website": "https://liveportrait.online",
+        "tags": [
+            "ポートレートアニメーション",
+            "AIビデオ",
+            "フェイシャルアニメーション",
+            "コンテンツ制作"
+        ]
+    },
+    {
+        "name": "AI GIF ジェネレーター",
+        "description": "AI Gif Generator は、「猫」や「犬」などのキーワードからカスタム GIF を作成します。ソーシャルメディア愛好家やマーケティング担当者に最適で、迅速かつ正確な結果を提供します。",
+        "url": "/ja/article/ai-gif-generator",
+        "website": "https://www.aigifgenerator.org",
+        "tags": [
+            "GIFの作成",
+            "アニメーションの生成",
+            "ソーシャルメディア",
+            "コンテンツマーケティング"
+        ]
+    },
+    {
+        "name": "ライブポートレート.io",
+        "description": "ライブ ポートレートを使用して、写真を本物のようなアニメーション シーケンスに変換します。優れた品質、シームレスなステッチ、パーソナライズされたオプションをお楽しみください",
+        "url": "/ja/article/live-portrait-io",
+        "website": "https://liveportrait.io",
+        "tags": [
+            "ポートレートアニメーション",
+            "ビデオ生成",
+            "AIアニメーション",
+            "デジタルコンテンツ"
+        ]
+    },
+    {
+        "name": "最高の AI ガールフレンド",
+        "description": "Best AI Girlfriend は、さまざまなスタイルや個性を提供する、独自の AI ガールフレンドを作成してチャットできる無料の AI ガール ジェネレーターです。",
+        "url": "/ja/article/best-ai-girlfriend",
+        "website": "https://aigirl.best",
+        "tags": [
+            "AIチャット",
+            "バーチャルコンパニオン",
+            "社会的交流",
+            "人工知能"
+        ]
+    },
+    {
+        "name": "ライブポートレートアプリ",
+        "description": "正確な制御、多様なスタイルのサポート、カスタム アニメーションを提供します。コアテクノロジーにより、迅速かつシームレスなアニメーション生成が保証されます",
+        "url": "/ja/article/liveportrait-app",
+        "website": "https://liveportrait.app",
+        "tags": [
+            "アニメーション制作",
+            "モバイルアプリ",
+            "ビデオ編集",
+            "コンテンツ制作"
+        ]
+    },
+    {
+        "name": "漫画の源",
+        "description": "カスタムの漫画画像を数秒で作成します。画像をアップロードするか、テキストでビジョンを説明するだけです。",
+        "url": "/ja/article/cartoongen-com",
+        "website": "https://cartoongen.com",
+        "tags": [
+            "漫画の世代",
+            "画像変換",
+            "AIアート",
+            "デジタルイラスト"
+        ]
+    },
+    {
+        "name": "私の写真をアニメーション化する",
+        "description": "AnimateMyPic は、静止写真を高品質で魅力的なビデオに変換する AI を活用したツールで、デジタル アーティストと一般ユーザーの両方に最適です。",
+        "url": "/ja/article/animate-my-pic",
+        "website": "https://animatemypic.com",
+        "tags": [
+            "フォトアニメーション",
+            "動画制作",
+            "AIアニメーション",
+            "コンテンツ制作"
+        ]
+    },
+    {
+        "name": "トゥーンクラフターコム",
+        "description": "ToonCrafter.com の無料プレイグラウンドは、初心者にも専門家にも同様に実践的な体験を提供します。",
+        "url": "/ja/article/tooncrafter-com",
+        "website": "https://toon-crafter.com",
+        "tags": [
+            "漫画の作成",
+            "デジタルアート",
+            "画像処理",
+            "クリエイティブツール"
+        ]
+    },
+    {
+        "name": "ライブポートレートAI",
+        "description": "パーソナライズされたビデオ メッセージに最適で、再現テクノロジーを使用して頭の動き、顔の表情、声を静止画に一致させます。",
+        "url": "/ja/article/live-portrait-org",
+        "website": "https://liveportrait.org",
+        "tags": [
+            "ポートレートアニメーション",
+            "AIビデオ",
+            "表情",
+            "コンテンツ制作"
+        ]
+    },
+    {
+        "name": "ライブポートレートAI",
+        "description": "このツールは、リアルタイムのアニメーションとカスタマイズのオプションを提供します。ユーザーは、プレイグラウンドとショーケースのセクションを表示しながら、本物のようなアニメーションを即座にプレビューできます。",
+        "url": "/ja/article/liveportrait-net",
+        "website": "https://live-portrait.net",
+        "tags": [
+            "リアルタイムアニメーション",
+            "AIビデオ",
+            "デジタルコンテンツ",
+            "ビデオ制作"
+        ]
+    },
+    {
+        "name": "ライブポートレート組織",
+        "description": "Live Portrait org は、静止したポートレートを本物のようなアニメーションに変える AI ツールで、コンテンツ クリエーターやソーシャル メディア愛好家に最適です。",
+        "url": "/ja/article/live-portrait-org",
+        "website": "https://live-portrait.org",
+        "tags": [
+            "ポートレートアニメーション",
+            "コンテンツ制作",
+            "ソーシャルメディア",
+            "AIビデオ"
+        ]
+    },
+    {
+        "name": "PicPicAI",
+        "description": "PicPicAI は、写真編集愛好家や専門家向けに設計された多用途 AI ツールです。背景の削除、写真の補正、アップスケーリングなどの機能を提供します。",
+        "url": "/ja/article/picpicai",
+        "website": "https://picpicai.com",
+        "tags": [
+            "画像編集",
+            "写真の補正",
+            "AI処理",
+            "デジタルクリエーション"
+        ]
+    },
+    {
+        "name": "Aiアニメジェネレーター",
+        "description": "AiAnimeGenerator は、アニメ愛好家やデジタル アーティストのための AI を活用したツールです。説明を入力し、画像を生成し、高品質のアニメをダウンロードします",
+        "url": "/ja/article/aianimegenerator",
+        "website": "https://aianimegenerator.net",
+        "tags": [
+            "アニメジェネレーション",
+            "AIアート",
+            "デジタルクリエーション",
+            "画像生成"
+        ]
+    },
+    {
+        "name": "ディープノスタルジーAI",
+        "description": "ユーザーが写真をアップロードすると、1 ～ 2 分以内に Deep Nostalgia AI が高品質のアニメーションを生成し、過去を保存し、過去とつながるためのシームレスな方法を提供します。",
+        "url": "/ja/article/deep-nostalgia-ai",
+        "website": "https://deepnostalgia.ai",
+        "tags": [
+            "フォトアニメーション",
+            "ノスタルジー加工",
+            "AIビデオ",
+            "家族歴"
+        ]
+    },
+    {
+        "name": "簡単アニメメーカー",
+        "description": "写真やテキストからアニメアートを作成するAIツール。オンラインでクリックするだけでカスタム アニメ画像を即座に生成します。",
+        "url": "/ja/article/easy-anime-maker",
+        "website": "https://ai-animegenerator.org",
+        "tags": [
+            "アニメ制作",
+            "AIアート",
+            "画像生成",
+            "デジタルコンテンツ"
+        ]
+    },
+    {
+        "name": "AIアニメジェネレータークラウド",
+        "description": "AI Anime Generator Cloud を使用してカスタム アニメ画像を生成します。プロンプトを入力し、設定を調整し、品質タグを使用して完璧なアニメ シーンを作成します。",
+        "url": "/ja/article/ai-anime-generator-cloud",
+        "website": "https://aianimegenerator.cloud",
+        "tags": [
+            "アニメジェネレーション",
+            "クラウドサービス",
+            "AIアート",
+            "デジタルクリエーション"
+        ]
+    },
+    {
+        "name": "アオプサル",
+        "description": "Aopsal は古い写真をアニメーション化し、サインアップを必要とせずに静止画像を動的なビデオに変換する AI ツールです。最先端のテクノロジーを使用しています",
+        "url": "/ja/article/aopsal",
+        "website": "https://aopsai.com",
+        "tags": [
+            "フォトアニメーション",
+            "AIビデオ",
+            "歴史的な写真",
+            "コンテンツ制作"
+        ]
+    }
+]

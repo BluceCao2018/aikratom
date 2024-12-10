@@ -1,0 +1,286 @@
+[
+    {
+        "name": "ClickUp",
+        "description": "ClickUp is an all-in-one productivity platform that combines project management, task automation, and team collaboration tools to streamline workflows and increase efficiency.",
+        "url": "/en/article/clickup",
+        "website": "https://clickup.com",
+        "tags": [
+            "Project Management",
+            "Task Automation",
+            "Team Collaboration"
+        ]
+    },
+    {
+        "name": "Drift",
+        "description": "Drift is a conversational marketing and sales platform that uses AI-powered chatbots and automation to engage website visitors and convert them into qualified leads.",
+        "url": "/en/article/drift",
+        "website": "https://drift.com",
+        "tags": [
+            "Conversational Marketing",
+            "Sales Automation",
+            "Lead Generation"
+        ]
+    },
+    {
+        "name": "Outreach",
+        "description": "Outreach is a sales engagement platform that automates and optimizes customer interactions through AI-driven insights and workflow automation.",
+        "url": "/en/article/outreach",
+        "website": "https://outreach.io",
+        "tags": [
+            "Sales Engagement",
+            "Workflow Automation",
+            "Customer Intelligence"
+        ]
+    },
+    {
+        "name": "Emplifi",
+        "description": "Emplifi is a unified customer experience platform that automates social media management, customer care, and marketing activities through AI-powered tools.",
+        "url": "/en/article/emplifi",
+        "website": "https://emplifi.io",
+        "tags": [
+            "Customer Experience",
+            "Social Media Automation",
+            "Marketing Analytics"
+        ]
+    },
+    {
+        "name": "KarakterGen",
+        "description": "CharacterGen transformeert afzonderlijke afbeeldingen in nauwkeurige 3D-personagemodellen met behulp van multi-view pose-kalibratietechnologie, ideaal voor game-ontwikkelaars en animators",
+        "url": "/nl/article/charactergen",
+        "website": "https://character-gen.com",
+        "tags": [
+            "3D-modellering",
+            "Karaktercreatie",
+            "Spelontwikkeling",
+            "Animatie"
+        ]
+    },
+    {
+        "name": "AI Anime-generator",
+        "description": "De AI Anime Generator is een veelzijdige tool voor anime-enthousiastelingen en digitale artiesten om ideeën en foto's om te zetten in verbluffende afbeeldingen en video's in anime-stijl",
+        "url": "/nl/article/ai-anime-generator",
+        "website": "https://www.aianimegen.com",
+        "tags": [
+            "AI-kunst",
+            "Anime-generatie",
+            "Beeldverwerking",
+            "Digitale kunst"
+        ]
+    },
+    {
+        "name": "AI Girl-generator",
+        "description": "Transformeer je fantasierijke gefluister in levendige, levende personages, van moedige krijgers tot wijze magiërs, en zie hoe creativiteit tot leven komt",
+        "url": "/nl/article/ai-girl-generator",
+        "website": "https://girlgenerator.online",
+        "tags": [
+            "Karakter generatie",
+            "AI-kunst",
+            "Digitale creatie",
+            "Karakterontwerp"
+        ]
+    },
+    {
+        "name": "Liveportret online",
+        "description": "LivePortrait is een AI-tool die statische portretten animeert met realistische nabootsingen en lipsynchronisatie, ideaal voor videomakers, marketeers en hobbyisten.",
+        "url": "/nl/article/liveportrait-online",
+        "website": "https://liveportrait.online",
+        "tags": [
+            "Portretanimatie",
+            "AI-video",
+            "Gezichtsanimatie",
+            "Content creatie"
+        ]
+    },
+    {
+        "name": "AI GIF-generator",
+        "description": "AI Gif Generator maakt aangepaste GIF's op basis van trefwoorden als 'kat' of 'hond'. Het is perfect voor liefhebbers van sociale media en marketeers en biedt snelle, nauwkeurige resultaten",
+        "url": "/nl/article/ai-gif-generator",
+        "website": "https://www.aigifgenerator.org",
+        "tags": [
+            "GIF-creatie",
+            "Animatie generatie",
+            "Sociale media",
+            "Contentmarketing"
+        ]
+    },
+    {
+        "name": "Live Portrait.io",
+        "description": "Transformeer uw foto's in levensechte geanimeerde reeksen met Live Portrait. Geniet van superieure kwaliteit, naadloze stiksels en gepersonaliseerde opties",
+        "url": "/nl/article/live-portrait-io",
+        "website": "https://liveportrait.io",
+        "tags": [
+            "Portretanimatie",
+            "Videogeneratie",
+            "AI-animatie",
+            "Digitale inhoud"
+        ]
+    },
+    {
+        "name": "Beste AI-vriendin",
+        "description": "Best AI Girlfriend is een gratis AI Girl Generator waarmee je je eigen AI-vriendin kunt creëren en ermee kunt chatten, met een verscheidenheid aan stijlen en persoonlijkheden.",
+        "url": "/nl/article/best-ai-girlfriend",
+        "website": "https://aigirl.best",
+        "tags": [
+            "AI-chat",
+            "Virtuele metgezel",
+            "Sociale interactie",
+            "Kunstmatige intelligentie"
+        ]
+    },
+    {
+        "name": "LivePortrait-app",
+        "description": "Het biedt nauwkeurige controle, ondersteuning voor diverse stijlen en aangepaste animaties. Kerntechnologieën zorgen voor een snelle en naadloze generatie van animaties",
+        "url": "/nl/article/liveportrait-app",
+        "website": "https://liveportrait.app",
+        "tags": [
+            "Animatie creatie",
+            "Mobiele apps",
+            "Videobewerking",
+            "Content creatie"
+        ]
+    },
+    {
+        "name": "CartoonGen",
+        "description": "maak binnen enkele seconden aangepaste cartoonafbeeldingen: upload eenvoudig een afbeelding of beschrijf uw visie in tekst",
+        "url": "/nl/article/cartoongen-com",
+        "website": "https://cartoongen.com",
+        "tags": [
+            "Cartoongeneratie",
+            "Beeldconversie",
+            "AI-kunst",
+            "Digitale illustratie"
+        ]
+    },
+    {
+        "name": "Animeer mijn foto",
+        "description": "AnimateMyPic is een AI-aangedreven tool die stilstaande foto's omzet in boeiende video's van hoge kwaliteit, perfect voor zowel digitale artiesten als informele gebruikers.",
+        "url": "/nl/article/animate-my-pic",
+        "website": "https://animatemypic.com",
+        "tags": [
+            "Foto-animatie",
+            "Videocreatie",
+            "AI-animatie",
+            "Content creatie"
+        ]
+    },
+    {
+        "name": "ToonCrafter com",
+        "description": "ToonCrafter.com, de gratis speeltuin, biedt een praktische ervaring voor zowel beginners als professionals.",
+        "url": "/nl/article/tooncrafter-com",
+        "website": "https://toon-crafter.com",
+        "tags": [
+            "Cartooncreatie",
+            "Digitale kunst",
+            "Beeldverwerking",
+            "Creatieve hulpmiddelen"
+        ]
+    },
+    {
+        "name": "Live portret-AI",
+        "description": "Het is perfect voor gepersonaliseerde videoboodschappen en maakt gebruik van re-enactmenttechnologie om hoofdbewegingen, gezichtsuitdrukkingen en stem af te stemmen op foto's",
+        "url": "/nl/article/live-portrait-org",
+        "website": "https://liveportrait.org",
+        "tags": [
+            "Portretanimatie",
+            "AI-video",
+            "Gezichtsuitdrukking",
+            "Content creatie"
+        ]
+    },
+    {
+        "name": "LivePortrait-AI",
+        "description": "Deze tool biedt realtime animatie- en aanpassingsopties. Gebruikers kunnen direct een voorbeeld van hun levensechte animaties bekijken, terwijl de speeltuin en showcase-sectie",
+        "url": "/nl/article/liveportrait-net",
+        "website": "https://live-portrait.net",
+        "tags": [
+            "Realtime animatie",
+            "AI-video",
+            "Digitale inhoud",
+            "Videoproductie"
+        ]
+    },
+    {
+        "name": "Live Portret org",
+        "description": "Live Portrait org is een AI-tool die statische portretten omzet in levensechte animaties, perfect voor makers van inhoud en liefhebbers van sociale media.",
+        "url": "/nl/article/live-portrait-org",
+        "website": "https://live-portrait.org",
+        "tags": [
+            "Portretanimatie",
+            "Content creatie",
+            "Sociale media",
+            "AI-video"
+        ]
+    },
+    {
+        "name": "PicPicAI",
+        "description": "PicPicAI is een veelzijdige AI-tool die is ontworpen voor liefhebbers van fotobewerking en professionals. Het biedt achtergrondverwijdering, fotoverbetering, opschaling en meer.",
+        "url": "/nl/article/picpicai",
+        "website": "https://picpicai.com",
+        "tags": [
+            "Beeldbewerking",
+            "Fotoverbetering",
+            "AI-verwerking",
+            "Digitale creatie"
+        ]
+    },
+    {
+        "name": "AiAnimeGenerator",
+        "description": "AiAnimeGenerator is een AI-aangedreven tool voor anime-enthousiastelingen en digitale artiesten. Voer een beschrijving in, genereer de afbeelding en download anime van hoge kwaliteit",
+        "url": "/nl/article/aianimegenerator",
+        "website": "https://aianimegenerator.net",
+        "tags": [
+            "Anime-generatie",
+            "AI-kunst",
+            "Digitale creatie",
+            "Beeldgeneratie"
+        ]
+    },
+    {
+        "name": "Diepe nostalgie AI",
+        "description": "Gebruikers uploaden foto's en binnen 1-2 minuten genereert Deep Nostalgia AI animaties van hoge kwaliteit, die een naadloze manier bieden om het verleden te behouden en er verbinding mee te maken.",
+        "url": "/nl/article/deep-nostalgia-ai",
+        "website": "https://deepnostalgia.ai",
+        "tags": [
+            "Foto-animatie",
+            "Nostalgie verwerking",
+            "AI-video",
+            "Familiegeschiedenis"
+        ]
+    },
+    {
+        "name": "Gemakkelijke anime-maker",
+        "description": "AI-tool voor het maken van anime-kunst van foto's of tekst. Genereer direct aangepaste anime-afbeeldingen met een simpele klik online.",
+        "url": "/nl/article/easy-anime-maker",
+        "website": "https://ai-animegenerator.org",
+        "tags": [
+            "Anime-creatie",
+            "AI-kunst",
+            "Beeldgeneratie",
+            "Digitale inhoud"
+        ]
+    },
+    {
+        "name": "AI Anime Generator-wolk",
+        "description": "Genereer aangepaste anime-afbeeldingen met AI Anime Generator Cloud. Voer aanwijzingen in, pas instellingen aan en gebruik kwaliteitstags om de perfecte anime-scène te creëren.",
+        "url": "/nl/article/ai-anime-generator-cloud",
+        "website": "https://aianimegenerator.cloud",
+        "tags": [
+            "Anime-generatie",
+            "Cloudservice",
+            "AI-kunst",
+            "Digitale creatie"
+        ]
+    },
+    {
+        "name": "Aopsal",
+        "description": "Aopsal is een AI-tool die oude foto's animeert en statische afbeeldingen omzet in dynamische video's zonder dat u zich hoeft aan te melden. Er wordt gebruik gemaakt van geavanceerde technologie",
+        "url": "/nl/article/aopsal",
+        "website": "https://aopsai.com",
+        "tags": [
+            "Foto-animatie",
+            "AI-video",
+            "Historische foto's",
+            "Content creatie"
+        ]
+    }
+]

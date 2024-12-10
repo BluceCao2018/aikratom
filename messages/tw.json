@@ -1,0 +1,95 @@
+{
+  "website":{
+    "domain": "https://aikratom.com"
+  },
+  "home": {
+    "meta_title": "所有您想要的人工智能工具都在AI Kratom - 開始瀏覽",
+    "meta_description": "透過aikratom.com的人工智能目錄瀏覽器，真正懂您所需，您可以輕鬆找到最佳且最受歡迎的人工智能工具。現在就來探索吧！",
+    "h2": "所有您想要的人工智能工具都在AI Kratom",
+    "description": "透過aikratom.com的人工智能目錄瀏覽器，它懂您所需，一起來發掘2024年最佳且最受歡迎的人工智能工具！"
+  },
+  "category": {
+    "meta_title": "分類｜所有您想要的人工智能工具都在 ",
+    "meta_description": "您可以依據分類來搜尋您所需的人工智能工具，而AI Kratom將協助您挑選合適的人工智能工具。",
+    "homeBtn": "首頁",
+    "categoryBtn": "分類",
+    "h1": "人工智能工具分類",
+    "h2": "在此找到您所需的所有人工智能工具",
+    "h2description": "所有人工智能工具皆依字母順序排列"
+  },
+  "article": {
+    "meta_title": "文章｜所有您想要的人工智能工具都在 ",
+    "meta_description": "在AI Kratom閱讀這些文章，您可以快速獲取有關人工智能工具的知識，同時，這也將有助於您挑選合適的人工智能工具。",
+    "h1": "文章",
+    "h2": "閱讀更多有關人工智能工具的文章，並為自己挑選合適的人工智能工具",
+    "homeBtn": "首頁",
+    "articleBtn": "文章",
+    "backToArticles": "返回文章"
+  },
+  "changelog": {
+    "meta_title": "更新記錄",
+    "meta_description": "透過DevToolset.net的最新更新保持資訊同步。",
+    "h1": "更新記錄",
+    "h2": "透過DevToolset.net的最新更新保持資訊同步。",
+    "homeBtn": "首頁",
+    "changelogBtn": "更新記錄"
+  },
+  "tools": {
+    "meta_description": "找到您開發旅程中所需的所有重要開發工具",
+    "h2_1": "所有與之相關的開發工具",
+    "h2_2": "",
+    "homeBtn": "首頁"
+  },
+  "search": {
+    "input_placeholder": "依名稱/標籤搜尋工具...",
+    "heading": "建議",
+    "more": "更多",
+    "button": "搜尋"
+  },
+  "navigation": {
+    "homeBtn": "首頁",
+    "categoryBtn": "分類",
+    "moreCategoryBtn": "更多",
+    "moreCategoryDescription": "更多分類",
+    "articleBtn": "文章",
+    "articleDescription": "透過AI Kratom發掘最佳且最受歡迎的人工智能工具",
+    "article1Title": "懂您所需的人工智能目錄瀏覽器！",
+    "article2Title": "打造您自己的開發工具集合",
+    "moreArticleBtn": "更多",
+    "moreArticleDescription": "更多文章",
+    "changelogBtn": "更新記錄",
+    "submitToolBtn": "提交工具",
+    "aboutBtn": "關於"
+  },
+  "footer": {
+    "description": "提供人工智能工具完整且即時資訊的網站",
+    "builtWith": "使用以下技術構建",
+    "quickLinks": "快速連結",
+    "home": "首頁",
+    "category": "分類",
+    "article": "文章",
+    "changelog": "更新記錄",
+    "privacy": "隱私權",
+    "termsOfService": "服務條款",
+    "legal": "法律相關",
+    "connect": "連結",
+    "support": "支援",
+    "copyright": "版權所有"
+  },
+  "toolsList": {
+    "more": "更多",
+    "tools": "工具"
+  },
+  "articleList": {
+    "h2": "文章",
+    "moreArticles": "更多文章"
+  },
+  "about": {
+    "meta_title": "AI Kratom AI工具目錄 - 探索無限的AI世界",
+    "meta_description": "在當今快速數位發展的時代，人工智慧（AI）已成為所有領域不可或缺的一部分，是推動創新和變革的強大力量。為了幫助您更方便地探索、發現和使用眾多優秀的AI工具，AI Kratom精心打造了這個AI工具目錄網站。",
+    "h1": "關於 AI Kratom",
+    "h2": "關於 AI Kratom",
+    "homeBtn": "首頁",
+    "aboutBtn": "關於"
+  }
+}

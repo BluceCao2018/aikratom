@@ -1,0 +1,286 @@
+[
+    {
+        "name": "點擊按鈕",
+        "description": "ClickUp 是一款一體化生產力平台，結合了專案管理、任務自動化和團隊協作工具，可簡化工作流程並提高效率。",
+        "url": "/tw/article/clickup",
+        "website": "https://clickup.com",
+        "tags": [
+            "專案管理",
+            "任務自動化",
+            "團隊協作"
+        ]
+    },
+    {
+        "name": "漂移",
+        "description": "Drift 是一個對話式行銷和銷售平台，它使用人工智慧驅動的聊天機器人和自動化來吸引網站訪客並將其轉化為合格的潛在客戶。",
+        "url": "/tw/article/drift",
+        "website": "https://drift.com",
+        "tags": [
+            "對話式行銷",
+            "銷售自動化",
+            "潛在客戶開發"
+        ]
+    },
+    {
+        "name": "外展",
+        "description": "Outreach 是一個銷售互動平台，透過人工智慧驅動的洞察和工作流程自動化來自動化和優化客戶互動。",
+        "url": "/tw/article/outreach",
+        "website": "https://outreach.io",
+        "tags": [
+            "銷售參與",
+            "工作流程自動化",
+            "客戶情報"
+        ]
+    },
+    {
+        "name": "恩普利菲",
+        "description": "Emplifi 是一個統一的客戶體驗平台，可透過人工智慧驅動的工具自動執行社群媒體管理、客戶服務和行銷活動。",
+        "url": "/tw/article/emplifi",
+        "website": "https://emplifi.io",
+        "tags": [
+            "客戶體驗",
+            "社群媒體自動化",
+            "行銷分析"
+        ]
+    },
+    {
+        "name": "角色產生器",
+        "description": "CharacterGen 使用多視圖姿勢校準技術將單一影像轉換為精確的 3D 角色模型，非常適合遊戲開發人員、動畫師",
+        "url": "/zh-tw/article/charactergen",
+        "website": "https://character-gen.com",
+        "tags": [
+            "3D建模",
+            "角色創建",
+            "遊戲開發",
+            "卡通"
+        ]
+    },
+    {
+        "name": "AI動漫生成器",
+        "description": "AI 動漫生成器是動漫愛好者和數位藝術家的多功能工具，可將想法和照片轉化為令人驚嘆的動漫風格圖像和視頻",
+        "url": "/zh-tw/article/ai-anime-generator",
+        "website": "https://www.aianimegen.com",
+        "tags": [
+            "人工智慧藝術",
+            "動漫世代",
+            "影像處理",
+            "數位藝術"
+        ]
+    },
+    {
+        "name": "AI女孩生成器",
+        "description": "將您富有想像力的低語轉化為生動活潑的角色，從勇敢的戰士到睿智的法師，並觀看創意變為現實",
+        "url": "/zh-tw/article/ai-girl-generator",
+        "website": "https://girlgenerator.online",
+        "tags": [
+            "角色生成",
+            "人工智慧藝術",
+            "數位創作",
+            "角色設計"
+        ]
+    },
+    {
+        "name": "線上即時肖像",
+        "description": "LivePortrait 是一款人工智慧工具，可透過逼真的模仿和口型同步來製作靜態肖像動畫，非常適合創作者、行銷人員和愛好者。",
+        "url": "/zh-tw/article/liveportrait-online",
+        "website": "https://liveportrait.online",
+        "tags": [
+            "人像動畫",
+            "人工智慧影片",
+            "臉部動畫",
+            "內容創作"
+        ]
+    },
+    {
+        "name": "人工智慧 GIF 產生器",
+        "description": "AI Gif 產生器會根據「貓」或「狗」等關鍵字建立自訂 GIF。它非常適合社交媒體愛好者和行銷人員，為我們提供快速、準確的結果",
+        "url": "/zh-tw/article/ai-gif-generator",
+        "website": "https://www.aigifgenerator.org",
+        "tags": [
+            "GIF 創作",
+            "動畫生成",
+            "社群媒體",
+            "內容行銷"
+        ]
+    },
+    {
+        "name": "即時肖像.io",
+        "description": "使用即時肖像將您的照片轉變為栩栩如生的動畫序列。享受卓越品質、無縫拼接和個人化選項",
+        "url": "/zh-tw/article/live-portrait-io",
+        "website": "https://liveportrait.io",
+        "tags": [
+            "人像動畫",
+            "影片生成",
+            "人工智慧動畫",
+            "數位內容"
+        ]
+    },
+    {
+        "name": "最佳人工智慧女友",
+        "description": "Best AI Girlfriend 是一款免費的 AI 女孩生成器，可讓您創建自己的 AI 女朋友並與您聊天，提供各種風格和個性。",
+        "url": "/zh-tw/article/best-ai-girlfriend",
+        "website": "https://aigirl.best",
+        "tags": [
+            "人工智慧聊天",
+            "虛擬伴侶",
+            "社交互動",
+            "人工智慧"
+        ]
+    },
+    {
+        "name": "即時肖像應用程式",
+        "description": "它提供精確的控制、多樣化的風格支援和自訂動畫。核心技術確保快速、無縫的動畫生成",
+        "url": "/zh-tw/article/liveportrait-app",
+        "website": "https://liveportrait.app",
+        "tags": [
+            "動畫創作",
+            "行動應用程式",
+            "影片編輯",
+            "內容創作"
+        ]
+    },
+    {
+        "name": "卡通世代",
+        "description": "在幾秒鐘內創建自訂卡通圖像 - 只需上傳圖像或用文字描述您的願景",
+        "url": "/zh-tw/article/cartoongen-com",
+        "website": "https://cartoongen.com",
+        "tags": [
+            "卡通世代",
+            "影像轉換",
+            "人工智慧藝術",
+            "數位插圖"
+        ]
+    },
+    {
+        "name": "動畫我的圖片",
+        "description": "AnimateMyPic 是一款由人工智慧驅動的工具，可將靜態照片轉換為高品質、引人入勝的視頻，非常適合數位藝術家和休閒用戶。",
+        "url": "/zh-tw/article/animate-my-pic",
+        "website": "https://animatemypic.com",
+        "tags": [
+            "照片動畫",
+            "影片創作",
+            "人工智慧動畫",
+            "內容創作"
+        ]
+    },
+    {
+        "name": "卡通工匠com",
+        "description": "ToonCrafter.com，這個免費的遊樂場為初學者和專業人士提供了實踐經驗。",
+        "url": "/zh-tw/article/tooncrafter-com",
+        "website": "https://toon-crafter.com",
+        "tags": [
+            "卡通創作",
+            "數位藝術",
+            "影像處理",
+            "創意工具"
+        ]
+    },
+    {
+        "name": "即時人像人工智慧",
+        "description": "它非常適合個人化視訊訊息，它使用重演技術將頭部動作、面部表情和聲音與靜態照片相匹配",
+        "url": "/zh-tw/article/live-portrait-org",
+        "website": "https://liveportrait.org",
+        "tags": [
+            "人像動畫",
+            "人工智慧影片",
+            "表情",
+            "內容創作"
+        ]
+    },
+    {
+        "name": "即時人像人工智慧",
+        "description": "該工具提供即時動畫和自訂選項。使用者可以立即預覽栩栩如生的動畫，而遊樂場和展示區則",
+        "url": "/zh-tw/article/liveportrait-net",
+        "website": "https://live-portrait.net",
+        "tags": [
+            "即時動畫",
+            "人工智慧影片",
+            "數位內容",
+            "影片製作"
+        ]
+    },
+    {
+        "name": "即時肖像組織",
+        "description": "Live Portrait org 是一款人工智慧工具，可將靜態肖像轉化為栩栩如生的動畫，非常適合內容創作者和社群媒體愛好者。",
+        "url": "/zh-tw/article/live-portrait-org",
+        "website": "https://live-portrait.org",
+        "tags": [
+            "人像動畫",
+            "內容創作",
+            "社群媒體",
+            "人工智慧影片"
+        ]
+    },
+    {
+        "name": "畫畫AI",
+        "description": "PicPicAI 是一款專為照片編輯愛好者和專業人士設計的多功能人工智慧工具。它提供背景去除、照片增強、放大等功能。",
+        "url": "/zh-tw/article/picpicai",
+        "website": "https://picpicai.com",
+        "tags": [
+            "圖像編輯",
+            "照片增強",
+            "人工智慧處理",
+            "數位創作"
+        ]
+    },
+    {
+        "name": "人工智慧動漫生成器",
+        "description": "AiAnimeGenerator 是一款針對動漫愛好者和數位藝術家的人工智慧工具。輸入描述，產生影像，然後下載高品質動漫",
+        "url": "/zh-tw/article/aianimegenerator",
+        "website": "https://aianimegenerator.net",
+        "tags": [
+            "動漫世代",
+            "人工智慧藝術",
+            "數位創作",
+            "影像生成"
+        ]
+    },
+    {
+        "name": "深沉的懷舊人工智慧",
+        "description": "用戶上傳照片，Deep Nostalgia AI 在 1-2 分鐘內即可生成高品質的動畫，提供一種無縫的方式來保存和連接過去。",
+        "url": "/zh-tw/article/deep-nostalgia-ai",
+        "website": "https://deepnostalgia.ai",
+        "tags": [
+            "照片動畫",
+            "懷舊處理",
+            "人工智慧影片",
+            "家史"
+        ]
+    },
+    {
+        "name": "簡單的動漫製作者",
+        "description": "用於從照片或文字創建動漫藝術的人工智慧工具。只需在線點擊即可立即生成自訂動漫圖像。",
+        "url": "/zh-tw/article/easy-anime-maker",
+        "website": "https://ai-animegenerator.org",
+        "tags": [
+            "動漫創作",
+            "人工智慧藝術",
+            "影像生成",
+            "數位內容"
+        ]
+    },
+    {
+        "name": "AI動漫生成雲",
+        "description": "使用 AI Anime Generator Cloud 產生自訂動漫圖像。輸入提示、調整設定並使用品質標籤來創建完美的動漫場景。",
+        "url": "/zh-tw/article/ai-anime-generator-cloud",
+        "website": "https://aianimegenerator.cloud",
+        "tags": [
+            "動漫世代",
+            "雲端服務",
+            "人工智慧藝術",
+            "數位創作"
+        ]
+    },
+    {
+        "name": "奧普薩爾",
+        "description": "Aopsal 是一款人工智慧工具，可以將舊照片動畫化，將靜態圖像轉換為動態視頻，無需註冊。它採用尖端技術",
+        "url": "/zh-tw/article/aopsal",
+        "website": "https://aopsai.com",
+        "tags": [
+            "照片動畫",
+            "人工智慧影片",
+            "歷史照片",
+            "內容創作"
+        ]
+    }
+]

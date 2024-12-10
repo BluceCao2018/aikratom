@@ -1,0 +1,47 @@
+
+[
+  {
+    "name": "클로드",
+    "description": "Anthropic이 개발한 AI 챗봇은 OpenAI의 ChatGPT와 유사하며 현재 가장 강력한 경쟁자 중 하나로 인정받고 있습니다. Claude 3.5는 최대 200,000개의 토큰의 컨텍스트 길이를 지원하고 최대 18페이지의 PDF 문서를 읽고 요약할 수 있으며 강력한 코드 인식 기능을 갖추고 있습니다.",
+    "url": "/ko/article/claude",
+    "website": "https://claude.ai/",
+    "tags": [
+      "AI 어시스턴트",
+      "문서 분석",
+      "코드 생성"
+    ]
+  },
+  {
+    "name": "채팅GPT",
+    "description": "ChatGPT는 자연어 처리, 창의적 글쓰기, 문제 해결에 탁월한 OpenAI의 대표적인 대화형 AI 모델입니다. 향상된 성능을 위해 GPT-4 기능을 갖춘 무료 버전과 프리미엄 버전을 모두 제공합니다.",
+    "url": "/ko/article/chatgpt",
+    "website": "https://chat.openai.com",
+    "tags": [
+      "언어 모델",
+      "문예창작",
+      "문제 해결"
+    ]
+  },
+  {
+    "name": "당황",
+    "description": "Perplexity AI는 AI 기반 분석과 실시간 정보를 결합하여 다양한 주제에 걸쳐 정확하고 인용된 답변과 통찰력을 제공하는 고급 검색 및 발견 엔진입니다.",
+    "url": "/ko/article/perplexity",
+    "website": "https://perplexity.ai",
+    "tags": [
+      "AI 검색",
+      "연구 도구",
+      "지식 발견"
+    ]
+  },
+  {
+    "name": "빙 채팅",
+    "description": "Microsoft의 고급 AI 기술을 기반으로 하는 Bing Chat은 실시간 정보 검색, 창의적인 콘텐츠 생성, 인터넷 연결 기능을 통한 대화형 대화를 제공합니다.",
+    "url": "/ko/article/bingchat",
+    "website": "https://www.bing.com/chat",
+    "tags": [
+      "AI 검색",
+      "콘텐츠 생성",
+      "실시간 정보"
+    ]
+  }
+]

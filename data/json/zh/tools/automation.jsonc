@@ -1,0 +1,270 @@
+[
+  {
+    "name": "ClickUp",
+    "description": "ClickUp is an all-in-one productivity platform that combines project management, task automation, and team collaboration tools to streamline workflows and increase efficiency.",
+    "url": "/en/article/clickup",
+    "website": "https://clickup.com",
+    "tags": ["Project Management", "Task Automation", "Team Collaboration"]
+  },
+  {
+    "name": "Drift",
+    "description": "Drift is a conversational marketing and sales platform that uses AI-powered chatbots and automation to engage website visitors and convert them into qualified leads.",
+    "url": "/en/article/drift",
+    "website": "https://drift.com",
+    "tags": ["Conversational Marketing", "Sales Automation", "Lead Generation"]
+  },
+  {
+    "name": "Outreach",
+    "description": "Outreach is a sales engagement platform that automates and optimizes customer interactions through AI-driven insights and workflow automation.",
+    "url": "/en/article/outreach",
+    "website": "https://outreach.io",
+    "tags": ["Sales Engagement", "Workflow Automation", "Customer Intelligence"]
+  },
+  {
+    "name": "Emplifi",
+    "description": "Emplifi is a unified customer experience platform that automates social media management, customer care, and marketing activities through AI-powered tools.",
+    "url": "/en/article/emplifi",
+    "website": "https://emplifi.io",
+    "tags": ["Customer Experience", "Social Media Automation", "Marketing Analytics"]
+  },
+  {
+    "name": "CharacterGen",
+    "description": "CharacterGen使用多视图姿态校准技术将单个图像转换为精确的3D角色模型，非常适合游戏开发者和动画师",
+    "url": "/zh/article/charactergen",
+    "website": "https://character-gen.com",
+    "tags": [
+        "3D建模",
+        "角色创建",
+        "游戏开发",
+        "动画制作"
+    ]
+  },
+  {
+    "name": "AI动漫生成器",
+    "description": "AI动漫生成器是一款面向动漫爱好者和数字艺术家的多功能工具，可以将创意和照片转换为令人惊叹的动漫风格图像和视频",
+    "url": "/zh/article/ai-anime-generator",
+    "website": "https://www.aianimegen.com",
+    "tags": [
+        "AI艺术",
+        "动漫生成",
+        "图像处理",
+        "数字艺术"
+    ]
+  },
+  {
+    "name": "AI女孩生成器",
+    "description": "将你���想象转化为生动的角色，从勇敢的战士到智慧的法师，让创意栩栩如生",
+    "url": "/zh/article/ai-girl-generator",
+    "website": "https://girlgenerator.online",
+    "tags": [
+        "角色生成",
+        "AI艺术",
+        "数字创作",
+        "角色设计"
+    ]
+  },
+  {
+    "name": "LivePortrait在线版",
+    "description": "LivePortrait是一款AI工具，可以为静态肖像添加逼真的表情和唇形同步，非常适合创作者、营销人员和爱好者使用",
+    "url": "/zh/article/liveportrait-online",
+    "website": "https://liveportrait.online",
+    "tags": [
+        "肖像动画",
+        "AI视频",
+        "面部动画",
+        "内容创作"
+    ]
+  },
+  {
+    "name": "AI GIF生成器",
+    "description": "AI GIF生成器可以通过关键词如\"猫\"或\"狗\"创建自定义GIF。完美适合社交媒体爱好者和营销人员，提供快速准确的结果",
+    "url": "/zh/article/ai-gif-generator",
+    "website": "https://www.aigifgenerator.org",
+    "tags": [
+        "GIF创作",
+        "动画生成",
+        "社交媒体",
+        "内容营销"
+    ]
+  },
+  {
+    "name": "Live Portrait.io",
+    "description": "使用Live Portrait将您的照片转换为栩栩如生的动画序列。享受卓越的质量、无缝拼接和个性化选项",
+    "url": "/zh/article/live-portrait-io",
+    "website": "https://liveportrait.io",
+    "tags": [
+        "肖像动画",
+        "视频生成",
+        "AI动画",
+        "数字内容"
+    ]
+  },
+  {
+    "name": "最佳AI女友",
+    "description": "最佳AI女友是一款免费的AI女孩生成器，允许您创建并与自己的AI女友聊天，提供各种风格和个性选择",
+    "url": "/zh/article/best-ai-girlfriend",
+    "website": "https://aigirl.best",
+    "tags": [
+        "AI聊天",
+        "虚拟伴侣",
+        "社交互动",
+        "人工智能"
+    ]
+  },
+  {
+    "name": "LivePortrait应用",
+    "description": "提供精确控制、多样化风格支持和自定义动画。核心技术确保快速无缝的动画生成",
+    "url": "/zh/article/liveportrait-app",
+    "website": "https://liveportrait.app",
+    "tags": [
+        "动画制作",
+        "移动应用",
+        "视频编辑",
+        "内容创作"
+    ]
+  },
+  {
+    "name": "卡通生成器",
+    "description": "只需上传图像或用文字描述您的想法，即可在几秒钟内创建自定义卡通图像",
+    "url": "/zh/article/cartoongen-com",
+    "website": "https://cartoongen.com",
+    "tags": [
+        "卡通生成",
+        "图像转换",
+        "AI艺术",
+        "数字插画"
+    ]
+  },
+  {
+    "name": "照片动画师",
+    "description": "AnimateMyPic是一款AI驱动的工具，可将静态照片转换为高质量、引人入胜的视频，完美适合数字艺术家和普通用户",
+    "url": "/zh/article/animate-my-pic",
+    "website": "https://animatemypic.com",
+    "tags": [
+        "照片动画",
+        "视频制作",
+        "AI动画",
+        "内容创作"
+    ]
+  },
+  {
+    "name": "卡通工坊",
+    "description": "ToonCrafter.com提供免费的创作平台，为初学者和专业人士提供实践体验",
+    "url": "/zh/article/tooncrafter-com",
+    "website": "https://toon-crafter.com",
+    "tags": [
+        "卡通制作",
+        "数字艺术",
+        "图像处理",
+        "创意工具"
+    ]
+  },
+  {
+    "name": "Live Portrait AI",
+    "description": "完美适合个性化视频消息，使用重演技术匹配头部运动、面部表情和声音到静态照片",
+    "url": "/zh/article/live-portrait-org",
+    "website": "https://liveportrait.org",
+    "tags": [
+        "肖像动画",
+        "AI视频",
+        "面部表情",
+        "内容创作"
+    ]
+  },
+  {
+    "name": "LivePortrait AI",
+    "description": "该工具提供实时动画和自定义选项。用户可以即时预览逼真的动画",
+    "url": "/zh/article/live-portrait-org",
+    "website": "https://liveportrait.org",
+    "tags": [
+        "肖像动画",
+        "AI视频",
+        "面部表情",
+        "内容创作"
+    ]
+  },
+  {
+  "name": "Live Portrait组织版",
+  "description": "Live Portrait org是一款AI工具，可将静态肖像转换为栩栩如生的动画，完美适合内容创作者和社交媒体爱好者",
+  "url": "/zh/article/live-portrait-org",
+  "website": "https://live-portrait.org",
+  "tags": [
+  "肖像动画",
+  "内容创作",
+  "社交媒体",
+  "AI视频"
+  ]
+  },
+  {
+  "name": "PicPicAI",
+  "description": "PicPicAI是一款面向照片编辑爱好者和专业人士的多功能AI工具。它提供背景移除、照片增强、放大等功能",
+  "url": "/zh/article/picpicai",
+  "website": "https://picpicai.com",
+  "tags": [
+  "图像编辑",
+  "照片增强",
+  "AI处理",
+  "数字创作"
+  ]
+  },
+  {
+  "name": "AI动漫生成器专业版",
+  "description": "AiAnimeGenerator是一款面向动漫爱好者和数字艺术家的AI驱动工具。输入描述，生成图像，下载高质量动漫",
+  "url": "/zh/article/aianimegenerator",
+  "website": "https://aianimegenerator.net",
+  "tags": [
+  "动漫生成",
+  "AI艺术",
+  "数字创作",
+  "图像生成"
+  ]
+  },
+  {
+  "name": "深度怀旧AI",
+  "description": "用户上传照片，Deep Nostalgia AI在1-2分钟内生成高质量动画，提供一种无缝的方式来保存和连接过去",
+  "url": "/zh/article/deep-nostalgia-ai",
+  "website": "https://deepnostalgia.ai",
+  "tags": [
+  "照片动画",
+  "怀旧处理",
+  "AI视频",
+  "家族史"
+  ]
+  },
+  {
+  "name": "简易动漫制作器",
+  "description": "从照片或文字创建动漫艺术的AI工具。只需简单点击即可在线生成自定义动漫图像",
+  "url": "/zh/article/easy-anime-maker",
+  "website": "https://ai-animegenerator.org",
+  "tags": [
+  "动漫创作",
+  "AI艺术",
+  "图像生成",
+  "数字内容"
+  ]
+  },
+  {
+  "name": "AI动漫生成器云服务",
+  "description": "使用AI动漫生成器云服务生成自定义动漫图像。输入提示，调整设置，使用质量标签创建完美的动漫场景",
+  "url": "/zh/article/ai-anime-generator-cloud",
+  "website": "https://aianimegenerator.cloud",
+  "tags": [
+  "动漫生成",
+  "云服务",
+  "AI艺术",
+  "数字创作"
+  ]
+  },
+  {
+  "name": "Aopsal",
+  "description": "Aopsal是一款AI工具，可以为旧照片添加动画效果，无需注册即可将静态图像转换为动态视频。它使用尖端技术",
+  "url": "/zh/article/aopsal",
+  "website": "https://aopsai.com",
+  "tags": [
+  "照片动画",
+  "AI视频",
+  "历史照片",
+  "内容创作"
+  ]
+  }
+]

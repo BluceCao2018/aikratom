@@ -1,0 +1,100 @@
+// example data
+// {
+//   "name": "Tailwind CSS",
+//   "description": "A utility-first CSS framework",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (Optional, 3tags max)
+//   "add_date": "yyyy-MM-dd" (Optional) 
+//   ...any other key if you want
+// }
+// 
+// Notice:
+// 1. All data should be sorted alphabetically.
+// 2. Affiliate links are not allowed
+// 3. Do not submit tools that are unrelated to development.
+[
+  {
+    "name": "靈感",
+    "src": "idea.jsonc",
+    "link": "idea",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "推特",
+    "src": "twitter.jsonc",
+    "link": "twitter",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "推介會",
+    "src": "presentation.jsonc",
+    "link": "presentation",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "網站",
+    "src": "website.jsonc",
+    "link": "website",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "寫作",
+    "src": "writing.jsonc",
+    "link": "writing",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "人工智慧模型",
+    "src": "ai_model.jsonc",
+    "link": "ai_model",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "會議",
+    "src": "meeting.jsonc",
+    "link": "meeting",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "聊天機器人",
+    "src": "chatbot.jsonc",
+    "link": "chatbot",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "自動化",
+    "src": "automation.jsonc",
+    "link": "automation",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "使用者介面/使用者體驗",
+    "src": "ui_ux.jsonc",
+    "link": "ui_ux",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "影像",
+    "src": "image.jsonc",
+    "link": "image",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "影片",
+    "src": "video.jsonc",
+    "link": "video",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "設計",
+    "src": "design.jsonc",
+    "link": "design",
+    "description": "靈感創作工具."
+  },
+  {
+    "name": "行銷",
+    "src": "marketing.jsonc",
+    "link": "marketing",
+    "description": "靈感創作工具."
+  }
+]

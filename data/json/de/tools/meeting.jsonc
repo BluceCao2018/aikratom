@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "Zum Beispiel",
+    "description": "Tldv (Too Long Didn't View) ist ein KI-gestützter Besprechungsassistent, der Besprechungen aufzeichnet, transkribiert und zusammenfasst und es so erleichtert, wichtige Erkenntnisse aus Videoanrufen zu erfassen und zu teilen.",
+    "url": "/de/article/tldv",
+    "website": "https://tldv.io",
+    "tags": [
+      "Besprechungsaufzeichnung",
+      "Transkription",
+      "Zusammenfassung der Besprechung"
+    ]
+  },
+  {
+    "name": "Krisp",
+    "description": "Krisp ist eine KI-gestützte Geräuschunterdrückungs-App, die Hintergrundgeräusche und Echos von Anrufen entfernt und so eine kristallklare Audioqualität in virtuellen Meetings gewährleistet.",
+    "url": "/de/article/krisp",
+    "website": "https://krisp.ai",
+    "tags": [
+      "Geräuschunterdrückung",
+      "Audioverbesserung",
+      "Meeting-Qualität"
+    ]
+  },
+  {
+    "name": "Otter",
+    "description": "Otter ist ein KI-Meeting-Assistent, der Echtzeit-Transkription, automatisierte Notizen und Meeting-Einblicke für eine bessere Zusammenarbeit und Dokumentation bietet.",
+    "url": "/de/article/otter",
+    "website": "https://otter.ai",
+    "tags": [
+      "Besprechungstranskription",
+      "Notizen machen",
+      "Zusammenarbeit"
+    ]
+  },
+  {
+    "name": "Er trinkt",
+    "description": "Avoma ist ein KI-Assistent für den Lebenszyklus von Meetings, der Teams mit automatisierten Notizen, Transkriptionen und Analysen bei der Vorbereitung, Durchführung und Nachbereitung von Meetings unterstützt.",
+    "url": "/de/article/avoma",
+    "website": "https://avoma.com",
+    "tags": [
+      "Meeting-Management",
+      "KI-Assistent",
+      "Meeting-Analyse"
+    ]
+  },
+  {
+    "name": "Glühwürmchen",
+    "description": "Fireflies ist ein KI-Besprechungsassistent, der Gespräche automatisch aufzeichnet, transkribiert und analysiert und Teams dabei hilft, Besprechungsinhalte zu erfassen und zu durchsuchen.",
+    "url": "/de/article/fireflies",
+    "website": "https://fireflies.ai",
+    "tags": [
+      "Meeting Intelligence",
+      "Transkription",
+      "Suchen"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+
+[
+  {
+    "name": "中途",
+    "description": "Midjourney 是一款功能强大的 AI 艺术生成器，可以根据文本描述创建令人惊叹的高质量图像，提供独特的艺术风格和先进的图像生成功能。",
+    "url": "/zh/article/midjourney",
+    "website": "https://www.midjourney.com",
+    "tags": [
+      "人工智能艺术",
+      "图像生成",
+      "数字艺术"
+    ]
+  },
+  {
+    "name": "风格",
+    "description": "Stylar 是一款人工智能驱动的设计工具，可帮助创建和编辑具有各种艺术风格的图像，非常适合品牌内容和社交媒体视觉效果。",
+    "url": "/zh/article/stylar",
+    "website": "https://www.stylar.ai",
+    "tags": [
+      "风格转移",
+      "品牌设计",
+      "社交媒体"
+    ]
+  },
+  {
+    "name": "手绘",
+    "description": "Freepik 是一个综合平台，提供数百万个免费矢量、库存照片、PSD 文件和图标，以满足创意项目和设计需求。",
+    "url": "/zh/article/freepik",
+    "website": "https://www.freepik.com",
+    "tags": [
+      "库存图片",
+      "矢量图形",
+      "设计资源"
+    ]
+  },
+  {
+    "name": "Phyqital+",
+    "description": "Phyqital+ 是一个先进的 AI 图像增强平台，可以在保持质量和添加创意效果的同时转换和升级图像。",
+    "url": "/zh/article/phyqital",
+    "website": "https://phyqital.plus",
+    "tags": [
+      "图像增强",
+      "人工智能升级",
+      "照片编辑"
+    ]
+  },
+  {
+    "name": "股票IMG",
+    "description": "StockIMG 是一个人工智能驱动的库存图像平台，可为各种商业和创意用途生成并提供可定制的免版税图像。",
+    "url": "/zh/article/stockimg",
+    "website": "https://stockimg.ai",
+    "tags": [
+      "库存照片",
+      "人工智能一代",
+      "商业用途"
+    ]
+  },
+  {
+    "name": "必应创建",
+    "description": "Bing Create 是微软的 AI 图像生成工具，允许用户使用 DALL-E 技术根据文本描述创建自定义图像。",
+    "url": "/zh/article/bingcreate",
+    "website": "https://www.bing.com/create",
+    "tags": [
+      "人工智能一代",
+      "达尔-E",
+      "微软人工智能"
+    ]
+  }
+]

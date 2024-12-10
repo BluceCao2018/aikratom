@@ -1,0 +1,95 @@
+{
+  "website":{
+    "domain": "https://aikratom.com"
+  },
+  "home": {
+    "meta_title": "Todos os ferramentas de IA que você deseja estão no AI Kratom - Inicie a navegação",
+    "meta_description": "Com o Navegador do Diretório de IA do aikratom.com, que realmente o entende, você pode descobrir facilmente as melhores e mais populares ferramentas de IA. Explore agora!",
+    "h2": "Todos os ferramentas de IA que você deseja estão no AI Kratom",
+    "description": "Descubra as melhores e mais populares ferramentas de IA de 2024 com o Navegador do Diretório de IA do aikratom.com que o entende!"
+  },
+  "category": {
+    "meta_title": "Categoria｜Todos os ferramentas de IA que você deseja estão em ",
+    "meta_description": "Você pode procurar as ferramentas de IA de que precisa de acordo com as categorias e o AI Kratom ajudará você a escolher as ferramentas de IA apropriadas.",
+    "homeBtn": "Página Inicial",
+    "categoryBtn": "Categoria",
+    "h1": "Categorias de ferramentas de IA",
+    "h2": "Encontre aqui todas as ferramentas de IA de que precisa",
+    "h2description": "Todas as ferramentas de IA são ordenadas alfabeticamente"
+  },
+  "article": {
+    "meta_title": "Artigo｜Todos os ferramentas de IA que você deseja estão em ",
+    "meta_description": "Lendo estes artigos no AI Kratom, você pode rapidamente adquirir conhecimento sobre as ferramentas de IA e, ao mesmo tempo, isso ajudará você a escolher as ferramentas de IA apropriadas.",
+    "h1": "Artigos",
+    "h2": "Leia mais artigos sobre as ferramentas de IA e escolha as ferramentas de IA apropriadas para você",
+    "homeBtn": "Página Inicial",
+    "articleBtn": "Artigo",
+    "backToArticles": "Voltar aos artigos"
+  },
+  "changelog": {
+    "meta_title": "Registro de alterações",
+    "meta_description": "Fique atualizado com as últimas atualizações no DevToolset.net",
+    "h1": "Registro de alterações",
+    "h2": "Fique atualizado com as últimas atualizações no DevToolset.net",
+    "homeBtn": "Página Inicial",
+    "changelogBtn": "Registro de alterações"
+  },
+  "tools": {
+    "meta_description": "Encontre todas as ferramentas de desenvolvimento essenciais de que precisa para sua jornada de desenvolvimento",
+    "h2_1": "Todas as ferramentas de IA relacionadas com",
+    "h2_2": "",
+    "homeBtn": "Página Inicial"
+  },
+  "search": {
+    "input_placeholder": "Pesquisar ferramentas por nome / tags...",
+    "heading": "Sugestões",
+    "more": "Mais",
+    "button": "Pesquisar"
+  },
+  "navigation": {
+    "homeBtn": "Página Inicial",
+    "categoryBtn": "Categoria",
+    "moreCategoryBtn": "Mais",
+    "moreCategoryDescription": "Mais categorias",
+    "articleBtn": "Artigo",
+    "articleDescription": "Descubra as melhores e mais populares ferramentas de IA com o AI Kratom",
+    "article1Title": "Navegador do Diretório de IA que o entende!",
+    "article2Title": "Implante sua própria coleção de ferramentas de desenvolvimento",
+    "moreArticleBtn": "Mais",
+    "moreArticleDescription": "Mais artigos",
+    "changelogBtn": "Registro de alterações",
+    "submitToolBtn": "Enviar ferramenta",
+    "aboutBtn": "Sobre"
+  },
+  "footer": {
+    "description": "Site de informações completas e atualizadas sobre ferramentas de IA",
+    "builtWith": "Construído com",
+    "quickLinks": "Links rápidos",
+    "home": "Página Inicial",
+    "category": "Categoria",
+    "article": "Artigo",
+    "changelog": "Registro de alterações",
+    "privacy": "Privacidade",
+    "termsOfService": "Termos de serviço",
+    "legal": "Legal",
+    "connect": "Conectar",
+    "support": "Suporte",
+    "copyright": "Todos os direitos reservados"
+  },
+  "toolsList": {
+    "more": "Mais",
+    "tools": "Ferramentas"
+  },
+  "articleList": {
+    "h2": "Artigos",
+    "moreArticles": "Mais artigos"
+  },
+  "about": {
+    "meta_title": "Diretório de Ferramentas de IA AI Kratom - Explore o Mundo Ilimitado da IA",
+    "meta_description": "Na era atual de rápido desenvolvimento digital, a Inteligência Artificial (IA) tornou-se parte integrante de todos os campos e uma força poderosa que impulsiona a inovação e a mudança. Para ajudá-lo a explorar, descobrir e usar as muitas excelentes ferramentas de IA de forma mais conveniente, a AI Kratom criou cuidadosamente este site de diretório de ferramentas de IA.",
+    "h1": "Sobre a AI Kratom",
+    "h2": "Sobre a AI Kratom",
+    "homeBtn": "Início",
+    "aboutBtn": "Sobre"
+  }
+} 

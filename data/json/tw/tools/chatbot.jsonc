@@ -1,0 +1,58 @@
+
+[
+  {
+    "name": "坡",
+    "description": "Poe 是一款由人工智慧驅動的聊天機器人，旨在為用戶查詢提供快速、準確的回應，利用自然語言處理來增強用戶互動。",
+    "url": "/tw/article/poe",
+    "website": "https://poe.com",
+    "tags": [
+      "人工智慧聊天機器人",
+      "自然語言處理",
+      "客戶支援"
+    ]
+  },
+  {
+    "name": "克洛德",
+    "description": "Claude 是一種高階對話式人工智慧，旨在協助完成從回答問題到提供詳細解釋等各種任務。",
+    "url": "/tw/article/claude",
+    "website": "https://claude.ai",
+    "tags": [
+      "對話式人工智慧",
+      "任務自動化",
+      "虛擬助理"
+    ]
+  },
+  {
+    "name": "雙子座",
+    "description": "Gemini 是一個多功能聊天機器人平台，可與各種服務整合以提供無縫通訊和任務管理。",
+    "url": "/tw/article/gemini",
+    "website": "https://gemini.com",
+    "tags": [
+      "聊天機器人平台",
+      "一體化",
+      "工作管理"
+    ]
+  },
+  {
+    "name": "聊天GPT",
+    "description": "ChatGPT 是 OpenAI 開發的最先進的語言模型，能夠產生類似人類的文本並進行有意義的對話。",
+    "url": "/tw/article/chatgpt",
+    "website": "https://openai.com/chatgpt",
+    "tags": [
+      "語言模型",
+      "開放人工智慧",
+      "文字生成"
+    ]
+  },
+  {
+    "name": "擁抱聊天",
+    "description": "HuggingChat 是一個開源聊天機器人框架，可讓開發人員輕鬆建置和部署自訂對話代理程式。",
+    "url": "/tw/article/huggingchat",
+    "website": "https://huggingface.co/chat",
+    "tags": [
+      "開源",
+      "聊天機器人框架",
+      "開發者工具"
+    ]
+  }
+]
