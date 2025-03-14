@@ -193,8 +193,8 @@ export const Navigation = ({ categories }: navigationProp ) => {
             <Button variant="outline" className='text-sm tracking-tight'>{t('submitToolBtn')}</Button>
           </Link>*/}
           <div className="flex items-center gap-1">
-            <ThemeModeButton />
-            <LocaleButton />
+            {/* <ThemeModeButton /> */}
+            {/* <LocaleButton /> */}
             
           </div>
           {/*<Link

@@ -61,7 +61,7 @@ export default async function RootLayout({
         )}>
           <NextIntlClientProvider messages={messages}>
             <ThemeProvider
-              attribute="class"
+              attribute="class"  forcedTheme="light"
 
             >
               <Layout>{children}</Layout>
