@@ -27,23 +27,42 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.8,
       },
       {
-        url: 'privacy-policy', // privacy-policy
+        url: 'article/privacy-policy', // privacy-policy
         lastModified: new Date(),
         changeFrequency: 'daily',
         priority: 0.5,
       },
       {
-        url: 'terms-of-service', // terms-of-service
+        url: 'article/terms-of-service', // terms-of-service
         lastModified: new Date(),
         changeFrequency: 'daily',
         priority: 0.5,
       },
       {
-        url: 'about', // about
+        url: 'article/about', // about
         lastModified: new Date(),
         changeFrequency: 'daily',
         priority: 0.7,
       },
+      {
+        url: 'mcp', // mcp
+        lastModified: new Date(),
+        changeFrequency: 'daily',
+        priority: 0.7,
+      },
+      {
+        url: 'mcp/server', // mcp/server
+        lastModified: new Date(),
+        changeFrequency: 'daily',
+        priority: 0.7,
+      },  
+      {
+        url: 'mcp/client', // mcp/client
+        lastModified: new Date(),
+        changeFrequency: 'daily',
+        priority: 0.7,
+      },
+      
   ];
 
   const sitemapData = sitemapRoutes.flatMap((route) => {
