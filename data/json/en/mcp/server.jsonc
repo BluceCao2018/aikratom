@@ -1,0 +1,600 @@
+[
+  {
+    "name": "Blender",
+    "description": "BlenderMCP connects Blender to Claude AI through the MCP, allowing Claude to directly interact with and control Blender. This integration enables prompt assisted 3D modeling, scene creation, and manipulation.",
+    "url": "/mcp/server/blender/ahujasid",
+    "website": "https://github.com/ahujasid/blender-mcp",
+    "author": "ahujasid",
+    "tags": [
+      " blender",
+      " 3d-modeling"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Redis",
+    "description": "A MCP server that provides access to Redis databases. This server enables LLMs to interact with Redis key-value stores through a set of standardized tools.",
+    "url": "/mcp/server/redis/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/tree/main/src/redis",
+    "author": "modelcontextprotocol",
+    "tags": [
+      " redis",
+      " database"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Time MCP Server",
+    "description": "A MCP server that provides time and timezone conversion capabilities. This server enables LLMs to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection. ",
+    "url": "/mcp/server/time/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/time",
+    "author": "modelcontextprotocol",
+    "tags": [
+      " time",
+      " timezone"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Sequential Thinking",
+    "description": "An MCP server implementation that provides a tool for dynamic and reflective problem-solving through a structured thinking process. ",
+    "url": "/mcp/server/sequentialthinking/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/sequentialthinking",
+    "author": "modelcontextprotocol",
+    "tags": [
+      " sequentialthinking",
+      " problem-solving"
+    ],
+    "status": "active"
+  },
+  {
+    "name": "Perplexity Ask MCP Server",
+    "description": "A MCP Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.",
+    "url": "/mcp/server/perplexity/ppl-ai",
+    "website": "https://github.com/ppl-ai/modelcontextprotocol",
+    "author": "ppl-ai",
+    "tags": [
+      " mathgpt",
+      " math-solver"
+    ]
+  },
+  {
+    "name": "Figma MCP Server",
+    "description": "MCP server to provide Figma layout information to AI coding agents like Cursor",
+    "url": "/mcp/server/Figma-Context-MCP/GLips",
+    "website": "https://github.com/GLips/Figma-Context-MCP",
+    "author": "GLips",
+    "tags": [
+      " typescript",
+      " ai"
+    ]
+  },
+  {
+    "name": "Firecrawl MCP Server",
+    "description": "Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.",
+    "url": "/mcp/server/firecrawl-mcp-server/mendableai",
+    "website": "https://github.com/mendableai/firecrawl-mcp-server",
+    "author": "mendableai",
+    "tags": [
+      " web-crawler",
+      " web-scraping"
+    ]
+  },
+  {
+    "name": "GitHub",
+    "description": "Repository management, file operations, and GitHub API integration (作者：modelcontextprotocol)",
+    "url": "/mcp/server/github/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/github",
+    "tags": [
+      " github",
+      " repository-management"
+    ]
+  },
+  {
+    "name": "Google Maps",
+    "description": "Location services, directions, and place details (作者：modelcontextprotocol)",
+    "url": "/mcp/server/google-maps/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/google-maps",
+    "tags": [
+      " google-maps",
+      " location-services"
+    ]
+  },
+  {
+    "name": "Slack",
+    "description": "Channel management and messaging capabilities (作者：modelcontextprotocol)",
+    "url": "/mcp/server/slack/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/slack",
+    "tags": [
+      " slack",
+      " messaging"
+    ]
+  },
+  {
+    "name": "PostgreSQL",
+    "description": "Read-only database access with schema inspection (作者：modelcontextprotocol)",
+    "url": "/mcp/server/postgres/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/postgres",
+    "tags": [
+      " postgresql",
+      " database-access"
+    ]
+  },
+  {
+    "name": "Puppeteer",
+    "description": "Browser automation and web scraping (作者：modelcontextprotocol)",
+    "url": "/mcp/server/puppeteer/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/puppeteer",
+    "tags": [
+      " browser-automation",
+      " web-scraping"
+    ]
+  },
+  {
+    "name": "GitLab",
+    "description": "GitLab API, enabling project management (作者：modelcontextprotocol)",
+    "url": "/mcp/server/gitlab/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/gitlab",
+    "tags": [
+      " gitlab",
+      " project-management"
+    ]
+  },
+  {
+    "name": "Filesystem",
+    "description": "Secure file operations with configurable access controls (作者：Anonymous)",
+    "url": "/mcp/server/filesystem",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem",
+    "tags": [
+      " filesystem",
+      " file-operations"
+    ]
+  },
+  {
+    "name": "Brave Search",
+    "description": "Web and local search using Brave's Search API (作者：modelcontextprotocol)",
+    "url": "/mcp/server/brave-search/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search",
+    "tags": [
+      " brave-search",
+      " search-api"
+    ]
+  },
+  {
+    "name": "Sentry",
+    "description": "Retrieving and analyzing issues from Sentry.io (作者：modelcontextprotocol)",
+    "url": "/mcp/server/sentry/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/sentry",
+    "tags": [
+      " sentry",
+      " error-tracking"
+    ]
+  },
+  {
+    "name": "EverArt",
+    "description": "AI image generation using various models (作者：modelcontextprotocol)",
+    "url": "/mcp/server/everart/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/tree/main/src/everart",
+    "tags": [
+      " everart",
+      " image-generation"
+    ]
+  },
+  {
+    "name": "Fetch",
+    "description": "Web content fetching and conversion for efficient LLM usage (作者：modelcontextprotocol)",
+    "url": "/mcp/server/fetch/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/fetch",
+    "tags": [
+      " web-fetching",
+      " llm-tools"
+    ]
+  },
+  {
+    "name": "Aws Kb Retrieval Server",
+    "description": "An MCP server implementation for retrieving information from the AWS Knowledge Base using the Bedrock Agent Runtime. (作者：modelcontextprotocol)",
+    "url": "/mcp/server/aws-kb-retrieval-server/modelcontextprotocol",
+    "website": "https://github.com/modelcontextprotocol/servers/tree/main/src/aws-kb-retrieval-server",
+    "tags": [
+      " aws-kb-retrieval",
+      " mcp-server"
+    ]
+  },
+  {
+    "name": "Mcp Server Chatsum",
+    "description": "summarize chat message (作者：chatmcp)",
+    "url": "/mcp/server/mcp-server-chatsum/chatmcp",
+    "website": "https://github.com/chatmcp/mcp-server-chatsum",
+    "tags": [
+      " chatbot",
+      " mcp-server"
+    ]
+  },
+  {
+    "name": "Spring AI Example",
+    "description": "spring ai example. mcp server, agentic ai. (作者：lucasdengcn)",
+    "url": "/mcp/server/spring-ai-example/lucasdengcn",
+    "website": "https://github.com/lucasdengcn/spring-ai-example",
+    "tags": [
+      " spring-ai",
+      " ai-tools"
+    ]
+  },
+  {
+    "name": "Modular MCP Server",
+    "description": " (作者：da-snap)",
+    "url": "/mcp/server/mcp-server-developer-tool/da-snap",
+    "website": "https://github.com/da-snap/mcp-server-developer-tool",
+    "tags": [
+      " mcp-server",
+      " go"
+    ]
+  },
+  {
+    "name": "Minesweeper MCP Server",
+    "description": "An MCP server for playing Minesweeper (作者：tonypan2)",
+    "url": "/mcp/server/minesweeper-mcp-server/tonypan2",
+    "website": "https://github.com/tonypan2/minesweeper-mcp-server",
+    "tags": [
+      " minesweeper",
+      " game-server"
+    ]
+  },
+  {
+    "name": "MCP Auto Install",
+    "description": "MCP Auto Install is a tool for automatically installing and managing MCP servers. It can automatically detect, install, and configure various MCP servers, making it easier for developers to use the MCP ecosystem. (作者：MyPrototypeWhat)",
+    "url": "/mcp/server/mcp-auto-install/MyPrototypeWhat",
+    "website": "https://github.com/MyPrototypeWhat/mcp-auto-install",
+    "tags": [
+      " mcp-auto-install",
+      " mcp-server"
+    ]
+  },
+  {
+    "name": "mcp-filesystem-server",
+    "description": "A Go implementation of the MCP, enabling seamless integration between LLM applications and external data sources and tools",
+    "url": "/mcp/server/mcp-filesystem-server/qiangmzsx",
+    "website": "https://github.com/qiangmzsx/mcp-filesystem-server",
+    "tags": [
+      " mcp",
+      " filesystem"
+    ]
+  },
+  {
+    "name": "mcp-turso",
+    "description": "🗂️ A MCP server that provides integration with Turso databases for LLMs. This server implements a two-level authentication system to handle both organization-level and database-level operations, making it easy to manage and query Turso databases directly from LLMs. (作者：spences10)",
+    "url": "/mcp/server/mcp-turso/spences10",
+    "website": "https://github.com/spences10/mcp-turso",
+    "tags": [
+      " mcp",
+      " vector-database"
+    ]
+  },
+  {
+    "name": "Bocha AI Web Search MCP Server",
+    "description": " (作者：yoko19191)",
+    "url": "/mcp/server/bocha-ai-mcp-server/yoko19191",
+    "website": "https://github.com/yoko19191/bocha-ai-mcp-server",
+    "tags": [
+      " bocha-ai",
+      " web-search"
+    ]
+  },
+  {
+    "name": "Bee Agent & MCP with Backstage",
+    "description": "A sample MCP Server and Agent that uses it to pull data from a Backstage instanace (作者：evanshortiss)",
+    "url": "/mcp/server/mcp-backstage-example/evanshortiss",
+    "website": "https://github.com/evanshortiss/mcp-backstage-example",
+    "tags": [
+      " mcp",
+      " backstage"
+    ]
+  },
+  {
+    "name": "Time-MCP",
+    "description": "mcp server for the time and date (作者：sidharthrajaram)",
+    "url": "/mcp/server/time-mcp/sidharthrajaram",
+    "website": "https://github.com/sidharthrajaram/time-mcp",
+    "tags": [
+      " time-mcp",
+      " mcp-server"
+    ]
+  },
+  {
+    "name": "MCP Notion",
+    "description": "This project implements a MCP (Model Context Protocol) server that allows language models such as Claude to interact directly with Notion. It serves as a standardized interface between LLMs and the Notion API, eliminating the need for intermediate layers such as Supabase. (作者：GsusFC)",
+    "url": "/mcp/server/MCP-Notion/GsusFC",
+    "website": "https://github.com/GsusFC/MCP-Notion",
+    "tags": [
+      " MCP",
+      " Notion"
+    ]
+  },
+  {
+    "name": "MCP TypeScript Template",
+    "description": "A beginner-friendly foundation for building MCP servers (and in the future also clients) with TypeScript. This template provides a comprehensive starting point with production-ready utilities, well-structured code, and working examples for building an MCP server. (作者：cyanheads)",
+    "url": "/mcp/server/mcp-ts-template/cyanheads",
+    "website": "https://github.com/cyanheads/mcp-ts-template",
+    "tags": [
+      " template",
+      " mcp"
+    ]
+  },
+  {
+    "name": "Container-MCP",
+    "description": "A podman container that serves a MCP server; with file, coding, shell, and more. (作者：54rt1n)",
+    "url": "/mcp/server/container-mcp/54rt1n",
+    "website": "https://github.com/54rt1n/container-mcp",
+    "tags": [
+      " container-mcp",
+      " mcp-server"
+    ]
+  },
+  {
+    "name": "mcp-server-nationalparks",
+    "description": " (作者：KyrieTangSheng)",
+    "url": "/mcp/server/mcp-server-nationalparks/KyrieTangSheng",
+    "website": "https://github.com/KyrieTangSheng/mcp-server-nationalparks",
+    "tags": [
+      " mcp-server",
+      " national-parks"
+    ]
+  },
+  {
+    "name": "Debug MCP Server in VSCode",
+    "description": "Create sample MCP server and able to debug in VSCode (作者：swatDong)",
+    "url": "/mcp/server/mcp-sample-vsc-debug/swatDong",
+    "website": "https://github.com/swatDong/mcp-sample-vsc-debug",
+    "tags": [
+      " mcp",
+      " debugging"
+    ]
+  },
+  {
+    "name": "Hologres MCP Server",
+    "description": " (作者：aliyun)",
+    "url": "/mcp/server/alibabacloud-hologres-mcp-server/aliyun",
+    "website": "https://github.com/aliyun/alibabacloud-hologres-mcp-server",
+    "tags": [
+      " hologres",
+      " mcp-server"
+    ]
+  },
+  {
+    "name": "Swagger MCP 服务器",
+    "description": " (作者：tuskermanshu)",
+    "url": "/mcp/server/swagger-mcp-server/tuskermanshu",
+    "website": "https://github.com/tuskermanshu/swagger-mcp-server",
+    "tags": [
+      " swagger",
+      " api"
+    ]
+  },
+  {
+    "name": "Bilibili API MCP Server",
+    "description": "MCP Server for the Bilibili API, supporting various operations. (作者：huccihuang)",
+    "url": "/mcp/server/bilibili-mcp-server/huccihuang",
+    "website": "https://github.com/huccihuang/bilibili-mcp-server",
+    "tags": [
+      " bilibili",
+      " api"
+    ]
+  },
+  {
+    "name": "Fetcher MCP",
+    "description": "MCP server for fetch web page content using Playwright headless browser. (作者：jae-jae)",
+    "url": "/mcp/server/fetcher-mcp/jae-jae",
+    "website": "https://github.com/jae-jae/fetcher-mcp",
+    "tags": []
+  },
+  {
+    "name": "Fetcher",
+    "description": "MCP server for fetch web page content using Playwright headless browser. (作者：jae-jae)",
+    "url": "/mcp/server/fetcher/jae-jae",
+    "website": "https://github.com/jae-jae/fetch-mcp",
+    "tags": [
+      " fetch",
+      " web-scraping"
+    ]
+  },
+  {
+    "name": "Freecad",
+    "description": " (作者：bonninr)",
+    "url": "/mcp/server/freecad/bonninr",
+    "website": "https://github.com/bonninr/freecad_mcp",
+    "tags": [
+      " freecad",
+      " model-control-protocol"
+    ]
+  },
+  {
+    "name": "NodeJS Debugger",
+    "description": "MCP NodeJS Debugger\r\n\r\nAn MCP server that gives Claude Code access to NodeJS at runtime to help you debug\r\n\r\n1. Add to Claude Code:\r\n\r\nclaude mcp add nodejs-debugger npx @hyperdrive-eng/mcp-nodejs-debugger\r\n\r\n\r\n2. Start Claude Code\r\n\r\n\r\n3. Run a NodeJS server in debug\r\n\r\nnode --inspect {your_file.js}\r\n\r\n4. Ask Claude Code to debug your NodeJS server at runtime\r\n\r\n> I'm getting a runtime error in NodeJS. (作者：Anonymous)",
+    "url": "/mcp/server/hyperdrive-eng/mcp-nodejs-debugger",
+    "website": "https://github.com/hyperdrive-eng/mcp-nodejs-debugger",
+    "tags": []
+  },
+  {
+    "name": "MCP Dev Server UI",
+    "description": " (作者：ianrichard)",
+    "url": "/mcp/server/mcp-server/ianrichard",
+    "website": "https://github.com/ianrichard/mcp-server",
+    "tags": [
+      " mcp-server",
+      " dev-server"
+    ]
+  },
+  {
+    "name": "YouTube Transcript API Server",
+    "description": "A MCP server helps to transcript a youtube video (作者：minhleathvn)",
+    "url": "/mcp/server/youtube_transcript/minhleathvn",
+    "website": "https://github.com/minhleathvn/youtube_transcript",
+    "tags": [
+      " youtube",
+      " transcript"
+    ]
+  },
+  {
+    "name": "Mcp Servers Wiki Website",
+    "description": " (作者：suryansh-business-work)",
+    "url": "/mcp/server/mcp-servers-wiki-website/suryansh-business-work",
+    "website": "https://github.com/suryansh-business-work/mcp-servers-wiki-website",
+    "tags": [
+      " mcp-servers",
+      " wiki"
+    ]
+  },
+  {
+    "name": "mcp-server",
+    "description": "learn to make some mcp servers (作者：yiGmMk)",
+    "url": "/mcp/server/mcp-server/yiGmMk",
+    "website": "https://github.com/yiGmMk/mcp-server",
+    "tags": [
+      " mcp-server",
+      " mcp-servers"
+    ]
+  },
+  {
+    "name": "InsightFlow",
+    "description": "InsightFlow - a real-time analytics dashboard server with an MCP (Message Control Protocol) architecture that integrates with AI services like Claude or Cursor. This solution enables real-time data analytics with natural language query capabilities. (作者：ilissrk)",
+    "url": "/mcp/server/InsightFlow/ilissrk",
+    "website": "https://github.com/ilissrk/InsightFlow",
+    "tags": [
+      " insightflow",
+      " analytics"
+    ]
+  },
+  {
+    "name": "MCP Server Demo with Goose",
+    "description": " (作者：schwannden)",
+    "url": "/mcp/server/mcp-server-demo/schwannden",
+    "website": "https://github.com/schwannden/mcp-server-demo",
+    "tags": [
+      " mcp-server",
+      " goose"
+    ]
+  },
+  {
+    "name": "Vapi MCP for Cursor",
+    "description": "Vapi.ai MCP server & HTTP Server (作者：matthewdcage)",
+    "url": "/mcp/server/vapi-mcp/matthewdcage",
+    "website": "https://github.com/matthewdcage/vapi-mcp",
+    "tags": []
+  },
+  {
+    "name": "iOS Simulator MCP Tool",
+    "description": "MCP server for interacting with the iOS simulator (作者：joshuayoes)",
+    "url": "/mcp/server/ios-simulator-mcp/joshuayoes",
+    "website": "https://github.com/joshuayoes/ios-simulator-mcp",
+    "tags": [
+      " ios-simulator",
+      " mcp"
+    ]
+  },
+  {
+    "name": "MCP Code Executor",
+    "description": "The MCP Code Executor is an MCP server that allows LLMs to execute Python code within a specified Conda environment. (作者：bazinga012)",
+    "url": "/mcp/server/mcp_code_executor/bazinga012",
+    "website": "https://github.com/bazinga012/mcp_code_executor",
+    "tags": [
+      " mcp_code_executor",
+      " python-executor"
+    ]
+  },
+  {
+    "name": "Task Planner MCP Server",
+    "description": "An MCP (Model Context Protocol) server that helps AI assistants (like Claude) break down complex tasks into manageable steps, track progress, and manage a hierarchical task list. (作者：CaptainCrouton89)",
+    "url": "/mcp/server/planner/CaptainCrouton89",
+    "website": "https://github.com/CaptainCrouton89/planner",
+    "tags": [
+      " mcp-server"
+    ]
+  },
+  {
+    "name": "simple_mcp_server",
+    "description": "Test Simple MCP server (作者：natapone)",
+    "url": "/mcp/server/simple_mcp_server/natapone",
+    "website": "https://github.com/natapone/simple_mcp_server",
+    "tags": [
+      " simple_mcp_server",
+      " mcp"
+    ]
+  },
+  {
+    "name": "mcp-gitee",
+    "description": "mcp-gitee 是 Gitee 的模型上下文协议 (MCP) 服务器实现。它提供了一组与 Gitee 的 API 交互的工具，允许 AI 助手管理仓库、Issue、Pull Request等。 (作者：sunhao-java)",
+    "url": "/mcp/server/mcp-gitee/sunhao-java",
+    "website": "https://github.com/sunhao-java/mcp-gitee",
+    "tags": []
+  },
+  {
+    "name": "Puppeteer-Extra MCP Server",
+    "description": "MCP server for browser automation using puppeteer-extra and puppeteer-extra-plugin-stealth (作者：gpaul-faldin)",
+    "url": "/mcp/server/MCP_puppeteer_extra/gpaul-faldin",
+    "website": "https://github.com/gpaul-faldin/MCP_puppeteer_extra",
+    "tags": [
+      " puppeteer",
+      " browser-automation"
+    ]
+  },
+  {
+    "name": "Remote MCP Server on Cloudflare",
+    "description": " (作者：irvinebroque)",
+    "url": "/mcp/server/remote-mcp-server/irvinebroque",
+    "website": "https://github.com/irvinebroque/remote-mcp-server",
+    "tags": [
+      " remote-mcp-server",
+      " cloudflare"
+    ]
+  },
+  {
+    "name": "MCP (Message Control Program) Servers",
+    "description": "MCP (Message Control Program) Servers Collection (作者：pocketkk)",
+    "url": "/mcp/server/mcp/pocketkk",
+    "website": "https://github.com/pocketkk/mcp",
+    "tags": [
+      " mcp",
+      " message-control"
+    ]
+  },
+  {
+    "name": "Hermes MCP",
+    "description": "Elixir MCP SDK",
+    "url": "/mcp/server/hermes-mcp/cloudwalk",
+    "website": "https://github.com/cloudwalk/hermes-mcp",
+    "tags": [
+      " elixir",
+      " mcp"
+    ]
+  },
+  {
+    "name": "Meta MCP Server",
+    "description": "A meta server for orchestrating and leveraging multiple MCP servers and tools based on user requests (作者：infinitimeless)",
+    "url": "/mcp/server/meta-mcp-server/infinitimeless",
+    "website": "https://github.com/infinitimeless/meta-mcp-server",
+    "tags": [
+      " meta-mcp",
+      " orchestration"
+    ]
+  },
+  {
+    "name": "Bitable MCP Server",
+    "description": "This MCP server provides access to Lark Bitable through the Model Context Protocol. It allows users to interact with Bitable tables using predefined tools. (作者：lloydzhou)",
+    "url": "/mcp/server/bitable-mcp/lloydzhou",
+    "website": "https://github.com/lloydzhou/bitable-mcp",
+    "tags": [
+      " mcp",
+      " bitable"
+    ]
+  },
+  {
+    "name": "mcp-yahoo-finance",
+    "description": "mcp server for yahoo finance (作者：smartheye)",
+    "url": "/mcp/server/mcp-yahoo-finance/smartheye",
+    "website": "https://github.com/smartheye/mcp-yahoo-finance",
+    "tags": [
+      " mcp",
+      " yahoo-finance"
+    ]
+  }
+]

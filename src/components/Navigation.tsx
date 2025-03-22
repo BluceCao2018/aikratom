@@ -29,10 +29,12 @@ type categoriesType = {
 
 type navigationProp = {
   categories: categoriesType[]
+  mcpCategories: categoriesType[]
+  cursorCategories: categoriesType[]
 }
 
 
-export const Navigation = ({ categories }: navigationProp ) => {
+export const Navigation = ({ categories, mcpCategories, cursorCategories }: navigationProp ) => {
   const pathname = usePathname()
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const t = useTranslations('navigation');
@@ -143,46 +145,59 @@ export const Navigation = ({ categories }: navigationProp ) => {
                     </ul>
                   </NavigationMenuContent>
                 </NavigationMenuItem>
+               
                 <NavigationMenuItem>
-                  <NavigationMenuTrigger className={cn('font-medium', '/article' === pathname && "font-extrabold")}>
-                    {t('articleBtn')}
+                  <NavigationMenuTrigger className={cn('font-medium', '/mcp' === pathname && "font-extrabold")}>
+                    {t('mcpBtn')}
                   </NavigationMenuTrigger>
                   <NavigationMenuContent>
-                    <ul className="grid gap-3 p-4 md:w-[400px] lg:w-[500px] lg:grid-cols-[.75fr_1fr]">
-                      <li className="row-span-3">
-                        <NavigationMenuLink asChild>
-                          <a
-                            className="flex h-full w-full select-none flex-col justify-end rounded-md bg-gradient-to-b from-muted/50 to-muted p-6 no-underline outline-none focus:shadow-md"
-                            href="/"
-                          >
-                            <div className="mb-2 mt-4 text-lg font-medium">
-                              AI Kratom
-                            </div>
-                            <p className="text-xs leading-tight text-muted-foreground">
-                              {t('articleDescription')}
-                            </p>
-                          </a>
-                        </NavigationMenuLink>
-                      </li>{/*
-                      <ListItem href="/article/add-new-developer-tools" title="Add Tools">
-                        {t('article1Title')}
-                      </ListItem>
-                      <ListItem href="/article/deploy-own-devtoolset" title="Deploy DevToolset">
-                        {t('article2Title')}
-                      </ListItem> */}
-                      <ListItem href="/article" title={t('moreArticleBtn')} className='border border-muted  bg-gradient-to-b  from-muted/50 to-muted/20'>
-                        {t('moreArticleDescription')}
+                    <ul className="grid w-[400px] gap-3 p-4 md:w-[500px] md:grid-cols-3 lg:w-[600px] ">
+                      {mcpCategories.map((category) => (
+                        <ListItem
+                          key={category.name}
+                          title={category.name}
+                          href={`/mcp/${category.link}`}
+                          className='capitalize'
+                        >
+                          {category.description}
+                        </ListItem>
+                      ))}
+                      <ListItem
+                        title={t('moreMCPBtn')}
+                        href={'/mcp'}
+                        className='capitalize border border-muted bg-gradient-to-b from-muted/50 to-muted/20'
+                      >
+                        {t('moreMCPDescription')}
                       </ListItem>
                     </ul>
                   </NavigationMenuContent>
                 </NavigationMenuItem>
-                <NavigationMenuItem>
-                  <Link href="/about" legacyBehavior passHref>
-                    <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), 'font-medium', '/about' === pathname && "font-extrabold")}>
-                      {t('aboutBtn')}
-                    </NavigationMenuLink>
-                  </Link>
-                </NavigationMenuItem>
+                {/* <NavigationMenuItem>
+                  <NavigationMenuTrigger className={cn('font-medium', '/cursor' === pathname && "font-extrabold")}>
+                    {t('cursorBtn')}
+                  </NavigationMenuTrigger>
+                  <NavigationMenuContent>
+                    <ul className="grid w-[400px] gap-3 p-4 md:w-[500px] md:grid-cols-3 lg:w-[600px] ">
+                      {cursorCategories.map((category) => (
+                        <ListItem
+                          key={category.name}
+                          title={category.name}
+                          href={`/cursor/${category.link}`}
+                          className='capitalize'
+                        >
+                          {category.description}
+                        </ListItem>
+                      ))}
+                      <ListItem
+                        title={t('moreCursorBtn')}
+                        href={'/cursor'}
+                        className='capitalize border border-muted bg-gradient-to-b from-muted/50 to-muted/20'
+                      >
+                        {t('moreCursorDescription')}
+                      </ListItem>
+                    </ul>
+                  </NavigationMenuContent>
+                </NavigationMenuItem> */}
               </NavigationMenuList>
             </NavigationMenu>
           </nav>

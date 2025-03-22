@@ -48,7 +48,7 @@
   },
   "navigation": {
     "homeBtn": "Home",
-    "categoryBtn": "Category",
+    "categoryBtn": "AI Tools",
     "moreCategoryBtn": "More",
     "moreCategoryDescription": "More Categories",
     "articleBtn": "Article",
@@ -59,7 +59,48 @@
     "moreArticleDescription": "More articles",
     "changelogBtn": "Changelog",
     "submitToolBtn": "Submit Tool",
-    "aboutBtn": "About"
+    "aboutBtn": "About",
+    "mcpBtn":"MCP",
+    "cursorBtn":"Cursor",
+     "moreMCPBtn":"More",
+    "moreMCPDescription":"More MCP",
+    "moreCursorBtn":"More",
+    "moreCursorDescription":"More Cursor"
+  },
+  "mcp":{
+    "meta_title":"MCP Servers & Clients",
+    "meta_description":"The largest collection of MCP Servers & Clients, including Awesome MCP Servers and Claude MCP integration. Search and discover MCP servers to enhance your AI capabilities.",
+    "h1": {
+      "prefix": "Find Awesome",
+      "highlight": "MCP Servers",
+      "suffix": "and Clients"
+    },
+    "description":"The largest collection of MCP Servers.",
+    "h2description":"All MCP Servers are sorted alphabetically",
+    "moreMcpBtn":"More",
+    "moreMcpDescription":"More MCP",
+    "homeBtn":"Home",
+    "mcpBtn":"MCP",
+    "searchPlaceholder":"Search MCP servers by name / tags...",
+    "learnMore":"Learn More",
+    "viewMore":"View More",
+    "viewAll":"View All",
+    "search":"Search",
+    "searchResults":"Search Results"
+  },
+  "cursor":{
+    "meta_title":"Cursor Tools",
+    "meta_description":"Discover the best and most popular AI tools for Cursor",
+    "h2":"Cursor Tools",
+    "description":"Discover the best and most popular AI tools for Cursor",
+    "h2description":"All AI tools are sorted alphabetically",
+    "moreCursorBtn":"More",
+    "moreCursorDescription":"More Cursor",
+    "learnMore":"Learn More",
+    "viewMore":"View More",
+    "viewAll":"View All",
+    "homeBtn":"Home",
+    "cursorBtn":"Cursor"  
   },
   "footer": {
     "description": "Comprehensive And Timely AI Tools Information Website",

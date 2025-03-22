@@ -1,0 +1,18 @@
+[
+  {
+    "name": "server",
+    "src": "server.jsonc",
+    "link": "server",
+    "description": "MCP servers",
+    "h1": "Discover <span class='text-blue-600'>MCP Servers</span>",
+    "h1description": "Find the best MCP servers for your needs."
+  },
+  {
+    "name": "client",
+    "src": "client.jsonc",
+    "link": "client",
+    "description": "MCP clients",
+    "h1": "Discover <span class='text-blue-600'>MCP Clients</span>",
+    "h1description": "Find the best MCP clients for your needs."
+  }
+] 
