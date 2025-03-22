@@ -5,8 +5,17 @@
   "home": {
     "meta_title": "All the AI tools you want are on AI Kratom-Start navigation",
     "meta_description": " With aikratom.com's One AI Directory Navigator, which truly understands you, you can effortlessly discover the best and most popular AI tools. explore now!",
+    "h1":{
+      "prefix": "Discover",
+      "highlight": "AI Tools",
+      "suffix": "of 2025"
+    },
     "h2": "All the AI tools you want are on AI Kratom",
-    "description": "Discover The Best & Most Popular AI Tools of 2025 with the aikratom.com One AI Directory Navigator That Understand You!"
+    "description": "Find The Best & Most Popular AI Tools of 2025.",
+    "searchPlaceholder": "Search ai tools by name / tags...",
+    "searchResults": "Search Results",
+    "noResults": "No results found for {{keyword}}",
+    "tryAnotherSearch": "Try another search"
   },
   "category": {
     "meta_title": "Category｜All the AI tools you want are on ",
