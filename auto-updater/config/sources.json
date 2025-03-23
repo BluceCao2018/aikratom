@@ -1,0 +1,43 @@
+{
+  "aiTools": {
+    "productHunt": {
+      "url": "https://api.producthunt.com/v2/api/graphql",
+      "topics": ["artificial-intelligence", "productivity", "developer-tools"]
+    },
+    "githubTopics": [
+      "ai-tools",
+      "artificial-intelligence",
+      "machine-learning"
+    ],
+    "rssFeeds": [
+      {
+        "name": "AI News",
+        "url": "https://ai.news/feed/"
+      }
+    ]
+  },
+  "mcpServers": {
+    "sources": [
+      {
+        "name": "MinecraftServers.org",
+        "url": "https://minecraftservers.org/type/modded"
+      }
+    ],
+    "githubTopics": [
+      "minecraft-forge",
+      "minecraft-mod"
+    ]
+  },
+  "cursorRules": {
+    "githubTopics": [
+      "cursor-ide",
+      "development-guidelines"
+    ],
+    "communities": [
+      {
+        "name": "Cursor Discord",
+        "url": "https://discord.com/invite/cursor"
+      }
+    ]
+  }
+} 

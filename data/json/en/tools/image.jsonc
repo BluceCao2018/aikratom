@@ -1,44 +1,801 @@
 [
   {
-    "name": "Midjourney",
-    "description": "Midjourney is a powerful AI art generator that creates stunning, high-quality images from text descriptions, offering unique artistic styles and advanced image generation capabilities.",
-    "url": "/en/article/midjourney",
-    "website": "https://www.midjourney.com",
-    "tags": ["AI Art", "Image Generation", "Digital Art"]
-  },
+  "name": "Midjourney",
+  "description": "Midjourney is a powerful AI art generator that creates stunning, high-quality images from text descriptions, offering unique artistic styles and advanced image generation capabilities.",
+  "url": "/en/article/midjourney",
+  "website": "https://www.midjourney.com",
+  "tags": [
+    "AI Art",
+    "Image Generation",
+    "Digital Art",
+    "Text-to-Image"
+  ]
+},
   {
-    "name": "Stylar",
-    "description": "Stylar is an AI-powered design tool that helps create and edit images with various artistic styles, perfect for brand content and social media visuals.",
-    "url": "/en/article/stylar",
-    "website": "https://www.stylar.ai",
-    "tags": ["Style Transfer", "Brand Design", "Social Media"]
-  },
+  "name": "DALL-E 3",
+  "description": "OpenAI's DALL-E 3 offers precise image generation with enhanced control and understanding of text prompts, producing highly accurate and detailed visual outputs.",
+  "url": "/en/article/dalle3",
+  "website": "https://openai.com/dall-e-3",
+  "tags": [
+    "AI Art",
+    "Image Generation",
+    "OpenAI",
+    "Text-to-Image"
+  ]
+},
   {
-    "name": "Freepik",
-    "description": "Freepik is a comprehensive platform offering millions of free vectors, stock photos, PSD files, and icons for creative projects and design needs.",
-    "url": "/en/article/freepik",
-    "website": "https://www.freepik.com",
-    "tags": ["Stock Images", "Vector Graphics", "Design Resources"]
-  },
+  "name": "Stable Diffusion",
+  "description": "An open-source AI image generation model that allows for extensive customization and community-driven development, supporting various creative applications.",
+  "url": "/en/article/stable-diffusion",
+  "website": "https://stability.ai",
+  "tags": [
+    "Open Source",
+    "AI Art",
+    "Image Generation",
+    "Community"
+  ]
+},
   {
-    "name": "Phyqital+",
-    "description": "Phyqital+ is an advanced AI image enhancement platform that transforms and upscales images while maintaining quality and adding creative effects.",
-    "url": "/en/article/phyqital",
-    "website": "https://phyqital.plus",
-    "tags": ["Image Enhancement", "AI Upscaling", "Photo Editing"]
-  },
+  "name": "Adobe Firefly",
+  "description": "Adobe's AI image generation tool integrated within Creative Cloud, offering seamless workflow with other Adobe products and specialized creative features.",
+  "url": "/en/article/firefly",
+  "website": "https://www.adobe.com/firefly",
+  "tags": [
+    "Adobe",
+    "Creative Suite",
+    "AI Art",
+    "Professional Tools"
+  ]
+},
   {
-    "name": "StockIMG",
-    "description": "StockIMG is an AI-powered stock image platform that generates and provides customizable, royalty-free images for various commercial and creative uses.",
-    "url": "/en/article/stockimg",
-    "website": "https://stockimg.ai",
-    "tags": ["Stock Photos", "AI Generation", "Commercial Use"]
-  },
+  "name": "Leonardo.ai",
+  "description": "A real-time AI image generation platform offering instant previews and iterations, making it efficient for rapid prototyping and creative exploration.",
+  "url": "/en/article/leonardo-ai",
+  "website": "https://leonardo.ai",
+  "tags": [
+    "Real-time Generation",
+    "AI Art",
+    "Prototyping"
+  ]
+},
   {
-    "name": "Bing Create",
-    "description": "Bing Create is Microsoft's AI image generation tool that allows users to create custom images from text descriptions using DALL-E technology.",
-    "url": "/en/article/bingcreate",
-    "website": "https://www.bing.com/create",
-    "tags": ["AI Generation", "DALL-E", "Microsoft AI"]
-  }
+  "name": "Playground AI",
+  "description": "A free alternative to commercial image generation models, offering SDXL capabilities with an intuitive interface and community features.",
+  "url": "/en/article/playground-ai",
+  "website": "https://playground.ai",
+  "tags": [
+    "Free Tools",
+    "SDXL",
+    "Community",
+    "Image Generation"
+  ]
+},
+  {
+  "name": "DreamStudio",
+  "description": "The official interface for Stable Diffusion, providing advanced controls and features for professional image generation needs.",
+  "url": "/en/article/dreamstudio",
+  "website": "https://dreamstudio.ai",
+  "tags": [
+    "Stable Diffusion",
+    "Professional Tools",
+    "Image Generation"
+  ]
+},
+  {
+  "name": "Bing Image Creator",
+  "description": "Microsoft's free AI image generation tool powered by DALL-E, integrated with Bing search and offering easy access to creative image generation.",
+  "url": "/en/article/bing-image-creator",
+  "website": "https://www.bing.com/create",
+  "tags": [
+    "Free Tools",
+    "Microsoft",
+    "DALL-E",
+    "Search Integration"
+  ]
+},
+  {
+  "name": "Ideogram",
+  "description": "Specialized in creating images with integrated text elements, perfect for marketing materials and branded content generation.",
+  "url": "/en/article/ideogram",
+  "website": "https://ideogram.ai",
+  "tags": [
+    "Text Integration",
+    "Branding",
+    "Marketing",
+    "AI Art"
+  ]
+},
+  {
+  "name": "NightCafe",
+  "description": "A creative platform focusing on artistic style transfer and AI art generation, offering unique artistic filters and effects.",
+  "url": "/en/article/nightcafe",
+  "website": "https://nightcafe.studio",
+  "tags": [
+    "Style Transfer",
+    "Artistic Filters",
+    "Creative Tools"
+  ]
+},
+  //   // {
+  //   //   "name": "Canva AI",
+  //   //   "description": "AI-powered design tools integrated into Canva's platform, offering template-based design creation with intelligent automation features.",
+  //   //   "url": "/en/article/canva-ai",
+  //   //   "website": "https://www.canva.com",
+  //   //   "tags": [
+  //   //     "Design Tools",
+  //   //     "Templates",
+  //   //     "Marketing",
+  //   //     "Automation"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Adobe Sensei",
+  //   //   "description": "Adobe's AI technology powering intelligent features across Creative Cloud apps, including Photoshop's neural filters and smart object handling.",
+  //   //   "url": "/en/article/adobe-sensei",
+  //   //   "website": "https://www.adobe.com/sensei",
+  //   //   "tags": [
+  //   //     "Adobe",
+  //   //     "Professional Tools",
+  //   //     "Neural Filters",
+  //   //     "Creative Suite"
+  //   //   ]
+  //   // },
+  {
+  "name": "Uizard",
+  "description": "Transform hand-drawn wireframes and sketches into functional UI designs using AI-powered recognition and design systems.",
+  "url": "/en/article/uizard",
+  "website": "https://uizard.io",
+  "tags": [
+    "UI Design",
+    "Wireframing",
+    "Prototyping",
+    "Design Tools"
+  ]
+},
+  {
+  "name": "StockIMG",
+  "description": "StockIMG is an AI-powered stock image platform that generates and provides customizable, royalty-free images for various commercial and creative uses.",
+  "url": "/en/article/stockimg",
+  "website": "https://stockimg.ai",
+  "tags": [
+    "Stock Photos",
+    "AI Generation",
+    "Commercial Use"
+  ]
+},
+  {
+  "name": "Bing Create",
+  "description": "Bing Create is Microsoft's AI image generation tool that allows users to create custom images from text descriptions using DALL-E technology.",
+  "url": "/en/article/bingcreate",
+  "website": "https://www.bing.com/create",
+  "tags": [
+    "AI Generation",
+    "DALL-E",
+    "Microsoft AI"
+  ]
+},
+  //   // {
+  //   //   "name": "Runway ML",
+  //   //   "description": "Professional AI-powered creative suite for editing and generating videos, images, and visual effects with advanced AI capabilities.",
+  //   //   "url": "/en/article/runway-ml",
+  //   //   "website": "https://runway.ml",
+  //   //   "tags": [
+  //   //     "Video Editing",
+  //   //     "Visual Effects",
+  //   //     "AI Suite",
+  //   //     "Professional Tools"
+  //   //   ]
+  //   // },
+  {
+  "name": "ClipDrop",
+  "description": "AI-powered tool for extracting objects from real-world photos and importing them into digital designs with smart background removal.",
+  "url": "/en/article/clipdrop",
+  "website": "https://clipdrop.co",
+  "tags": [
+    "Object Extraction",
+    "AR",
+    "Design Tools",
+    "Background Removal"
+  ]
+},
+  //   // {
+  //   //   "name": "Pika Labs",
+  //   //   "description": "Advanced AI platform for generating video content from text descriptions, offering high-quality motion and seamless transitions.",
+  //   //   "url": "/en/article/pika-labs",
+  //   //   "website": "https://pika.art",
+  //   //   "tags": [
+  //   //     "Text-to-Video",
+  //   //     "AI Animation",
+  //   //     "Motion Graphics",
+  //   //     "Content Creation"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Spline",
+  //   //   "description": "AI-enhanced 3D design platform for creating interactive scenes and animations for web and mobile applications.",
+  //   //   "url": "/en/article/spline",
+  //   //   "website": "https://spline.design",
+  //   //   "tags": [
+  //   //     "3D Design",
+  //   //     "Interactive Animation",
+  //   //     "Web Graphics",
+  //   //     "Motion Design"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Masterpiece Studio",
+  //   //   "description": "VR-based 3D creation platform with AI assistance for intuitive 3D modeling and animation.",
+  //   //   "url": "/en/article/masterpiece-studio",
+  //   //   "website": "https://masterpiecestudio.com",
+  //   //   "tags": [
+  //   //     "VR Modeling",
+  //   //     "3D Creation",
+  //   //     "Animation",
+  //   //     "Virtual Reality"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "3DFY",
+  //   //   "description": "AI-powered platform for generating 3D assets from text descriptions, specializing in architectural and product visualization.",
+  //   //   "url": "/en/article/3dfy",
+  //   //   "website": "https://3dfy.ai",
+  //   //   "tags": [
+  //   //     "Text-to-3D",
+  //   //     "Architecture",
+  //   //     "Product Visualization",
+  //   //     "3D Assets"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Sloyd",
+  //   //   "description": "Parametric 3D model generation platform using AI to create customizable 3D assets from simple parameters.",
+  //   //   "url": "/en/article/sloyd",
+  //   //   "website": "https://sloyd.ai",
+  //   //   "tags": [
+  //   //     "Parametric Design",
+  //   //     "3D Generation",
+  //   //     "Custom Assets",
+  //   //     "Design Tools"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "CSM AI",
+  //   //   "description": "AI-powered character modeling system for creating detailed 3D character models from concept art or descriptions.",
+  //   //   "url": "/en/article/csm-ai",
+  //   //   "website": "https://csm.ai",
+  //   //   "tags": [
+  //   //     "Character Modeling",
+  //   //     "3D Characters",
+  //   //     "Game Development",
+  //   //     "Animation"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Mochi",
+  //   //   "description": "AI tool for generating low-poly 3D models with optimized geometry for games and mobile applications.",
+  //   //   "url": "/en/article/mochi",
+  //   //   "website": "https://mochi3d.ai",
+  //   //   "tags": [
+  //   //     "Low-poly",
+  //   //     "Game Assets",
+  //   //     "Mobile Graphics",
+  //   //     "3D Optimization"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Plask",
+  //   //   "description": "AI-powered motion capture platform for creating 3D animations from video footage or webcam input.",
+  //   //   "url": "/en/article/plask",
+  //   //   "website": "https://plask.ai",
+  //   //   "tags": [
+  //   //     "Motion Capture",
+  //   //     "Animation",
+  //   //     "3D Movement",
+  //   //     "Character Animation"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Rodin",
+  //   //   "description": "AI-assisted digital sculpting platform for creating detailed 3D models with natural sculpting workflows.",
+  //   //   "url": "/en/article/rodin",
+  //   //   "website": "https://rodin.ai",
+  //   //   "tags": [
+  //   //     "Digital Sculpting",
+  //   //     "3D Modeling",
+  //   //     "Artistic Tools",
+  //   //     "Character Creation"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Tripo",
+  //   //   "description": "Real-time 3D modeling platform with AI assistance for quick creation of architectural and product visualizations.",
+  //   //   "url": "/en/article/tripo",
+  //   //   "website": "https://tripo.ai",
+  //   //   "tags": [
+  //   //     "Real-time 3D",
+  //   //     "Architecture",
+  //   //     "Product Design",
+  //   //     "Visualization"
+  //   //   ]
+  //   // },
+  {
+  "name": "Artbreeder",
+  "description": "Creative platform for generating and mixing images using AI, allowing users to blend different artistic elements and styles.",
+  "url": "/en/article/artbreeder",
+  "website": "https://www.artbreeder.com",
+  "tags": [
+    "Image Mixing",
+    "Creative Tools",
+    "Style Blending",
+    "AI Art"
+  ]
+},
+  //   // {
+  //   //   "name": "Neural.love",
+  //   //   "description": "AI platform specializing in generating and processing various types of creative content with advanced filtering capabilities.",
+  //   //   "url": "/en/article/neural-love",
+  //   //   "website": "https://neural.love",
+  //   //   "tags": [
+  //   //     "Content Generation",
+  //   //     "Image Processing",
+  //   //     "AI Creation",
+  //   //     "Creative Tools"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Scenario",
+  //   //   "description": "AI-powered platform focused on generating game assets and environmental designs for video game development.",
+  //   //   "url": "/en/article/scenario",
+  //   //   "website": "https://www.scenario.com",
+  //   //   "tags": [
+  //   //     "Game Assets",
+  //   //     "Environment Design",
+  //   //     "Game Development",
+  //   //     "Digital Art"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Rosebud",
+  //   //   "description": "AI fashion design platform for creating virtual clothing and accessories with realistic fabric simulation.",
+  //   //   "url": "/en/article/rosebud",
+  //   //   "website": "https://rosebud.ai",
+  //   //   "tags": [
+  //   //     "Fashion Design",
+  //   //     "Virtual Clothing",
+  //   //     "Digital Fashion",
+  //   //     "AI Design"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Resemble AI",
+  //   //   "description": "Platform for creating AI voice avatars and synchronized facial animations from photos and voice samples.",
+  //   //   "url": "/en/article/resemble-ai",
+  //   //   "website": "https://www.resemble.ai",
+  //   //   "tags": [
+  //   //     "Voice Synthesis",
+  //   //     "Digital Avatars",
+  //   //     "Animation",
+  //   //     "AI Voice"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Astria",
+  //   //   "description": "Customizable AI image generation platform offering fine-tuned models for specific artistic styles and purposes.",
+  //   //   "url": "/en/article/astria",
+  //   //   "website": "https://www.astria.ai",
+  //   //   "tags": [
+  //   //     "Custom AI Models",
+  //   //     "Style Transfer",
+  //   //     "Image Generation",
+  //   //     "AI Training"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Civitai",
+  //   //   "description": "Community platform for sharing and discovering AI image generation models and custom training data.",
+  //   //   "url": "/en/article/civitai",
+  //   //   "website": "https://civitai.com",
+  //   //   "tags": [
+  //   //     "AI Models",
+  //   //     "Community",
+  //   //     "Resource Sharing",
+  //   //     "Training Data"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Imagine with Meta",
+  //   //   "description": "Meta's AI image generation platform designed for creating social media-friendly content and visual assets.",
+  //   //   "url": "/en/article/imagine-with-meta",
+  //   //   "website": "https://imagine.meta.com",
+  //   //   "tags": [
+  //   //     "Social Media",
+  //   //     "Content Creation",
+  //   //     "Meta AI",
+  //   //     "Visual Assets"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Fotor AI",
+  //   //   "description": "Mobile-focused AI photo editing and generation platform with lightweight processing capabilities.",
+  //   //   "url": "/en/article/fotor-ai",
+  //   //   "website": "https://www.fotor.com",
+  //   //   "tags": [
+  //   //     "Mobile Editing",
+  //   //     "Photo Enhancement",
+  //   //     "AI Generation",
+  //   //     "Social Media"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Pollinations",
+  //   //   "description": "AI platform specialized in generating unique digital art suitable for NFT creation and blockchain applications.",
+  //   //   "url": "/en/article/pollinations",
+  //   //   "website": "https://pollinations.ai",
+  //   //   "tags": [
+  //   //     "NFT Creation",
+  //   //     "Digital Art",
+  //   //     "Blockchain",
+  //   //     "Generative Art"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "ComfyUI",
+  //   //   "description": "Visual programming interface for Stable Diffusion, allowing users to create complex image generation workflows.",
+  //   //   "url": "/en/article/comfyui",
+  //   //   "website": "https://github.com/comfyanonymous/ComfyUI",
+  //   //   "tags": [
+  //   //     "Open Source",
+  //   //     "Visual Programming",
+  //   //     "Stable Diffusion",
+  //   //     "Workflow"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Invoke AI",
+  //   //   "description": "Comprehensive local deployment solution for AI image generation models with advanced features and customization.",
+  //   //   "url": "/en/article/invoke-ai",
+  //   //   "website": "https://invoke-ai.github.io",
+  //   //   "tags": [
+  //   //     "Local Deployment",
+  //   //     "AI Models",
+  //   //     "Open Source",
+  //   //     "Development"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Fooocus",
+  //   //   "description": "Simplified version of Stable Diffusion with streamlined interface and optimized performance for easier use.",
+  //   //   "url": "/en/article/fooocus",
+  //   //   "website": "https://github.com/lllyasviel/Fooocus",
+  //   //   "tags": [
+  //   //     "Stable Diffusion",
+  //   //     "User Interface",
+  //   //     "Open Source",
+  //   //     "Optimization"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Diffusers",
+  //   //   "description": "HuggingFace's library for state-of-the-art diffusion models in computer vision and audio.",
+  //   //   "url": "/en/article/diffusers",
+  //   //   "website": "https://huggingface.co/docs/diffusers",
+  //   //   "tags": [
+  //   //     "HuggingFace",
+  //   //     "Machine Learning",
+  //   //     "Library",
+  //   //     "Development"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "ControlNet",
+  //   //   "description": "Neural network structure for controlling diffusion models with additional conditions and pose estimation.",
+  //   //   "url": "/en/article/controlnet",
+  //   //   "website": "https://github.com/lllyasviel/ControlNet",
+  //   //   "tags": [
+  //   //     "Neural Networks",
+  //   //     "Control",
+  //   //     "Pose Estimation",
+  //   //     "AI Models"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Krita Diffusion",
+  //   //   "description": "Integration of Stable Diffusion into the Krita digital painting software for AI-assisted artwork creation.",
+  //   //   "url": "/en/article/krita-diffusion",
+  //   //   "website": "https://github.com/Acly/krita-ai-diffusion",
+  //   //   "tags": [
+  //   //     "Digital Painting",
+  //   //     "Integration",
+  //   //     "Stable Diffusion",
+  //   //     "Art Tools"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Tensor.Art",
+  //   //   "description": "Platform for hosting and deploying custom AI models with easy integration and API access.",
+  //   //   "url": "/en/article/tensor-art",
+  //   //   "website": "https://tensor.art",
+  //   //   "tags": [
+  //   //     "Model Hosting",
+  //   //     "API",
+  //   //     "Deployment",
+  //   //     "AI Services"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Replicate",
+  //   //   "description": "Cloud platform for running AI models with simple API integration and version control.",
+  //   //   "url": "/en/article/replicate",
+  //   //   "website": "https://replicate.com",
+  //   //   "tags": [
+  //   //     "Cloud Platform",
+  //   //     "API Integration",
+  //   //     "Model Deployment",
+  //   //     "Version Control"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "OctoAI",
+  //   //   "description": "Cloud inference service optimized for AI model deployment and scaling with high performance.",
+  //   //   "url": "/en/article/octoai",
+  //   //   "website": "https://octoai.cloud",
+  //   //   "tags": [
+  //   //     "Cloud Computing",
+  //   //     "Inference",
+  //   //     "Scaling",
+  //   //     "Performance"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "A1111 WebUI",
+  //   //   "description": "Popular web interface for Stable Diffusion with extensive features and community extensions.",
+  //   //   "url": "/en/article/a1111-webui",
+  //   //   "website": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  //   //   "tags": [
+  //   //     "Web Interface",
+  //   //     "Stable Diffusion",
+  //   //     "Community",
+  //   //     "Extensions"
+  //   //   ]
+  //   // },
+  {
+  "name": "Wonder",
+  "description": "iOS-exclusive AI art generation app offering intuitive interface and high-quality artistic creations on mobile.",
+  "url": "/en/article/wonder",
+  "website": "https://wonder-ai.app",
+  "tags": [
+    "iOS App",
+    "Mobile Art",
+    "AI Generation",
+    "Creative Tools"
+  ]
+},
+  //   // {
+  //   //   "name": "Dream by Wombo",
+  //   //   "description": "Popular mobile app for turning doodles and text descriptions into AI-generated artwork on Android devices.",
+  //   //   "url": "/en/article/dream-by-wombo",
+  //   //   "website": "https://www.wombo.art",
+  //   //   "tags": [
+  //   //     "Android App",
+  //   //     "Mobile Art",
+  //   //     "Doodle to Art",
+  //   //     "AI Creation"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "PicsArt AI",
+  //   //   "description": "Comprehensive mobile photo editing app with AI-powered tools for enhancement and creative effects.",
+  //   //   "url": "/en/article/picsart-ai",
+  //   //   "website": "https://picsart.com",
+  //   //   "tags": [
+  //   //     "Mobile Editing",
+  //   //     "Photo Effects",
+  //   //     "Social Media",
+  //   //     "Creative Tools"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Lensa",
+  //   //   "description": "AI-powered portrait enhancement app specializing in creating artistic avatar variations from selfies.",
+  //   //   "url": "/en/article/lensa",
+  //   //   "website": "https://prisma-ai.com/lensa",
+  //   //   "tags": [
+  //   //     "Portrait Enhancement",
+  //   //     "Avatar Generation",
+  //   //     "Mobile App",
+  //   //     "Selfie Art"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Voi",
+  //   //   "description": "Real-time AR filter app using AI to create dynamic and interactive camera effects.",
+  //   //   "url": "/en/article/voi",
+  //   //   "website": "https://voi.app",
+  //   //   "tags": [
+  //   //     "AR Filters",
+  //   //     "Real-time Effects",
+  //   //     "Camera App",
+  //   //     "Mobile AR"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "PhotoLeap",
+  //   //   "description": "Mobile photo editing app with AI-powered artistic effects and creative transformations.",
+  //   //   "url": "/en/article/photoleap",
+  //   //   "website": "https://photoleapapp.com",
+  //   //   "tags": [
+  //   //     "Photo Effects",
+  //   //     "Mobile Editing",
+  //   //     "Creative Tools",
+  //   //     "AI Art"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "PixAI",
+  //   //   "description": "Specialized mobile app for creating anime-style artwork and character illustrations using AI.",
+  //   //   "url": "/en/article/pixai",
+  //   //   "website": "https://pixai.art",
+  //   //   "tags": [
+  //   //     "Anime Art",
+  //   //     "Character Design",
+  //   //     "Mobile App",
+  //   //     "AI Generation"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Vance AI",
+  //   //   "description": "Mobile suite of AI-powered image enhancement and editing tools for professional results.",
+  //   //   "url": "/en/article/vance-ai",
+  //   //   "website": "https://vance.ai",
+  //   //   "tags": [
+  //   //     "Image Enhancement",
+  //   //     "Mobile Editing",
+  //   //     "Professional Tools",
+  //   //     "AI Processing"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "FaceApp",
+  //   //   "description": "Popular face editing and transformation app using AI for age progression, gender swap, and style transfer.",
+  //   //   "url": "/en/article/faceapp",
+  //   //   "website": "https://faceapp.com",
+  //   //   "tags": [
+  //   //     "Face Editing",
+  //   //     "Portrait Effects",
+  //   //     "Style Transfer",
+  //   //     "Mobile App"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Gradient",
+  //   //   "description": "AI-powered app for creating artistic gradients and color effects for backgrounds and design elements.",
+  //   //   "url": "/en/article/gradient",
+  //   //   "website": "https://gradient.photo",
+  //   //   "tags": [
+  //   //     "Color Effects",
+  //   //     "Background Design",
+  //   //     "Mobile Art",
+  //   //     "Gradients"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Vizcom",
+  //   //   "description": "AI-powered industrial design visualization tool for creating professional product renderings and concept art.",
+  //   //   "url": "/en/article/vizcom",
+  //   //   "website": "https://www.vizcom.ai",
+  //   //   "tags": [
+  //   //     "Industrial Design",
+  //   //     "Product Rendering",
+  //   //     "Concept Art",
+  //   //     "Visualization"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Maket",
+  //   //   "description": "AI architecture design platform for generating and exploring building layouts and architectural concepts.",
+  //   //   "url": "/en/article/maket",
+  //   //   "website": "https://www.maket.ai",
+  //   //   "tags": [
+  //   //     "Architecture",
+  //   //     "Building Design",
+  //   //     "Layout Generation",
+  //   //     "Concept Design"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "PromeAI",
+  //   //   "description": "AI-powered interior design platform for generating room layouts and furniture arrangements.",
+  //   //   "url": "/en/article/promeai",
+  //   //   "website": "https://www.prome.ai",
+  //   //   "tags": [
+  //   //     "Interior Design",
+  //   //     "Room Layout",
+  //   //     "Furniture Design",
+  //   //     "Space Planning"
+  //   //   ]
+  //   // },
+  {
+  "name": "Stockimg",
+  "description": "AI stock image generation platform specialized in creating commercial-ready visuals for marketing and advertising.",
+  "url": "/en/article/stockimg",
+  "website": "https://stockimg.ai",
+  "tags": [
+    "Stock Photos",
+    "Commercial Content",
+    "Marketing",
+    "Advertising"
+  ]
+},
+  //   // {
+  //   //   "name": "Recraft",
+  //   //   "description": "AI-powered vector graphics generation tool for creating scalable illustrations and icons.",
+  //   //   "url": "/en/article/recraft",
+  //   //   "website": "https://www.recraft.ai",
+  //   //   "tags": [
+  //   //     "Vector Graphics",
+  //   //     "Illustrations",
+  //   //     "Icons",
+  //   //     "Scalable Design"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Diagram",
+  //   //   "description": "AI tool for generating professional flowcharts, diagrams, and architectural schematics.",
+  //   //   "url": "/en/article/diagram",
+  //   //   "website": "https://diagram.com",
+  //   //   "tags": [
+  //   //     "Flowcharts",
+  //   //     "Technical Diagrams",
+  //   //     "Architecture",
+  //   //     "Documentation"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Oda Studio",
+  //   //   "description": "AI-powered platform for creating manga and comic book storyboards with automated panel layout.",
+  //   //   "url": "/en/article/oda-studio",
+  //   //   "website": "https://oda.studio",
+  //   //   "tags": [
+  //   //     "Manga",
+  //   //     "Comics",
+  //   //     "Storyboarding",
+  //   //     "Panel Layout"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Pixite",
+  //   //   "description": "Collection of AI-powered creative tools for artistic style transfer and visual effects.",
+  //   //   "url": "/en/article/pixite",
+  //   //   "website": "https://pixite.ai",
+  //   //   "tags": [
+  //   //     "Style Transfer",
+  //   //     "Visual Effects",
+  //   //     "Creative Tools",
+  //   //     "Digital Art"
+  //   //   ]
+  //   // },
+  //   // {
+  //   //   "name": "Alpaca",
+  //   //   "description": "AI-powered coloring tool for automatically adding color to line art and sketches.",
+  //   //   "url": "/en/article/alpaca",
+  //   //   "website": "https://www.alpaca.ai",
+  //   //   "tags": [
+  //   //     "Auto Coloring",
+  //   //     "Line Art",
+  //   //     "Digital Art",
+  //   //     "Illustration"
+  //   //   ]
+  //   // },
+  // {
+  //   "name": "Niji Journey",
+  //   "description": "Specialized AI art generator focused on anime and manga-style artwork creation.",
+  //   "url": "/en/article/niji-journey",
+  //   "website": "https://niji.journey.app",
+  //   "tags": [
+  //     "Anime Art",
+  //     "Manga Style",
+  //     "Character Design",
+  //     "Japanese Art"
+  //   ]
+  // }
 ]
