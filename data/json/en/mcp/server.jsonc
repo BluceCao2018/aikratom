@@ -92,7 +92,8 @@
       " github",
       " repository-management"
     ],
-    "author": "modelcontextprotocol"
+    "author": "modelcontextprotocol",
+    "status": "active"
   },
   {
     "name": "Google Maps",
@@ -187,7 +188,8 @@
       " sentry",
       " error-tracking"
     ],
-    "author": "modelcontextprotocol"
+    "author": "modelcontextprotocol",
+    "status": "active"
   },
   {
     "name": "EverArt",
