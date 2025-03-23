@@ -62,7 +62,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: 'daily',
         priority: 0.7,
       },
-      
+      {
+        url: 'cursor', // mcp/client
+        lastModified: new Date(),
+        changeFrequency: 'daily',
+        priority: 0.7,
+      },
   ];
 
   const sitemapData = sitemapRoutes.flatMap((route) => {
