@@ -35,88 +35,63 @@ const CursorListPage = async ({ category, locale }: CursorListPageProps) => {
 
   return (
     <section>
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10">
-        {/* @ts-ignore */}
-        {srcList.map((resource: toolProps, index) => (
-          <Card key={index} className='max-w-sm overflow-hidden shadow-md transform transition-transform duration-300 hover:scale-105'>
-            <CardHeader>
-              <a 
-                href={`${resource.url}`} 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="text-blue-600 hover:text-blue-800 transition-colors inline-flex items-center gap-1"
-              >
-                <div className='border border-gray-200 p-1 rounded-md mr-1 bg-white'>
-                  {/* <img width="20" height="20" src={`https://favicon.im/${resource.url}?larger=true`} alt={`${resource.name} favicon`} /> */}
-                  { resource.icon_url ?
-                    <Image width={20} height={20} src={resource.icon_url}  alt={`${resource.name} favicon`} loading='lazy'/>
-                    :
-                    <img width="20" height="20" src={`https://favicon.im/${resource.website}?larger=true`} alt={`${resource.name} favicon`} loading='lazy'/>
-                  }
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        {srcList.map((item: any, index: number) => (
+          <Link key={index} href={item.url}>
+            <div className="group p-6 border-0 rounded-xl hover:shadow-lg transition-all duration-200 bg-gradient-to-br from-white/80 to-white/40 dark:from-gray-900/80 dark:to-gray-900/40 backdrop-blur-sm relative">
+              <div className="flex items-start justify-between mb-3">
+                <div className="flex items-center gap-2">
+                  {item.icon_url || item.website ? (
+                    <div className="border border-gray-200 p-1 rounded-md bg-white">
+                      {item.icon_url ? (
+                        <Image width={20} height={20} src={item.icon_url} alt={`${item.name} favicon`} loading='lazy'/>
+                      ) : (
+                        <img width="20" height="20" src={`https://favicon.im/${item.website}?larger=true`} alt={`${item.name} favicon`} loading='lazy'/>
+                      )}
+                    </div>
+                  ) : null}
+                  <h3 className="font-semibold text-xl text-foreground">{item.name}</h3>
                 </div>
-                <CardTitle className='capitalize tracking-tighter'>{resource.name}</CardTitle>
-                <ExternalLink size={16} className='ml-1' />
-              </a>
-              <CardDescription className='flex flex-col justify-between '>
-                <div className='h-[60px] line-clamp-3 mt-1 tracking-tight text-start'>
-                  {resource.description}
-                </div>
-                { resource.tags ? 
-                  <div className='mt-3'>
-                  {resource.tags.slice(0,3).map((tag: string, i: number) => (
-                    <Badge key={i} variant="secondary" className='text-xs pb-1 mr-1 mt-2 tracking-tighter'>{tag}</Badge>
-                  ))}
-                </div> :
-                 null
-                }     
-              </CardDescription>
-            </CardHeader>
-          </Card>
+                <button className="text-muted-foreground hover:text-blue-500 transition-colors">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+                  </svg>
+                </button>
+              </div>
+              
+              <div className="flex items-center gap-2 mb-3 text-sm">
+                <span className="text-muted-foreground">by</span>
+                <span className="font-medium text-blue-500 hover:text-blue-600 transition-colors">{item.author || 'Anonymous'}</span>
+              </div>
+              
+              <p className="text-sm text-muted-foreground line-clamp-2 mb-4">{item.description}</p>
+              
+              <div className="flex flex-wrap gap-2">
+                {item.tags && item.tags.slice(0, 3).map((tag: string, index: number) => (
+                  <span key={index} className="text-xs px-2.5 py-1 bg-blue-50/50 dark:bg-blue-900/20 rounded-full text-blue-600 dark:text-blue-400 hover:bg-blue-100 dark:hover:bg-blue-800/30 transition-colors cursor-pointer">
+                    #{tag}
+                  </span>
+                ))}
+              </div>
+
+              <div className="absolute bottom-6 right-6 opacity-0 group-hover:opacity-100 transition-opacity">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-blue-500">
+                  <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+              </div>
+            </div>
+          </Link>
         ))}
       </div>
     </section>
   )
-
-  return (
-    <div className="container mx-auto py-12 space-y-16">
-      <section className="flex flex-col items-center justify-center text-center space-y-6">
-        <h1 className="mx-auto max-w-3xl text-2xl font-bold lg:text-5xl tracking-tighter">
-          <span className="inline-block">Cursor Tools</span>
-        </h1>
-        <h2 className="text-2xl tracking-tight sm:text-2xl md:text-2xl lg:text-2xl">
-          {t("h2")}
-        </h2>
-        <p className="mx-auto max-w-[700px] md:text-xl tracking-tight">
-          {t("description")}
-        </p>
-      </section>
-      
-      {cursorCategories.map((category: { name: string; src: string; description: string; link: string }, index: number) => {
-        const cursorList = getCursorDataList(category.src, locale); 
-        return (
-          <CursorList 
-            key={index} 
-            category={category} 
-            cursorList={cursorList}
-            locale={locale} 
-          />
-        );
-      })}
-    </div>
-  );
 }
 
 const CursorList = ({ category, cursorList, locale }: CursorListProps) => {
   const t = useTranslations('cursor')
 
-  const IconComponent = ({ name }: { name: string }) => {
-    const icons = {
-      tool: <MousePointer />,
-      code: <Code />,
-      default: <Terminal />
-    }
-    return icons[name as keyof typeof icons] || icons.default
-  }
+  // Limit to 8 items for the main page display
+  const limitedCursorList = cursorList.slice(0, 8);
 
   return (
     <section className="space-y-6">
@@ -131,72 +106,51 @@ const CursorList = ({ category, cursorList, locale }: CursorListProps) => {
         </div>
         <Link
           href={`/cursor/${category.link}`}
-          className="text-sm text-muted-foreground hover:text-blue-600 dark:hover:text-blue-400 transition-colors flex items-center"
+          className="group flex items-center gap-2 text-sm font-medium text-blue-500 hover:text-blue-600 transition-colors"
         >
           {t('viewAll')}
-          <ArrowRight className="ml-1 w-4 h-4" />
+          <ArrowRight className="group-hover:translate-x-1 transition-transform" />
         </Link>
       </div>
-      <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-        {cursorList.map((cursor: any) => (
-          <Card className="group relative overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
-            <div className="absolute inset-0 bg-gradient-to-r from-blue-500/10 to-indigo-500/10 opacity-0 group-hover:opacity-100 transition-opacity" />
-            
-            <div className="p-6 space-y-4">
-              <div className="w-12 h-12 rounded-lg bg-gradient-to-br from-blue-500 to-indigo-500 flex items-center justify-center text-white">
-                <IconComponent name={cursor.type} />
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        {limitedCursorList.map((item, index) => (
+          <Link key={index} href={item.url}>
+            <div className="group p-6 border-0 rounded-xl hover:shadow-lg transition-all duration-200 bg-gradient-to-br from-white/80 to-white/40 dark:from-gray-900/80 dark:to-gray-900/40 backdrop-blur-sm relative">
+              <div className="flex items-start justify-between mb-3">
+                <h3 className="font-semibold text-xl text-foreground">{item.name}</h3>
+                <button className="text-muted-foreground hover:text-blue-500 transition-colors">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+                  </svg>
+                </button>
+              </div>
+              
+              <div className="flex items-center gap-2 mb-3 text-sm">
+                <span className="text-muted-foreground">by</span>
+                <span className="font-medium text-blue-500 hover:text-blue-600 transition-colors">{item.author || 'Anonymous'}</span>
+              </div>
+              
+              <p className="text-sm text-muted-foreground line-clamp-2 mb-4">{item.description}</p>
+              
+              <div className="flex flex-wrap gap-2">
+                {item.tags && item.tags.slice(0, 3).map((tag: string, index: number) => (
+                  <span key={index} className="text-xs px-2.5 py-1 bg-blue-50/50 dark:bg-blue-900/20 rounded-full text-blue-600 dark:text-blue-400 hover:bg-blue-100 dark:hover:bg-blue-800/30 transition-colors cursor-pointer">
+                    #{tag}
+                  </span>
+                ))}
               </div>
 
-              <div>
-                <h3 className="text-xl font-semibold group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-                  {cursor.name}
-                </h3>
-                <p className="mt-2 text-muted-foreground">
-                  {cursor.description}
-                </p>
-              </div>
-
-              {cursor.tags && (
-                <div className="flex flex-wrap gap-2">
-                  {cursor.tags.map((tag: string) => (
-                    <span
-                      key={tag}
-                      className="px-3 py-1 text-xs rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300"
-                    >
-                      {tag}
-                    </span>
-                  ))}
-                </div>
-              )}
-
-              <div className="flex items-center justify-between pt-4 border-t border-border/50">
-                <Link
-                  href={cursor.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center text-sm text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300"
-                >
-                  {t('learnMore')} 
-                  <ArrowRight className="ml-1 w-4 h-4" />
-                </Link>
-                
-                <div className="flex items-center gap-3 text-sm text-muted-foreground">
-                  <span className="flex items-center">
-                    <Star className="w-4 h-4 mr-1" />
-                    {cursor.stars}
-                  </span>
-                  <span className="flex items-center">
-                    <Download className="w-4 h-4 mr-1" />
-                    {cursor.downloads}
-                  </span>
-                </div>
+              <div className="absolute bottom-6 right-6 opacity-0 group-hover:opacity-100 transition-opacity">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-blue-500">
+                  <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
               </div>
             </div>
-          </Card>
+          </Link>
         ))}
       </div>
     </section>
-  )   
+  )
 } 
 
 export { CursorList, CursorListPage }

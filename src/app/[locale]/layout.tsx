@@ -13,6 +13,7 @@ import { cn } from "@/lib/utils";
 
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
+import { Toaster } from "@/components/ui/toaster"
 
 const inter = Inter({ subsets: ['latin'] })
 const sansFont = DM_Sans({
@@ -68,6 +69,7 @@ export default async function RootLayout({
               <GoogleAdsenseScript />
               <GoogleAnalyticsScript />
               <PlausibleAnalyticsScript />
+              <Toaster />
             </ThemeProvider>
           </NextIntlClientProvider>
         </body>

@@ -115,11 +115,18 @@ export const Navigation = ({ categories, mcpCategories, cursorCategories }: navi
             <NavigationMenu>
               <NavigationMenuList>
                 <NavigationMenuItem>
-                  <Link href="/" legacyBehavior passHref>
-                    <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), 'font-medium', '/' === pathname && "font-extrabold")}>
+                  <NavigationMenuLink asChild>
+                    <Link
+                      href="/"
+                      className={cn(
+                        navigationMenuTriggerStyle(),
+                        'font-medium',
+                        '/' === pathname && "font-extrabold"
+                      )}
+                    >
                       {t('homeBtn')}
-                    </NavigationMenuLink>
-                  </Link>
+                    </Link>
+                  </NavigationMenuLink>
                 </NavigationMenuItem>
                 <NavigationMenuItem>
                   <NavigationMenuTrigger className={cn('font-medium', '/category' === pathname && "font-extrabold")}>{t('categoryBtn')}</NavigationMenuTrigger>
@@ -172,7 +179,7 @@ export const Navigation = ({ categories, mcpCategories, cursorCategories }: navi
                     </ul>
                   </NavigationMenuContent>
                 </NavigationMenuItem>
-                {/* <NavigationMenuItem>
+                <NavigationMenuItem>
                   <NavigationMenuTrigger className={cn('font-medium', '/cursor' === pathname && "font-extrabold")}>
                     {t('cursorBtn')}
                   </NavigationMenuTrigger>
@@ -197,7 +204,7 @@ export const Navigation = ({ categories, mcpCategories, cursorCategories }: navi
                       </ListItem>
                     </ul>
                   </NavigationMenuContent>
-                </NavigationMenuItem> */}
+                </NavigationMenuItem>
               </NavigationMenuList>
             </NavigationMenu>
           </nav>

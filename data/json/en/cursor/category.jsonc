@@ -5,70 +5,70 @@
     "link": "TypeScript",
     "description": "TypeScript"
   },
-  {
-    "name": "Next.js",
-    "src": "next.js.jsonc",
-    "link": "#",
-    "description": "Next.js"
-  },
-  {
-    "name": "React",
-    "src": "react.jsonc",
-    "link": "#",
-    "description": "React"
-  },
-  {
-    "name": "JavaScript",
-    "src": "javascript.jsonc",
-    "link": "#",
-    "description": "JavaScript"
-  },
-  {
-    "name": "Python",
-    "src": "python.jsonc",
-    "link": "#",
-    "description": "Python"
-  },
-  {
-    "name": "Expo",
-    "src": "expo.jsonc",
-    "link": "#",
-    "description": "Expo"
-  },
-  {
-    "name": "React Native",
-    "src": "react-native.jsonc",
-    "link": "#",
-    "description": "React Native"
-  },
-  {
-    "name": "TailwindCSS",
-    "src": "tailwindcss.jsonc",
-    "link": "#",
-    "description": "TailwindCSS"
-  },
-  {
-    "name": "Vite",
-    "src": "vite.jsonc",
-    "link": "#",
-    "description": "Vite"
-  },
-  {
-    "name": "PHP",
-    "src": "php.jsonc",
-    "link": "#",
-    "description": "PHP"
-  },
-  {
-    "name": "Zod",
-    "src": "zod.jsonc",
-    "link": "#",
-    "description": "Zod"
-  },
-  {
-    "name": "Zustand",
-    "src": "zustand.jsonc",
-    "link": "#",
-    "description": "Zustand"
-  }
+  // {
+  //   "name": "Next.js",
+  //   "src": "next.js.jsonc",
+  //   "link": "#",
+  //   "description": "Next.js"
+  // },
+  // {
+  //   "name": "React",
+  //   "src": "react.jsonc",
+  //   "link": "#",
+  //   "description": "React"
+  // },
+  // {
+  //   "name": "JavaScript",
+  //   "src": "javascript.jsonc",
+  //   "link": "#",
+  //   "description": "JavaScript"
+  // },
+  // {
+  //   "name": "Python",
+  //   "src": "python.jsonc",
+  //   "link": "#",
+  //   "description": "Python"
+  // },
+  // {
+  //   "name": "Expo",
+  //   "src": "expo.jsonc",
+  //   "link": "#",
+  //   "description": "Expo"
+  // },
+  // {
+  //   "name": "React Native",
+  //   "src": "react-native.jsonc",
+  //   "link": "#",
+  //   "description": "React Native"
+  // },
+  // {
+  //   "name": "TailwindCSS",
+  //   "src": "tailwindcss.jsonc",
+  //   "link": "#",
+  //   "description": "TailwindCSS"
+  // },
+  // {
+  //   "name": "Vite",
+  //   "src": "vite.jsonc",
+  //   "link": "#",
+  //   "description": "Vite"
+  // },
+  // {
+  //   "name": "PHP",
+  //   "src": "php.jsonc",
+  //   "link": "#",
+  //   "description": "PHP"
+  // },
+  // {
+  //   "name": "Zod",
+  //   "src": "zod.jsonc",
+  //   "link": "#",
+  //   "description": "Zod"
+  // },
+  // {
+  //   "name": "Zustand",
+  //   "src": "zustand.jsonc",
+  //   "link": "#",
+  //   "description": "Zustand"
+  // }
 ]

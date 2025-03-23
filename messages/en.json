@@ -99,15 +99,14 @@
     "searchResults":"Search Results"
   },
   "cursor":{
-    "meta_title":"Cursor Tools",
+    "meta_title":"Cursor Rules",
     "meta_description":"Discover the best and most popular AI tools for Cursor",
     "h1":{
       "prefix":"Discover",
       "highlight":"Cursor Rules",
       "suffix":""
     },
-    "h2":"Discover the best and most popular AI tools for Cursor",
-    "description":"Discover the best and most popular AI tools for Cursor",
+    "description":"Find the Awesome Cursor Rules.",
     "h2description":"All AI tools are sorted alphabetically",
     "moreCursorBtn":"More",
     "moreCursorDescription":"More Cursor",
@@ -115,7 +114,11 @@
     "viewMore":"View More",
     "viewAll":"View All",
     "homeBtn":"Home",
-    "cursorBtn":"Cursor"  
+    "cursorBtn":"Cursor",
+    "searchPlaceholder": "Search ai tools by name / tags...",
+    "searchResults": "Search Results",
+    "noResults": "No results found for {{keyword}}",
+    "tryAnotherSearch": "Try another search"  
   },
   "footer": {
     "description": "Comprehensive And Timely AI Tools Information Website",

@@ -113,3 +113,35 @@ export async function getAboutContent(locale) {
               return null;
           }
 }
+
+// 读取 cursor markdown 内容
+export async function getCursorContent(locale, name) {
+  const filePath = path.join(process.cwd(), 'data', 'md_cursor', locale, `${name}.md`);
+  
+  try {
+    const fileContents = await fs.readFileSync(filePath, 'utf8');
+    // Use gray-matter to parse the post metadata section
+    const matterResult = matter(fileContents);
+
+    // Use remark to convert markdown into HTML string
+    const processedContent = await remark()
+      .use(html)
+      .process(matterResult.content);
+    const contentHtml = processedContent.toString();
+    return contentHtml;
+  } catch (error) {
+    console.error('Error loading cursor content:', error);
+    return null;
+  }
+}
+
+export async function getCursorRawContent(locale, name) {
+  try {
+    const fullPath = path.join(process.cwd(), 'data', 'md_cursor', locale, `${name}.md`);
+    const content = await fs.readFileSync(fullPath, 'utf8');
+    return content;
+  } catch (error) {
+    console.error('Error reading markdown file:', error);
+    return null;
+  }
+} 
