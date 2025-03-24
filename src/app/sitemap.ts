@@ -4,70 +4,71 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const sitemapRoutes: MetadataRoute.Sitemap = [
     {
       url: '', // home
-      lastModified: new Date(),
+      lastModified: new Date('2025-03-24 12:00:00'),
       changeFrequency: 'daily',
       priority: 1,
     },
     {
         url: 'tools', // tools
-        lastModified: new Date(),
         changeFrequency: 'daily',
         priority: 0.9,
       },
     {
       url: 'category', // category
-      lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,
     },
     {
         url: 'article', // article
-        lastModified: new Date(),
         changeFrequency: 'daily',
         priority: 0.8,
       },
       {
         url: 'article/privacy-policy', // privacy-policy
-        lastModified: new Date(),
         changeFrequency: 'daily',
         priority: 0.5,
       },
       {
         url: 'article/terms-of-service', // terms-of-service
-        lastModified: new Date(),
         changeFrequency: 'daily',
         priority: 0.5,
       },
       {
         url: 'article/about', // about
-        lastModified: new Date(),
         changeFrequency: 'daily',
         priority: 0.7,
       },
       {
         url: 'mcp', // mcp
-        lastModified: new Date(),
+        lastModified: new Date('2025-03-24 12:00:00'),
         changeFrequency: 'daily',
         priority: 0.7,
       },
       {
         url: 'mcp/server', // mcp/server
-        lastModified: new Date(),
+        lastModified: new Date('2025-03-24 12:00:00'),
         changeFrequency: 'daily',
         priority: 0.7,
       },  
       {
         url: 'mcp/client', // mcp/client
-        lastModified: new Date(),
+        lastModified: new Date('2025-03-24 12:00:00'),
         changeFrequency: 'daily',
         priority: 0.7,
       },
       {
         url: 'cursor', // mcp/client
-        lastModified: new Date(),
+        lastModified: new Date('2025-03-24 12:00:00'),
         changeFrequency: 'daily',
         priority: 0.7,
       },
+      {
+        url: 'cursor/TypeScript', // cursor/server
+        lastModified: new Date('2025-03-24 12:00:00'),
+        changeFrequency: 'daily',
+        priority: 0.7,
+      },
+      
   ];
 
   const sitemapData = sitemapRoutes.flatMap((route) => {
