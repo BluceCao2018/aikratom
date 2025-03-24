@@ -6,8 +6,10 @@
     "website": "https://github.com/ahujasid/blender-mcp",
     "author": "ahujasid",
     "tags": [
-      " blender",
-      " 3d-modeling"
+      "development",
+      "tools",
+      "ai",
+      "integration"
     ],
     "status": "active"
   },
@@ -18,8 +20,10 @@
     "website": "https://github.com/modelcontextprotocol/servers/tree/main/src/redis",
     "author": "modelcontextprotocol",
     "tags": [
-      " redis",
-      " database"
+      "database",
+      "storage",
+      "redis",
+      "integration"
     ],
     "status": "active"
   },
@@ -30,8 +34,9 @@
     "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/time",
     "author": "modelcontextprotocol",
     "tags": [
-      " time",
-      " timezone"
+      "tools",
+      "integration",
+      "api"
     ],
     "status": "active"
   },
@@ -42,8 +47,9 @@
     "website": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/sequentialthinking",
     "author": "modelcontextprotocol",
     "tags": [
-      " sequentialthinking",
-      " problem-solving"
+      "ai",
+      "tools",
+      "development"
     ],
     "status": "active"
   },
@@ -54,8 +60,10 @@
     "website": "https://github.com/ppl-ai/modelcontextprotocol",
     "author": "ppl-ai",
     "tags": [
-      " mathgpt",
-      " math-solver"
+      "ai",
+      "browser",
+      "web",
+      "integration"
     ],
     "status": "active"
   },
@@ -66,8 +74,10 @@
     "website": "https://github.com/GLips/Figma-Context-MCP",
     "author": "GLips",
     "tags": [
-      " typescript",
-      " ai"
+      "development",
+      "tools",
+      "integration",
+      "api"
     ],
     "status": "active"
   },
@@ -78,8 +88,10 @@
     "website": "https://github.com/mendableai/firecrawl-mcp-server",
     "author": "mendableai",
     "tags": [
-      " web-crawler",
-      " web-scraping"
+      "browser",
+      "web",
+      "tools",
+      "integration"
     ],
     "status": "active"
   },
@@ -89,8 +101,10 @@
     "url": "/mcp/server/github/modelcontextprotocol",
     "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/github",
     "tags": [
-      " github",
-      " repository-management"
+      "development",
+      "tools",
+      "integration",
+      "api"
     ],
     "author": "modelcontextprotocol",
     "status": "active"
@@ -101,8 +115,10 @@
     "url": "/mcp/server/google-maps/modelcontextprotocol",
     "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/google-maps",
     "tags": [
-      " google-maps",
-      " location-services"
+      "integration",
+      "api",
+      "web",
+      "tools"
     ],
     "status": "active",
     "author": "modelcontextprotocol"
@@ -113,8 +129,9 @@
     "url": "/mcp/server/slack/modelcontextprotocol",
     "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/slack",
     "tags": [
-      " slack",
-      " messaging"
+      "integration",
+      "api",
+      "tools"
     ],
     "status": "active",
     "author": "modelcontextprotocol"
@@ -125,8 +142,10 @@
     "url": "/mcp/server/postgres/modelcontextprotocol",
     "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/postgres",
     "tags": [
-      " postgresql",
-      " database-access"
+      "database",
+      "postgresql",
+      "storage",
+      "integration"
     ],
     "status": "active",
     "author": "modelcontextprotocol"
@@ -137,8 +156,10 @@
     "url": "/mcp/server/puppeteer/modelcontextprotocol",
     "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/puppeteer",
     "tags": [
-      " browser-automation",
-      " web-scraping"
+      "browser",
+      "web",
+      "tools",
+      "integration"
     ],
     "status": "active",
     "author": "modelcontextprotocol"
@@ -149,8 +170,10 @@
     "url": "/mcp/server/gitlab/modelcontextprotocol",
     "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/gitlab",
     "tags": [
-      " gitlab",
-      " project-management"
+      "development",
+      "tools",
+      "integration",
+      "api"
     ],
     "status": "active",
     "author": "modelcontextprotocol"
@@ -161,8 +184,10 @@
     "url": "/mcp/server/filesystem",
     "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem",
     "tags": [
-      " filesystem",
-      " file-operations"
+      "system",
+      "tools",
+      "storage",
+      "integration"
     ],
     "status": "active",
     "author": "Anonymous"
@@ -173,8 +198,10 @@
     "url": "/mcp/server/brave-search/modelcontextprotocol",
     "website": "https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search",
     "tags": [
-      " brave-search",
-      " search-api"
+      "browser",
+      "web",
+      "integration",
+      "api"
     ],
     "status": "active",
     "author": "modelcontextprotocol"
@@ -185,8 +212,10 @@
     "url": "/mcp/server/sentry/modelcontextprotocol",
     "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/sentry",
     "tags": [
-      " sentry",
-      " error-tracking"
+      "development",
+      "tools",
+      "integration",
+      "api"
     ],
     "author": "modelcontextprotocol",
     "status": "active"
@@ -197,8 +226,10 @@
     "url": "/mcp/server/everart/modelcontextprotocol",
     "website": "https://github.com/modelcontextprotocol/servers/tree/main/src/everart",
     "tags": [
-      " everart",
-      " image-generation"
+      "ai",
+      "tools",
+      "integration",
+      "api"
     ],
     "author": "modelcontextprotocol",
     "status": "active"
@@ -209,8 +240,10 @@
     "url": "/mcp/server/fetch/modelcontextprotocol",
     "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/fetch",
     "tags": [
-      " web-fetching",
-      " llm-tools"
+      "browser",
+      "web",
+      "tools",
+      "integration"
     ],
     "author": "modelcontextprotocol",
     "status": "active"
@@ -221,8 +254,10 @@
     "url": "/mcp/server/aws-kb-retrieval-server/modelcontextprotocol",
     "website": "https://github.com/modelcontextprotocol/servers/tree/main/src/aws-kb-retrieval-server",
     "tags": [
-      " aws-kb-retrieval",
-      " mcp-server"
+      "ai",
+      "integration",
+      "api",
+      "tools"
     ],
     "author": "modelcontextprotocol",
     "status": "active"
@@ -233,8 +268,10 @@
     "url": "/mcp/server/mcp-server-chatsum/chatmcp",
     "website": "https://github.com/chatmcp/mcp-server-chatsum",
     "tags": [
-      " chatbot",
-      " mcp-server"
+      "ai",
+      "llm",
+      "tools",
+      "integration"
     ],
     "author": "chatmcp",
     "status": "active"
@@ -245,8 +282,10 @@
     "url": "/mcp/server/spring-ai-example/lucasdengcn",
     "website": "https://github.com/lucasdengcn/spring-ai-example",
     "tags": [
-      " spring-ai",
-      " ai-tools"
+      "ai",
+      "development",
+      "tools",
+      "integration"
     ],
     "author": "lucasdengcn",
     "status": "active"
@@ -257,8 +296,10 @@
     "url": "/mcp/server/mcp-server-developer-tool/da-snap",
     "website": "https://github.com/da-snap/mcp-server-developer-tool",
     "tags": [
-      " mcp-server",
-      " go"
+      "development",
+      "tools",
+      "sdk",
+      "integration"
     ],
     "author": "da-snap",
     "status": "active"
@@ -269,8 +310,9 @@
     "url": "/mcp/server/minesweeper-mcp-server/tonypan2",
     "website": "https://github.com/tonypan2/minesweeper-mcp-server",
     "tags": [
-      " minesweeper",
-      " game-server"
+      "development",
+      "tools",
+      "integration"
     ],
     "author": "tonypan2",
     "status": "active"
@@ -281,8 +323,10 @@
     "url": "/mcp/server/mcp-auto-install/MyPrototypeWhat",
     "website": "https://github.com/MyPrototypeWhat/mcp-auto-install",
     "tags": [
-      " mcp-auto-install",
-      " mcp-server"
+      "development",
+      "tools",
+      "system",
+      "infrastructure"
     ],
     "author": "MyPrototypeWhat",
     "status": "active"
@@ -293,8 +337,10 @@
     "url": "/mcp/server/mcp-filesystem-server/qiangmzsx",
     "website": "https://github.com/qiangmzsx/mcp-filesystem-server",
     "tags": [
-      " mcp",
-      " filesystem"
+      "system",
+      "storage",
+      "tools",
+      "integration"
     ],
     "author": "qiangmzsx",
     "status": "active"
@@ -305,8 +351,10 @@
     "url": "/mcp/server/mcp-turso/spences10",
     "website": "https://github.com/spences10/mcp-turso",
     "tags": [
-      " mcp",
-      " vector-database"
+      "database",
+      "storage",
+      "integration",
+      "api"
     ],
     "author": "spences10",
     "status": "active"
@@ -317,8 +365,10 @@
     "url": "/mcp/server/bocha-ai-mcp-server/yoko19191",
     "website": "https://github.com/yoko19191/bocha-ai-mcp-server",
     "tags": [
-      " bocha-ai",
-      " web-search"
+      "ai",
+      "browser",
+      "web",
+      "integration"
     ],
     "author": "yoko19191",
     "status": "active"
@@ -329,8 +379,10 @@
     "url": "/mcp/server/mcp-backstage-example/evanshortiss",
     "website": "https://github.com/evanshortiss/mcp-backstage-example",
     "tags": [
-      " mcp",
-      " backstage"
+      "integration",
+      "api",
+      "tools",
+      "system"
     ],
     "author": "evanshortiss",
     "status": "active"
@@ -341,10 +393,12 @@
     "url": "/mcp/server/time-mcp/sidharthrajaram",
     "website": "https://github.com/sidharthrajaram/time-mcp",
     "tags": [
-      " time-mcp",
-      " mcp-server"
+      "tools",
+      "integration",
+      "api"
     ],
-    "author": "sidharthrajaram"
+    "author": "sidharthrajaram",
+    "status": "active"
   },
   {
     "name": "MCP Notion",
@@ -352,10 +406,13 @@
     "url": "/mcp/server/MCP-Notion/GsusFC",
     "website": "https://github.com/GsusFC/MCP-Notion",
     "tags": [
-      " MCP",
-      " Notion"
+      "integration",
+      "api",
+      "tools",
+      "ai"
     ],
-    "author": "GsusFC"
+    "author": "GsusFC",
+    "status": "active"
   },
   {
     "name": "MCP TypeScript Template",
@@ -363,10 +420,13 @@
     "url": "/mcp/server/mcp-ts-template/cyanheads",
     "website": "https://github.com/cyanheads/mcp-ts-template",
     "tags": [
-      " template",
-      " mcp"
+      "development",
+      "tools",
+      "sdk",
+      "integration"
     ],
-    "author": "cyanheads"
+    "author": "cyanheads",
+    "status": "active"
   },
   {
     "name": "Container-MCP",
@@ -374,10 +434,13 @@
     "url": "/mcp/server/container-mcp/54rt1n",
     "website": "https://github.com/54rt1n/container-mcp",
     "tags": [
-      " container-mcp",
-      " mcp-server"
+      "system",
+      "infrastructure",
+      "docker",
+      "tools"
     ],
-    "author": "54rt1n"
+    "author": "54rt1n",
+    "status": "active"
   },
   {
     "name": "mcp-server-nationalparks",
@@ -388,7 +451,8 @@
       " mcp-server",
       " national-parks"
     ],
-    "author": "KyrieTangSheng"
+    "author": "KyrieTangSheng",
+    "status": "active"
   },
   {
     "name": "Debug MCP Server in VSCode",
@@ -396,10 +460,13 @@
     "url": "/mcp/server/mcp-sample-vsc-debug/swatDong",
     "website": "https://github.com/swatDong/mcp-sample-vsc-debug",
     "tags": [
-      " mcp",
-      " debugging"
+      "development",
+      "tools",
+      "ide",
+      "integration"
     ],
-    "author": "swatDong"
+    "author": "swatDong",
+    "status": "active"
   },
   {
     "name": "Hologres MCP Server",
@@ -407,10 +474,13 @@
     "url": "/mcp/server/alibabacloud-hologres-mcp-server/aliyun",
     "website": "https://github.com/aliyun/alibabacloud-hologres-mcp-server",
     "tags": [
-      " hologres",
-      " mcp-server"
+      "database",
+      "storage",
+      "integration",
+      "api"
     ],
-    "author": "aliyun"
+    "author": "aliyun",
+    "status": "active"
   },
   {
     "name": "Swagger MCP 服务器",
@@ -421,7 +491,8 @@
       " swagger",
       " api"
     ],
-    "author": "tuskermanshu"
+    "author": "tuskermanshu",
+    "status": "active"
   },
   {
     "name": "Bilibili API MCP Server",
@@ -432,7 +503,8 @@
       " bilibili",
       " api"
     ],
-    "author": "huccihuang"
+    "author": "huccihuang",
+    "status": "active"
   },
   {
     "name": "Fetcher MCP",
@@ -440,7 +512,8 @@
     "url": "/mcp/server/fetcher-mcp/jae-jae",
     "website": "https://github.com/jae-jae/fetcher-mcp",
     "tags": [],
-    "author": "jae-jae"
+    "author": "jae-jae",
+    "status": "active"
   },
   {
     "name": "Fetcher",
@@ -451,7 +524,8 @@
       " fetch",
       " web-scraping"
     ],
-    "author": "jae-jae"
+    "author": "jae-jae",
+    "status": "active"
   },
   {
     "name": "Freecad",
@@ -462,7 +536,8 @@
       " freecad",
       " model-control-protocol"
     ],
-    "author": "bonninr"
+    "author": "bonninr",
+    "status": "active"
   },
   {
     "name": "NodeJS Debugger",
@@ -470,7 +545,8 @@
     "url": "/mcp/server/hyperdrive-eng/mcp-nodejs-debugger",
     "website": "https://github.com/hyperdrive-eng/mcp-nodejs-debugger",
     "tags": [],
-    "author": "Anonymous"
+    "author": "Anonymous",
+    "status": "active"
   },
   {
     "name": "MCP Dev Server UI",
@@ -481,7 +557,8 @@
       " mcp-server",
       " dev-server"
     ],
-    "author": "ianrichard"
+    "author": "ianrichard",
+    "status": "active"
   },
   {
     "name": "YouTube Transcript API Server",
@@ -492,7 +569,8 @@
       " youtube",
       " transcript"
     ],
-    "author": "minhleathvn"
+    "author": "minhleathvn",
+    "status": "active"
   },
   {
     "name": "Mcp Servers Wiki Website",
@@ -503,7 +581,8 @@
       " mcp-servers",
       " wiki"
     ],
-    "author": "suryansh-business-work"
+    "author": "suryansh-business-work",
+    "status": "active"
   },
   {
     "name": "mcp-server",
@@ -514,7 +593,8 @@
       " mcp-server",
       " mcp-servers"
     ],
-    "author": "yiGmMk"
+    "author": "yiGmMk",
+    "status": "active"
   },
   {
     "name": "InsightFlow",
@@ -525,7 +605,8 @@
       " insightflow",
       " analytics"
     ],
-    "author": "ilissrk"
+    "author": "ilissrk",
+    "status": "active"
   },
   {
     "name": "MCP Server Demo with Goose",
@@ -536,7 +617,8 @@
       " mcp-server",
       " goose"
     ],
-    "author": "schwannden"
+    "author": "schwannden",
+    "status": "active"
   },
   {
     "name": "Vapi MCP for Cursor",
@@ -544,7 +626,8 @@
     "url": "/mcp/server/vapi-mcp/matthewdcage",
     "website": "https://github.com/matthewdcage/vapi-mcp",
     "tags": [],
-    "author": "matthewdcage"
+    "author": "matthewdcage",
+    "status": "active"
   },
   {
     "name": "iOS Simulator MCP Tool",
@@ -555,7 +638,8 @@
       " ios-simulator",
       " mcp"
     ],
-    "author": "joshuayoes"
+    "author": "joshuayoes",
+    "status": "active"
   },
   {
     "name": "MCP Code Executor",
@@ -566,7 +650,8 @@
       " mcp_code_executor",
       " python-executor"
     ],
-    "author": "bazinga012"
+    "author": "bazinga012",
+    "status": "active"
   },
   {
     "name": "Task Planner MCP Server",
@@ -576,7 +661,8 @@
     "tags": [
       " mcp-server"
     ],
-    "author": "CaptainCrouton89"
+    "author": "CaptainCrouton89",
+    "status": "active"
   },
   {
     "name": "simple_mcp_server",
@@ -587,7 +673,8 @@
       " simple_mcp_server",
       " mcp"
     ],
-    "author": "natapone"
+    "author": "natapone",
+    "status": "active"
   },
   {
     "name": "mcp-gitee",
@@ -595,7 +682,8 @@
     "url": "/mcp/server/mcp-gitee/sunhao-java",
     "website": "https://github.com/sunhao-java/mcp-gitee",
     "tags": [],
-    "author": "sunhao-java"
+    "author": "sunhao-java",
+    "status": "active"
   },
   {
     "name": "Puppeteer-Extra MCP Server",
@@ -606,7 +694,8 @@
       " puppeteer",
       " browser-automation"
     ],
-    "author": "gpaul-faldin"
+    "author": "gpaul-faldin",
+    "status": "active"
   },
   {
     "name": "Remote MCP Server on Cloudflare",
@@ -617,7 +706,8 @@
       " remote-mcp-server",
       " cloudflare"
     ],
-    "author": "irvinebroque"
+    "author": "irvinebroque",
+    "status": "active"
   },
   {
     "name": "MCP (Message Control Program) Servers",
@@ -628,7 +718,8 @@
       " mcp",
       " message-control"
     ],
-    "author": "pocketkk"
+    "author": "pocketkk",
+    "status": "active"
   },
   {
     "name": "Hermes MCP",
@@ -638,7 +729,8 @@
     "tags": [
       " elixir",
       " mcp"
-    ]
+    ],
+    "status": "active"
   },
   {
     "name": "Meta MCP Server",
@@ -649,7 +741,8 @@
       " meta-mcp",
       " orchestration"
     ],
-    "author": "infinitimeless"
+    "author": "infinitimeless",
+    "status": "active"
   },
   {
     "name": "Bitable MCP Server",
@@ -660,7 +753,8 @@
       " mcp",
       " bitable"
     ],
-    "author": "lloydzhou"
+    "author": "lloydzhou",
+    "status": "active"
   },
   {
     "name": "mcp-yahoo-finance",
@@ -671,6 +765,7 @@
       " mcp",
       " yahoo-finance"
     ],
-    "author": "smartheye"
+    "author": "smartheye",
+    "status": "active"
   }
 ]
