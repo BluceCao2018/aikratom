@@ -200,7 +200,8 @@
       " everart",
       " image-generation"
     ],
-    "author": "modelcontextprotocol"
+    "author": "modelcontextprotocol",
+    "status": "active"
   },
   {
     "name": "Fetch",
@@ -211,7 +212,8 @@
       " web-fetching",
       " llm-tools"
     ],
-    "author": "modelcontextprotocol"
+    "author": "modelcontextprotocol",
+    "status": "active"
   },
   {
     "name": "Aws Kb Retrieval Server",
@@ -222,7 +224,8 @@
       " aws-kb-retrieval",
       " mcp-server"
     ],
-    "author": "modelcontextprotocol"
+    "author": "modelcontextprotocol",
+    "status": "active"
   },
   {
     "name": "Mcp Server Chatsum",
@@ -233,7 +236,8 @@
       " chatbot",
       " mcp-server"
     ],
-    "author": "chatmcp"
+    "author": "chatmcp",
+    "status": "active"
   },
   {
     "name": "Spring AI Example",
@@ -244,7 +248,8 @@
       " spring-ai",
       " ai-tools"
     ],
-    "author": "lucasdengcn"
+    "author": "lucasdengcn",
+    "status": "active"
   },
   {
     "name": "Modular MCP Server",
@@ -255,7 +260,8 @@
       " mcp-server",
       " go"
     ],
-    "author": "da-snap"
+    "author": "da-snap",
+    "status": "active"
   },
   {
     "name": "Minesweeper MCP Server",
@@ -266,7 +272,8 @@
       " minesweeper",
       " game-server"
     ],
-    "author": "tonypan2"
+    "author": "tonypan2",
+    "status": "active"
   },
   {
     "name": "MCP Auto Install",
@@ -277,7 +284,8 @@
       " mcp-auto-install",
       " mcp-server"
     ],
-    "author": "MyPrototypeWhat"
+    "author": "MyPrototypeWhat",
+    "status": "active"
   },
   {
     "name": "mcp-filesystem-server",
@@ -287,7 +295,9 @@
     "tags": [
       " mcp",
       " filesystem"
-    ]
+    ],
+    "author": "qiangmzsx",
+    "status": "active"
   },
   {
     "name": "mcp-turso",
@@ -298,7 +308,8 @@
       " mcp",
       " vector-database"
     ],
-    "author": "spences10"
+    "author": "spences10",
+    "status": "active"
   },
   {
     "name": "Bocha AI Web Search MCP Server",
@@ -309,7 +320,8 @@
       " bocha-ai",
       " web-search"
     ],
-    "author": "yoko19191"
+    "author": "yoko19191",
+    "status": "active"
   },
   {
     "name": "Bee Agent & MCP with Backstage",
@@ -320,7 +332,8 @@
       " mcp",
       " backstage"
     ],
-    "author": "evanshortiss"
+    "author": "evanshortiss",
+    "status": "active"
   },
   {
     "name": "Time-MCP",

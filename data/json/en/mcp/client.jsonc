@@ -258,7 +258,8 @@
     "url": "/mcp/client/n8n-coolify-mcp-tools/wrediam",
     "website": "https://github.com/wrediam/n8n-coolify-mcp-tools",
     "tags": [],
-    "author": "wrediam"
+    "author": "wrediam",
+    "status": "active"
   },
   {
     "name": "MCP TurboClient",
@@ -266,7 +267,8 @@
     "url": "/mcp/client/MCP-TurboClient/techspawn",
     "website": "https://github.com/techspawn/MCP-TurboClient",
     "tags": [],
-    "author": "techspawn"
+    "author": "techspawn",
+    "status": "active"
   },
   {
     "name": "MCP FastAPI Server",
@@ -274,7 +276,8 @@
     "url": "/mcp/client/chat-mcp/karthikv2k",
     "website": "https://github.com/karthikv2k/chat-mcp",
     "tags": [],
-    "author": "karthikv2k"
+    "author": "karthikv2k",
+    "status": "active"
   },
   {
     "name": "Hyper Mcp Terminal",
@@ -282,7 +285,8 @@
     "url": "/mcp/client/hyper-mcp-terminal/BigSweetPotatoStudio",
     "website": "https://github.com/bigsweetpotatostudio/hyper-mcp-terminal",
     "tags": [],
-    "author": "BigSweetPotatoStudio"
+    "author": "BigSweetPotatoStudio",
+    "status": "active"
   },
   {
     "name": "Repomix",
@@ -293,7 +297,8 @@
       " nodejs",
       " javascript"
     ],
-    "author": "yamadashy"
+    "author": "yamadashy",
+    "status": "active"
   },
   {
     "name": "MCP Client Example ☀️",
@@ -301,7 +306,8 @@
     "url": "/mcp/client/MCP_CLIENT/dev-mahfuj80",
     "website": "https://github.com/dev-mahfuj80/mcp_client",
     "tags": [],
-    "author": "dev-mahfuj80"
+    "author": "dev-mahfuj80",
+    "status": "active"
   },
   {
     "name": "MCP Agent Strategy",
@@ -309,7 +315,8 @@
     "url": "/mcp/client/dify-plugin-mcp_agent/hjlarry",
     "website": "https://github.com/hjlarry/dify-plugin-mcp_agent",
     "tags": [],
-    "author": "hjlarry"
+    "author": "hjlarry",
+    "status": "active"
   },
   {
     "name": "健康管理系统",
@@ -317,7 +324,8 @@
     "url": "/mcp/client/mcp-demo-frontend/bro-in-law",
     "website": "https://github.com/bro-in-law/mcp-demo-frontend",
     "tags": [],
-    "author": "bro-in-law"
+    "author": "bro-in-law",
+    "status": "active"
   },
   {
     "name": "LangChain.js MCP Adapters",
@@ -328,7 +336,8 @@
       " javascript",
       " typescript"
     ],
-    "author": "langchain-ai"
+    "author": "langchain-ai",
+    "status": "active"
   },
   {
     "name": "Mattermost MCP Host",
@@ -336,7 +345,8 @@
     "url": "/mcp/client/mattermost-mcp-host/jagan-shanmugam",
     "website": "https://github.com/jagan-shanmugam/mattermost-mcp-host",
     "tags": [],
-    "author": "jagan-shanmugam"
+    "author": "jagan-shanmugam",
+    "status": "active"
   },
   {
     "name": "NASA API Integration with MCP",
@@ -344,7 +354,8 @@
     "url": "/mcp/client/473-MCPProject/jmand626",
     "website": "https://github.com/jmand626/473-mcpproject",
     "tags": [],
-    "author": "jmand626"
+    "author": "jmand626",
+    "status": "active"
   },
   {
     "name": "MCP Proving Ground Client",
@@ -352,7 +363,8 @@
     "url": "/mcp/client/mcp-proving-ground-client/jlmelis",
     "website": "https://github.com/jlmelis/mcp-proving-ground-client",
     "tags": [],
-    "author": "jlmelis"
+    "author": "jlmelis",
+    "status": "active"
   },
   {
     "name": "Cursor Apple Notes Indexer",
