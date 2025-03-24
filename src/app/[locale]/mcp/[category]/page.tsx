@@ -158,6 +158,46 @@ const MCPCategory = async ({ params, searchParams }: PageProps) => {
 
   const categories = CATEGORIES[category as keyof typeof CATEGORIES];
 
+  // Calculate counts for each category
+  const categoryCounts = categories.map(cat => {
+    if (cat.id === 'all') {
+      return { ...cat, count: allData.length };
+    }
+    
+    return {
+      ...cat,
+      count: allData.filter((item: MCPItem) => {
+        const itemTags = item.tags.map(tag => tag.toLowerCase());
+        switch (cat.id) {
+          case 'development':
+            return itemTags.some(tag => ['development', 'tools', 'ide'].includes(tag));
+          case 'database':
+            return itemTags.some(tag => ['database', 'storage', 'redis', 'postgresql'].includes(tag));
+          case 'ai':
+            return itemTags.some(tag => ['ai', 'machine-learning', 'llm'].includes(tag));
+          case 'browser':
+            return itemTags.some(tag => ['browser', 'web', 'chrome'].includes(tag));
+          case 'integration':
+            return itemTags.some(tag => ['integration', 'api', 'sdk'].includes(tag));
+          case 'system':
+            return itemTags.some(tag => ['system', 'infrastructure', 'docker'].includes(tag));
+          case 'ide':
+            return itemTags.some(tag => ['ide', 'editor', 'vscode'].includes(tag));
+          case 'cli':
+            return itemTags.some(tag => ['cli', 'terminal', 'command-line'].includes(tag));
+          case 'gui':
+            return itemTags.some(tag => ['gui', 'desktop', 'application'].includes(tag));
+          case 'mobile':
+            return itemTags.some(tag => ['mobile', 'ios', 'android'].includes(tag));
+          case 'sdk':
+            return itemTags.some(tag => ['sdk', 'library', 'framework'].includes(tag));
+          default:
+            return false;
+        }
+      }).length
+    };
+  });
+
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50/50 to-slate-50/50 dark:from-blue-950/10 dark:to-slate-950/10">
       <div className="absolute inset-0 bg-[linear-gradient(to_right,#6B728015_1px,transparent_1px),linear-gradient(to_bottom,#6B728015_1px,transparent_1px)] bg-[size:48px_48px]" />
@@ -190,18 +230,26 @@ const MCPCategory = async ({ params, searchParams }: PageProps) => {
         </div>
 
         <div className="flex flex-wrap gap-2 mb-8">
-          {categories.map((cat) => (
+          {categoryCounts.map((cat) => (
             <Link
               key={cat.id}
               href={`/mcp/${category}?filter=${cat.id}${keyword ? `&q=${keyword}` : ''}`}
               className={cn(
-                "px-4 py-2 rounded-full text-sm font-medium transition-colors",
+                "px-4 py-2 rounded-full text-sm font-medium transition-colors flex items-center gap-2",
                 currentFilter === cat.id
                   ? "bg-primary text-primary-foreground"
                   : "bg-muted hover:bg-muted/80"
               )}
             >
-              {cat.label}
+              <span>{cat.label}</span>
+              <span className={cn(
+                "px-2 py-0.5 rounded-full text-xs",
+                currentFilter === cat.id
+                  ? "bg-primary-foreground/20 text-primary-foreground"
+                  : "bg-background text-blue-500"
+              )}>
+                {cat.count}
+              </span>
             </Link>
           ))}
         </div>
